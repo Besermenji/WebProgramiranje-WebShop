@@ -1,0 +1,44 @@
+$(document).ready(function(){
+	 $.ajax({
+			type:"POST",
+			url:"BasketServlet",
+			data:{
+				"type":"init",
+				"user":$("#user_id").val()
+			},
+			dataType: 'json',
+			success: function(data){
+				
+				var total = 0;
+				
+				//ubacivanje kupca u listu
+				var buyer = JSON.stringify(data[0].buyer);
+				buyer = buyer.substring(1,buyer.length-1);
+			    $('#buyer').text(buyer);
+				
+			    //ubacivanje poreza
+			    var taxes = JSON.stringify(data[1].taxes);
+			    taxes = taxes.substring(1, taxes.length-1);
+			    $("#taxes").text(taxes);
+			    
+			    //datum
+			    var date = JSON.stringify(data[2].date);
+			    date = date.substring(1,date.length-1);
+			    $("#date").text(date);
+			
+			    //vreme
+			    var time = JSON.stringify(data[3].time);
+			    time = time.substring(1 ,time.length-1);
+			    $("#time").text(time);
+			    
+			    
+			    for(var i = 0; i<data[4].length;i++){
+			    	var name = JSON.stringify(data[4][i].name);
+			    	name = name.substring(1, name.length-1);
+			    	alert(name);
+			    }
+			
+			}
+			
+		});
+});

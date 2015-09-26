@@ -1,0 +1,102 @@
+package servlets;
+
+import java.io.IOException;
+import java.util.ArrayList;
+
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+import beans.Product;
+import beans.Reciept;
+import beans.Service;
+import beans.dbPlay;
+
+/**
+ * Servlet implementation class BasketServlet
+ */
+@WebServlet(asyncSupported = true, urlPatterns = { "/BasketServlet" })
+public class BasketServlet extends HttpServlet {
+	private static final long serialVersionUID = 1L;
+       
+    /**
+     * @see HttpServlet#HttpServlet()
+     */
+    public BasketServlet() {
+        super();
+        // TODO Auto-generated constructor stub
+    }
+
+	/**
+	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
+	 */
+	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		// TODO Auto-generated method stub
+	}
+
+	/**
+	 * @see HttpServlet#doPost(HttpServletRequest request, HttpServletResponse response)
+	 */
+	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		// TODO Auto-generated method stub
+		
+		String product_id = request.getParameter("product_id");
+		String service_id = request.getParameter("service_id");
+		String user = request.getParameter("user");
+		String type = request.getParameter("type");
+		
+		dbPlay db = new dbPlay();
+		
+		//ako je stisnuto dugme za dodavanje novog korisnika
+		if(type.equals("add_product")){
+			Reciept rec;
+			
+				rec = db.getBasket(user);
+							
+			//ako korisnik nema korpu
+	
+			Product p = db.getProduct(product_id);
+			//dodajemo novi produkt i smanjujemo mu kolicinu za 1
+				
+			
+			String q = null;
+			int quantity = Integer.parseInt(p.getQuantity());
+			if(quantity>0){
+				quantity--;
+				q = Integer.toString(quantity);
+				p.setQuantity(q);
+				db.updateProduct(p);
+				if(!p.getFreeService().equals("ne")&&p.getFreeService().equals("")){
+					
+					Service s = db.getService(p.getFreeService());
+					s.setPrice("0");
+					rec.addService(s);
+				
+			}
+			
+			rec.addProduct(p);
+			db.createBasket(rec, user);
+			}
+			
+			
+			if(q == null){
+				response.getWriter().write("Fail ");
+				return;
+			}
+			response.getWriter().write("True "+q);
+			return;
+		}
+		else if(type.equals("add_service")){
+			Reciept rec = db.getBasket(user);
+			Service s = db.getService(product_id);
+			rec.addService(s);
+			db.createBasket(rec, user);
+			response.getWriter().write("True");
+			return;
+		}
+		
+	}
+
+}

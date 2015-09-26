@@ -1,0 +1,13 @@
+$(document).ready(function(){
+	$.ajax({
+        type: "POST",
+        url:"BasketServlet",   // this is my servlet
+        data:{"type":"init",
+        	"user":$("$user_id").val()},
+    	dataType: 'json',
+        success: function (data) {
+        	alert(JSON.stringify(data));
+        
+        }
+    });
+});

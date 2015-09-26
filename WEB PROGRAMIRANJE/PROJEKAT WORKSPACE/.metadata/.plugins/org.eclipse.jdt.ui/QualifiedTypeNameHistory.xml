@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.fusesource.leveldbjni.internal.NativeDB"/>
+<fullyQualifiedTypeName name="org.fusesource.leveldbjni.internal.NativeDB.DBException"/>
+<fullyQualifiedTypeName name="org.iq80.leveldb.DBException"/>
+<fullyQualifiedTypeName name="java.lang.Object"/>
+<fullyQualifiedTypeName name="javax.servlet.RequestDispatcher"/>
+<fullyQualifiedTypeName name="javax.swing.text.html.Option"/>
+<fullyQualifiedTypeName name="javax.servlet.http.HttpSession"/>
+<fullyQualifiedTypeName name="java.lang.ArrayStoreException"/>
+<fullyQualifiedTypeName name="org.apache.catalina.Service"/>
+<fullyQualifiedTypeName name="com.sun.org.apache.xpath.internal.axes.SubContextList"/>
+<fullyQualifiedTypeName name="org.omg.PortableInterceptor.USER_EXCEPTION"/>
+<fullyQualifiedTypeName name="beans.Salon"/>
+<fullyQualifiedTypeName name="beans.Category"/>
+<fullyQualifiedTypeName name="java.io.Serializable"/>
+<fullyQualifiedTypeName name="java.lang.IllegalArgumentException"/>
+<fullyQualifiedTypeName name="org.iq80.leveldb.DBIterator"/>
+<fullyQualifiedTypeName name="org.json.simple.parser.JSONParser"/>
+<fullyQualifiedTypeName name="org.iq80.leveldb.DB"/>
+<fullyQualifiedTypeName name="java.lang.NullPointerException"/>
+<fullyQualifiedTypeName name="beans.Service"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
+<fullyQualifiedTypeName name="java.sql.Date"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="com.sun.org.apache.xalan.internal.xsltc.compiler.sym"/>
+<fullyQualifiedTypeName name="org.iq80.leveldb.Options"/>
+<fullyQualifiedTypeName name="beans.Report"/>
+<fullyQualifiedTypeName name="java.text.DateFormat"/>
+<fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+<fullyQualifiedTypeName name="beans.User"/>
+<fullyQualifiedTypeName name="com.sun.org.apache.bcel.internal.generic.NEWARRAY"/>
+<fullyQualifiedTypeName name="beans.Product"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="org.json.simple.JSONObject"/>
+<fullyQualifiedTypeName name="beans.dbPlay"/>
+<fullyQualifiedTypeName name="beans.Reciept"/>
+<fullyQualifiedTypeName name="org.json.simple.JSONArray"/>
+</qualifiedTypeNameHistroy>

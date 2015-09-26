@@ -1,0 +1,15 @@
+$(document).ready(function(){
+	 $.ajax({
+			type:"POST",
+			url:"BasketServlet",
+			data:{
+				"type":"init",
+				"user":$("#user_id").val()
+			},
+			success: function(data){
+				var s = JSON.stringify(data);
+				alert(s);
+			}
+			
+		});
+});

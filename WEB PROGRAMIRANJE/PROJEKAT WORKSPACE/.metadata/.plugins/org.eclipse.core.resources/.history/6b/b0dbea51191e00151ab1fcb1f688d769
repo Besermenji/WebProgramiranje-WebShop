@@ -1,0 +1,7 @@
+$(document).ready(function(){
+	var id = $("#user_id").val();
+	alert(id);
+	
+	
+	
+});

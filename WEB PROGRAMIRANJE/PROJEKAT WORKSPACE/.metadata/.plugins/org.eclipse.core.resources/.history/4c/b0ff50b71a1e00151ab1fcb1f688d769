@@ -1,0 +1,27 @@
+$(document).ready(function(){
+	var id = $("#user_id").val();
+	if(id==""){
+		$(location).attr('href','izborUloga.jsp');
+	}
+	else{
+		$.ajax({
+            type: "POST",
+            url:"LoginCheckServlet",   // this is my servlet
+            data:{"username":user,"password":pwd,"role":"ADMIN"},
+            success: function (data) {
+                 // I want to call my home page from here
+            	var s = data.split(" ");
+            	//alert(s[1]);
+            	if(s[0]=='True'){
+                    $(location).attr('href','adminStartPage.jsp?user='+s[1]);
+                  }else{
+                	  $.smkAlert({
+              		    text: 'Neuspesna prijava na sistem',
+              		    type: 'danger',
+              		    time: 10
+              		  });
+        
+	}
+	
+	
+});

@@ -1,0 +1,1382 @@
+
+Jun 24, 2015 21:58:23.44 NEW SESSION
+Jun 24, 2015 21:58:23.44 [GFX1-]: [D2D1.1] 4CreateBitmap failure Size(28,25287) Code: 0x80070057
+Jun 24, 2015 22:21:15.85 [GFX1-]: [D2D1.1] 4CreateBitmap failure Size(28,25287) Code: 0x80070057
+Jun 24, 2015 22:28:07.51 [GFX1-]: [D2D1.1] 4CreateBitmap failure Size(28,25287) Code: 0x80070057
+Jun 24, 2015 22:28:12.18 [GFX1-]: [D2D1.1] 4CreateBitmap failure Size(28,25287) Code: 0x80070057
+Jun 24, 2015 22:32:35.48 WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+Jun 24, 2015 22:32:35.48 pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+Jun 24, 2015 22:32:35.48 nsBrowserAccess.prototype.openURI@chrome://browser/content/browser.js:15258:21
+Jun 24, 2015 22:33:43.63 WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+Jun 24, 2015 22:33:43.63 pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+Jun 24, 2015 22:33:43.64 nsBrowserAccess.prototype.openURI@chrome://browser/content/browser.js:15258:21
+Jun 24, 2015 22:33:43.64 nl@https://mail.google.com/_/scs/mail-static/_/js/k=gmail.main.sr.4mS5MX5qz1A.O/m=m_i,t,it/am=PiMawvzf-4MYY5Bd-kjF_v33u0uKn30e_t2bAJK9APi_2f8D-D9wH30hAQ/rt=h/d=1/t=zcms/rs=AHGWq9BgSP_RT4tNI0sdRnYMHU02n5M9hw:730:125
+Jun 24, 2015 22:33:43.64 ncb.prototype.openWindow@https://mail.google.com/_/scs/mail-static/_/js/k=gmail.main.sr.4mS5MX5qz1A.O/m=m_i,t,it/am=PiMawvzf-4MYY5Bd-kjF_v33u0uKn30e_t2bAJK9APi_2f8D-D9wH30hAQ/rt=h/d=1/t=zcms/rs=AHGWq9BgSP_RT4tNI0sdRnYMHU02n5M9hw:1747:108
+Jun 24, 2015 22:33:43.64 ocb@https://mail.google.com/_/scs/mail-static/_/js/k=gmail.main.sr.4mS5MX5qz1A.O/m=m_i,t,it/am=PiMawvzf-4MYY5Bd-kjF_v33u0uKn30e_t2bAJK9APi_2f8D-D9wH30hAQ/rt=h/d=1/t=zcms/rs=AHGWq9BgSP_RT4tNI0sdRnYMHU02n5M9hw:1748:247
+Jun 24, 2015 22:33:43.64 tw@https://mail.google.com/_/scs/mail-static/_/js/k=gmail.main.sr.4mS5MX5qz1A.O/m=m_i,t,it/am=PiMawvzf-4MYY5Bd-kjF_v33u0uKn30e_t2bAJK9APi_2f8D-D9wH30hAQ/rt=h/d=1/t=zcms/rs=AHGWq9BgSP_RT4tNI0sdRnYMHU02n5M9hw:1748:57
+Jun 24, 2015 22:33:43.64 f.mK@https://mail.google.com/_/scs/mail-static/_/js/k=gmail.main.sr.4mS5MX5qz1A.O/m=m_i,t,it/am=PiMawvzf-4MYY5Bd-kjF_v33u0uKn30e_t2bAJK9APi_2f8D-D9wH30hAQ/rt=h/d=1/t=zcms/rs=AHGWq9BgSP_RT4tNI0sdRnYMHU02n5M9hw:2564:66
+Jun 24, 2015 22:33:43.64 QL.prototype.Lg@/_/scs/mail-static/_/js/k=gmail.main.sr.4mS5MX5qz1A.O/m=sy452,sy175,sy430,sy434,sy442,sy352,sy322,sy432,sy438,sy444,sy443,sy441,sy456,sy426,sy61,sy429,sy440,sy447,sy455,sy464,sy460,sy56,sy189,sy199,sy231,sy412,sy425,sy427,sy428,sy431,sy433,sy435,sy439,sy445,sy448,sy454,sy458,sy459,sy465,sy461,sy462,sy463,sy468,cv/am=PiMawvzf-4MYY5Bd-kjF_v33u0uKn30e_t2bAJK9APi_2f8D-D9wH30hAQ/rt=j/t=zcms/rs=AHGWq9BgSP_RT4tNI0sdRnYMHU02n5M9hw:954:426
+Jun 24, 2015 22:33:43.64 QL.prototype.HXa@/_/scs/mail-static/_/js/k=gmail.main.sr.4mS5MX5qz1A.O/m=sy452,sy175,sy430,sy434,sy442,sy352,sy322,sy432,sy438,sy444,sy443,sy441,sy456,sy426,sy61,sy429,sy440,sy447,sy455,sy464,sy460,sy56,sy189,sy199,sy231,sy412,sy425,sy427,sy428,sy431,sy433,sy435,sy439,sy445,sy448,sy454,sy458,sy459,sy465,sy461,sy462,sy463,sy468,cv/am=PiMawvzf-4MYY5Bd-kjF_v33u0uKn30e_t2bAJK9APi_2f8D-D9wH30hAQ/rt=j/t=zcms/rs=AHGWq9BgSP_RT4tNI0sdRnYMHU02n5M9hw:951:346
+Jun 24, 2015 22:33:43.64 xda@https://mail.google.com/_/scs/mail-static/_/js/k=gmail.main.sr.4mS5MX5qz1A.O/m=m_i,t,it/am=PiMawvzf-4MYY5Bd-kjF_v33u0uKn30e_t2bAJK9APi_2f8D-D9wH30hAQ/rt=h/d=1/t=zcms/rs=AHGWq9BgSP_RT4tNI0sdRnYMHU02n5M9hw:92:464
+Jun 24, 2015 22:33:43.64 sda@https://mail.google.com/_/scs/mail-static/_/js/k=gmail.main.sr.4mS5MX5qz1A.O/m=m_i,t,it/am=PiMawvzf-4MYY5Bd-kjF_v33u0uKn30e_t2bAJK9APi_2f8D-D9wH30hAQ/rt=h/d=1/t=zcms/rs=AHGWq9BgSP_RT4tNI0sdRnYMHU02n5M9hw:93:459
+Jun 24, 2015 22:33:43.64 mfa/<@https://mail.google.com/_/scs/mail-static/_/js/k=gmail.main.sr.4mS5MX5qz1A.O/m=m_i,t,it/am=PiMawvzf-4MYY5Bd-kjF_v33u0uKn30e_t2bAJK9APi_2f8D-D9wH30hAQ/rt=h/d=1/t=zcms/rs=AHGWq9BgSP_RT4tNI0sdRnYMHU02n5M9hw:157:256
+Jun 24, 2015 22:33:43.64 ke.prototype.ha/c@https://mail.google.com/_/scs/mail-static/_/js/k=gmail.main.sr.4mS5MX5qz1A.O/m=m_i,t,it/am=PiMawvzf-4MYY5Bd-kjF_v33u0uKn30e_t2bAJK9APi_2f8D-D9wH30hAQ/rt=h/d=1/t=zcms/rs=AHGWq9BgSP_RT4tNI0sdRnYMHU02n5M9hw:154:134
+Jun 24, 2015 22:33:43.64 qda/b<@https://mail.google.com/_/scs/mail-static/_/js/k=gmail.main.sr.4mS5MX5qz1A.O/m=m_i,t,it/am=PiMawvzf-4MYY5Bd-kjF_v33u0uKn30e_t2bAJK9APi_2f8D-D9wH30hAQ/rt=h/d=1/t=zcms/rs=AHGWq9BgSP_RT4tNI0sdRnYMHU02n5M9hw:90:67
+Jun 24, 2015 22:35:37.07 [GFX1-]: [D2D1.1] 4CreateBitmap failure Size(28,25287) Code: 0x80070057
+Jun 24, 2015 22:49:54.52 [GFX1-]: [D2D1.1] 4CreateBitmap failure Size(28,25287) Code: 0x80070057
+Jun 24, 2015 22:52:23.87 ThreadSources.prototype._fetchSourceMap threw an exception: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+Jun 24, 2015 22:52:23.88 Stack: SourceMapConsumer@resource://gre/modules/devtools/SourceMap.jsm:67:19
+Jun 24, 2015 22:52:23.88 ThreadSources.prototype._fetchSourceMap/fetching<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:5453:19
+Jun 24, 2015 22:52:23.88 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:867:23
+Jun 24, 2015 22:52:23.89 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:746:7
+Jun 24, 2015 22:52:23.89 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:688:37
+Jun 24, 2015 22:52:23.89 EventLoop.prototype.enter@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:371:5
+Jun 24, 2015 22:52:23.89 ThreadActor.prototype._pushThreadPause@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:580:5
+Jun 24, 2015 22:52:23.89 ThreadActor.prototype.onAttach@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:692:7
+Jun 24, 2015 22:52:23.89 DSC_onPacket@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/main.js:1450:15
+Jun 24, 2015 22:52:23.89 LocalDebuggerTransport.prototype.send/<@resource://gre/modules/devtools/dbg-client.jsm -> resource://gre/modules/devtools/transport/transport.js:561:11
+Jun 24, 2015 22:52:23.89 makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/DevToolsUtils.js:82:14
+Jun 24, 2015 22:52:23.89 makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/DevToolsUtils.js:82:14
+Jun 24, 2015 22:52:23.89 Line: 67, column: 18
+Jun 24, 2015 22:53:03.54 ThreadSources.prototype._fetchSourceMap threw an exception: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+Jun 24, 2015 22:53:03.54 Stack: SourceMapConsumer@resource://gre/modules/devtools/SourceMap.jsm:67:19
+Jun 24, 2015 22:53:03.54 ThreadSources.prototype._fetchSourceMap/fetching<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:5453:19
+Jun 24, 2015 22:53:03.54 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:867:23
+Jun 24, 2015 22:53:03.54 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:746:7
+Jun 24, 2015 22:53:03.54 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:688:37
+Jun 24, 2015 22:53:03.54 Line: 67, column: 18
+Jun 24, 2015 22:54:41.12 Handler function DebuggerClient.requester threw an exception: Error: resume command sent while not paused. Currently resuming
+Jun 24, 2015 22:54:41.12 Stack: ThreadClient.prototype._assertPaused@resource://gre/modules/devtools/dbg-client.jsm:1462:13
+Jun 24, 2015 22:54:41.12 ThreadClient.prototype._doResume<.before@resource://gre/modules/devtools/dbg-client.jsm:1482:7
+Jun 24, 2015 22:54:41.12 DebuggerClient.requester/<@resource://gre/modules/devtools/dbg-client.jsm:337:24
+Jun 24, 2015 22:54:41.12 makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/DevToolsUtils.js:82:14
+Jun 24, 2015 22:54:41.12 ThreadClient.prototype.stepOut@resource://gre/modules/devtools/dbg-client.jsm:1568:5
+Jun 24, 2015 22:54:41.12 DebuggerTool.prototype<.stepOut@chrome://firebug/content/debugger/debuggerTool.js:407:1
+Jun 24, 2015 22:54:41.12 Firebug.Debugger<.stepOut@chrome://firebug/content/debugger/debugger.js:399:9
+Jun 24, 2015 22:54:41.12 oncommand@chrome://firebug/content/firefox/firebugFrame.xul:1:1
+Jun 24, 2015 22:54:41.12 EventLoop.prototype.enter@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:371:5
+Jun 24, 2015 22:54:41.12 ThreadActor.prototype._pushThreadPause@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:580:5
+Jun 24, 2015 22:54:41.12 ThreadActor.prototype._pauseAndRespond@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:779:7
+Jun 24, 2015 22:54:41.12 ThreadActor.prototype._makeSteppingHooks/steppingHookState.pauseAndRespond@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:913:16
+Jun 24, 2015 22:54:41.12 ThreadActor.prototype._makeOnPop/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:836:1
+Jun 24, 2015 22:54:41.12 x.event.add/y.handle@http://localhost:8080/WebShop/js/jquery.min.js:5:6271
+Jun 24, 2015 22:54:41.12 Line: 1462, column: 12
+Jun 24, 2015 22:54:41.12 Handler function DebuggerClient.requester threw an exception: Error: resume command sent while not paused. Currently resuming
+Jun 24, 2015 22:54:41.12 Stack: ThreadClient.prototype._assertPaused@resource://gre/modules/devtools/dbg-client.jsm:1462:13
+Jun 24, 2015 22:54:41.12 ThreadClient.prototype._doResume<.before@resource://gre/modules/devtools/dbg-client.jsm:1482:7
+Jun 24, 2015 22:54:41.12 DebuggerClient.requester/<@resource://gre/modules/devtools/dbg-client.jsm:337:24
+Jun 24, 2015 22:54:41.12 makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/DevToolsUtils.js:82:14
+Jun 24, 2015 22:54:41.12 ThreadClient.prototype.stepOut@resource://gre/modules/devtools/dbg-client.jsm:1568:5
+Jun 24, 2015 22:54:41.12 DebuggerTool.prototype<.stepOut@chrome://firebug/content/debugger/debuggerTool.js:407:1
+Jun 24, 2015 22:54:41.12 Firebug.Debugger<.stepOut@chrome://firebug/content/debugger/debugger.js:399:9
+Jun 24, 2015 22:54:41.12 oncommand@chrome://firebug/content/firefox/firebugFrame.xul:1:1
+Jun 24, 2015 22:54:41.12 EventLoop.prototype.enter@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:371:5
+Jun 24, 2015 22:54:41.12 ThreadActor.prototype._pushThreadPause@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:580:5
+Jun 24, 2015 22:54:41.12 ThreadActor.prototype._pauseAndRespond@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:779:7
+Jun 24, 2015 22:54:41.12 ThreadActor.prototype._makeSteppingHooks/steppingHookState.pauseAndRespond@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:913:16
+Jun 24, 2015 22:54:41.12 ThreadActor.prototype._makeOnPop/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:836:1
+Jun 24, 2015 22:54:41.12 x.event.add/y.handle@http://localhost:8080/WebShop/js/jquery.min.js:5:6271
+Jun 24, 2015 22:54:41.12 Line: 1462, column: 12
+Jun 24, 2015 22:54:41.12 Handler function DebuggerClient.requester threw an exception: Error: resume command sent while not paused. Currently resuming
+Jun 24, 2015 22:54:41.12 Stack: ThreadClient.prototype._assertPaused@resource://gre/modules/devtools/dbg-client.jsm:1462:13
+Jun 24, 2015 22:54:41.15 ThreadClient.prototype._doResume<.before@resource://gre/modules/devtools/dbg-client.jsm:1482:7
+Jun 24, 2015 22:54:41.15 DebuggerClient.requester/<@resource://gre/modules/devtools/dbg-client.jsm:337:24
+Jun 24, 2015 22:54:41.15 makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/DevToolsUtils.js:82:14
+Jun 24, 2015 22:54:41.15 ThreadClient.prototype.stepOut@resource://gre/modules/devtools/dbg-client.jsm:1568:5
+Jun 24, 2015 22:54:41.15 DebuggerTool.prototype<.stepOut@chrome://firebug/content/debugger/debuggerTool.js:407:1
+Jun 24, 2015 22:54:41.15 Firebug.Debugger<.stepOut@chrome://firebug/content/debugger/debugger.js:399:9
+Jun 24, 2015 22:54:41.15 oncommand@chrome://firebug/content/firefox/firebugFrame.xul:1:1
+Jun 24, 2015 22:54:41.15 EventLoop.prototype.enter@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:371:5
+Jun 24, 2015 22:54:41.15 ThreadActor.prototype._pushThreadPause@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:580:5
+Jun 24, 2015 22:54:41.15 ThreadActor.prototype._pauseAndRespond@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:779:7
+Jun 24, 2015 22:54:41.15 ThreadActor.prototype._makeSteppingHooks/steppingHookState.pauseAndRespond@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:913:16
+Jun 24, 2015 22:54:41.15 ThreadActor.prototype._makeOnPop/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:836:1
+Jun 24, 2015 22:54:41.15 x.event.add/y.handle@http://localhost:8080/WebShop/js/jquery.min.js:5:6271
+Jun 24, 2015 22:54:41.15 Line: 1462, column: 12
+Jun 25, 2015 01:24:36.41 ThreadSources.prototype._fetchSourceMap threw an exception: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+Jun 25, 2015 01:24:36.41 Stack: SourceMapConsumer@resource://gre/modules/devtools/SourceMap.jsm:67:19
+Jun 25, 2015 01:24:36.41 ThreadSources.prototype._fetchSourceMap/fetching<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:5453:19
+Jun 25, 2015 01:24:36.41 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:867:23
+Jun 25, 2015 01:24:36.41 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:746:7
+Jun 25, 2015 01:24:36.41 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:688:37
+Jun 25, 2015 01:24:36.41 EventLoop.prototype.enter@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:371:5
+Jun 25, 2015 01:24:36.41 ThreadActor.prototype._pushThreadPause@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:580:5
+Jun 25, 2015 01:24:36.41 ThreadActor.prototype.onAttach@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:692:7
+Jun 25, 2015 01:24:36.41 DSC_onPacket@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/main.js:1450:15
+Jun 25, 2015 01:24:36.41 LocalDebuggerTransport.prototype.send/<@resource://gre/modules/devtools/dbg-client.jsm -> resource://gre/modules/devtools/transport/transport.js:561:11
+Jun 25, 2015 01:24:36.41 makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/DevToolsUtils.js:82:14
+Jun 25, 2015 01:24:36.41 makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/DevToolsUtils.js:82:14
+Jun 25, 2015 01:24:36.41 Line: 67, column: 18
+Jun 25, 2015 01:25:50.30 ThreadSources.prototype._fetchSourceMap threw an exception: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+Jun 25, 2015 01:25:50.30 Stack: SourceMapConsumer@resource://gre/modules/devtools/SourceMap.jsm:67:19
+Jun 25, 2015 01:25:50.30 ThreadSources.prototype._fetchSourceMap/fetching<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:5453:19
+Jun 25, 2015 01:25:50.30 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:867:23
+Jun 25, 2015 01:25:50.30 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:746:7
+Jun 25, 2015 01:25:50.30 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:688:37
+Jun 25, 2015 01:25:50.30 Line: 67, column: 18
+
+Jun 27, 2015 24:21:29.54 NEW SESSION
+Jun 27, 2015 24:21:29.56 [GFX1-]: [D2D1.1] 4CreateBitmap failure Size(28,25287) Code: 0x80070057
+Jun 27, 2015 24:21:29.58 [GFX1-]: [D2D1.1] 4CreateBitmap failure Size(28,25287) Code: 0x80070057
+Jun 27, 2015 24:23:56.54 [GFX1-]: [D2D1.1] 4CreateBitmap failure Size(28,25287) Code: 0x80070057
+Jun 27, 2015 24:27:09.54 WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+Jun 27, 2015 24:27:09.54 pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+Jun 27, 2015 24:27:09.54 nsBrowserAccess.prototype.openURI@chrome://browser/content/browser.js:15258:21
+Jun 27, 2015 24:27:55.75 [GFX1-]: [D2D1.1] 4CreateBitmap failure Size(28,25287) Code: 0x80070057
+Jun 27, 2015 24:28:16.86 [GFX1-]: [D2D1.1] 4CreateBitmap failure Size(28,25287) Code: 0x80070057
+Jun 27, 2015 24:28:21.57 W/MPEG4Extractor( 5652): Error -1004 parsing chuck at offset 0 looking for first track
+Jun 27, 2015 24:29:35.27 [GFX1-]: [D2D1.1] 4CreateBitmap failure Size(28,25287) Code: 0x80070057
+Jun 27, 2015 24:30:23.18 W/MPEG4Extractor( 5652): Error -1004 parsing chuck at offset 0 looking for first track
+Jun 27, 2015 24:30:28.61 WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+Jun 27, 2015 24:30:28.61 pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+Jun 27, 2015 24:30:28.62 nsBrowserAccess.prototype.openURI@chrome://browser/content/browser.js:15258:21
+Jun 27, 2015 24:35:21.40 [GFX1-]: [D2D1.1] 4CreateBitmap failure Size(28,25287) Code: 0x80070057
+Jun 27, 2015 24:39:51.54 [GFX1-]: [D2D1.1] 4CreateBitmap failure Size(28,25287) Code: 0x80070057
+Jun 27, 2015 24:41:52.82 [GFX1-]: [D2D1.1] 4CreateBitmap failure Size(28,25287) Code: 0x80070057
+Jun 27, 2015 24:43:52.83 [GFX1-]: [D2D1.1] 4CreateBitmap failure Size(28,25287) Code: 0x80070057
+Jun 27, 2015 24:46:22.83 [GFX1-]: [D2D1.1] 4CreateBitmap failure Size(28,25287) Code: 0x80070057
+Jun 27, 2015 24:49:21.00 [GFX1-]: [D2D1.1] 4CreateBitmap failure Size(28,25287) Code: 0x80070057
+Jun 27, 2015 24:49:21.06 [GFX1-]: [D2D1.1] 4CreateBitmap failure Size(28,25287) Code: 0x80070057
+Jun 27, 2015 24:50:22.95 [GFX1-]: [D2D1.1] 4CreateBitmap failure Size(28,25287) Code: 0x80070057
+Jun 27, 2015 24:52:22.95 [GFX1-]: [D2D1.1] 4CreateBitmap failure Size(28,25287) Code: 0x80070057
+Jun 27, 2015 24:54:52.96 [GFX1-]: [D2D1.1] 4CreateBitmap failure Size(28,25287) Code: 0x80070057
+Jun 27, 2015 24:57:22.97 [GFX1-]: [D2D1.1] 4CreateBitmap failure Size(28,25287) Code: 0x80070057
+Jun 27, 2015 24:59:22.98 [GFX1-]: [D2D1.1] 4CreateBitmap failure Size(28,25287) Code: 0x80070057
+Jun 27, 2015 01:01:22.98 [GFX1-]: [D2D1.1] 4CreateBitmap failure Size(28,25287) Code: 0x80070057
+Jun 27, 2015 01:03:52.99 [GFX1-]: [D2D1.1] 4CreateBitmap failure Size(28,25287) Code: 0x80070057
+Jun 27, 2015 01:07:10.80 [GFX1-]: [D2D1.1] 4CreateBitmap failure Size(28,25287) Code: 0x80070057
+Jun 27, 2015 01:08:53.03 [GFX1-]: [D2D1.1] 4CreateBitmap failure Size(28,25287) Code: 0x80070057
+Jun 27, 2015 01:10:53.04 [GFX1-]: [D2D1.1] 4CreateBitmap failure Size(28,25287) Code: 0x80070057
+Jun 27, 2015 01:13:23.05 [GFX1-]: [D2D1.1] 4CreateBitmap failure Size(28,25287) Code: 0x80070057
+Jun 27, 2015 01:15:53.05 [GFX1-]: [D2D1.1] 4CreateBitmap failure Size(28,25287) Code: 0x80070057
+Jun 27, 2015 01:19:26.21 [GFX1-]: [D2D1.1] 4CreateBitmap failure Size(28,25287) Code: 0x80070057
+Jun 27, 2015 01:21:14.69 [GFX1-]: [D2D1.1] 4CreateBitmap failure Size(28,25287) Code: 0x80070057
+Jun 27, 2015 01:25:23.14 [GFX1-]: [D2D1.1] 4CreateBitmap failure Size(28,25287) Code: 0x80070057
+Jun 27, 2015 01:27:17.16 WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+Jun 27, 2015 01:27:17.16 pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+Jun 27, 2015 01:27:17.16 nsBrowserAccess.prototype.openURI@chrome://browser/content/browser.js:15258:21
+Jun 27, 2015 01:27:17.16 popunder/a.ljPop@http://efukt.com/:724:904
+Jun 27, 2015 01:27:17.16 popunder@http://efukt.com/:724:975
+Jun 27, 2015 01:27:17.17 document.body.onclick@http://efukt.com/:724:2006
+Jun 27, 2015 01:27:17.46 WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+Jun 27, 2015 01:27:17.46 pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+Jun 27, 2015 01:27:17.46 nsBrowserAccess.prototype.openURI@chrome://browser/content/browser.js:15258:21
+Jun 27, 2015 01:27:23.86 WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+Jun 27, 2015 01:27:23.86 pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+Jun 27, 2015 01:27:23.86 nsBrowserAccess.prototype.openURI@chrome://browser/content/browser.js:15258:21
+Jun 27, 2015 01:30:44.99 WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+Jun 27, 2015 01:30:44.99 pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+Jun 27, 2015 01:30:44.99 nsBrowserAccess.prototype.openURI@chrome://browser/content/browser.js:15258:21
+Jun 27, 2015 01:30:44.99 popunder/a.ljPop@http://inhumanity.com/?utm_source=efukt&utm_medium=nav&utm_campaign=nav1:518:947
+Jun 27, 2015 01:30:44.99 popunder@http://inhumanity.com/?utm_source=efukt&utm_medium=nav&utm_campaign=nav1:518:1018
+Jun 27, 2015 01:30:44.99 document.body.onclick@http://inhumanity.com/?utm_source=efukt&utm_medium=nav&utm_campaign=nav1:518:2049
+Jun 27, 2015 01:30:45.45 WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+Jun 27, 2015 01:30:45.45 pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+Jun 27, 2015 01:30:45.45 nsBrowserAccess.prototype.openURI@chrome://browser/content/browser.js:15258:21
+Jun 27, 2015 01:30:57.97 E/MPEG4Extractor( 5652): No width or height, assuming worst case 1080p
+Jun 27, 2015 01:31:07.07 WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+Jun 27, 2015 01:31:07.07 pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+Jun 27, 2015 01:31:07.07 nsBrowserAccess.prototype.openURI@chrome://browser/content/browser.js:15258:21
+Jun 27, 2015 01:32:02.71 [GFX1-]: [D2D1.1] 4CreateBitmap failure Size(28,25287) Code: 0x80070057
+Jun 27, 2015 01:33:23.40 [GFX1-]: [D2D1.1] 4CreateBitmap failure Size(28,25287) Code: 0x80070057
+Jun 27, 2015 03:04:19.97 1435367059948	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+Jun 27, 2015 03:19:13.26 [GFX1-]: [D2D1.1] 4CreateBitmap failure Size(28,25287) Code: 0x80070057
+Jun 27, 2015 03:19:14.35 [GFX1-]: [D2D1.1] 4CreateBitmap failure Size(28,25287) Code: 0x80070057
+Jun 27, 2015 03:19:55.63 W/MPEG4Extractor( 5388): Error -1004 parsing chuck at offset 0 looking for first track
+Jun 27, 2015 03:19:55.63 W/MPEG4Extractor( 5388): Error -1004 parsing chuck at offset 0 looking for first track
+Jun 27, 2015 03:19:55.66 W/MPEG4Extractor( 5388): Error -1004 parsing chuck at offset 0 looking for first track
+Jun 27, 2015 03:21:36.58 W/MPEG4Extractor( 5388): Error -1004 parsing chuck at offset 0 looking for first track
+Jun 27, 2015 03:37:56.62 ThreadSources.prototype._fetchSourceMap threw an exception: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+Jun 27, 2015 03:37:56.65 Stack: SourceMapConsumer@resource://gre/modules/devtools/SourceMap.jsm:67:19
+Jun 27, 2015 03:37:56.65 ThreadSources.prototype._fetchSourceMap/fetching<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:5453:19
+Jun 27, 2015 03:37:56.65 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:867:23
+Jun 27, 2015 03:37:56.65 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:746:7
+Jun 27, 2015 03:37:56.65 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:688:37
+Jun 27, 2015 03:37:56.65 EventLoop.prototype.enter@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:371:5
+Jun 27, 2015 03:37:56.65 ThreadActor.prototype._pushThreadPause@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:580:5
+Jun 27, 2015 03:37:56.65 ThreadActor.prototype.onAttach@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:692:7
+Jun 27, 2015 03:37:56.65 DSC_onPacket@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/main.js:1450:15
+Jun 27, 2015 03:37:56.65 LocalDebuggerTransport.prototype.send/<@resource://gre/modules/devtools/dbg-client.jsm -> resource://gre/modules/devtools/transport/transport.js:561:11
+Jun 27, 2015 03:37:56.65 makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/DevToolsUtils.js:82:14
+Jun 27, 2015 03:37:56.65 makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/DevToolsUtils.js:82:14
+Jun 27, 2015 03:37:56.65 Line: 67, column: 18
+Jun 27, 2015 03:43:43.06 ThreadSources.prototype._fetchSourceMap threw an exception: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+Jun 27, 2015 03:43:43.06 Stack: SourceMapConsumer@resource://gre/modules/devtools/SourceMap.jsm:67:19
+Jun 27, 2015 03:43:43.06 ThreadSources.prototype._fetchSourceMap/fetching<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:5453:19
+Jun 27, 2015 03:43:43.06 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:867:23
+Jun 27, 2015 03:43:43.06 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:746:7
+Jun 27, 2015 03:43:43.06 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:688:37
+Jun 27, 2015 03:43:43.06 EventLoop.prototype.enter@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:371:5
+Jun 27, 2015 03:43:43.06 ThreadActor.prototype._pushThreadPause@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:580:5
+Jun 27, 2015 03:43:43.06 ThreadActor.prototype.onAttach@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:692:7
+Jun 27, 2015 03:43:43.06 DSC_onPacket@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/main.js:1450:15
+Jun 27, 2015 03:43:43.06 LocalDebuggerTransport.prototype.send/<@resource://gre/modules/devtools/dbg-client.jsm -> resource://gre/modules/devtools/transport/transport.js:561:11
+Jun 27, 2015 03:43:43.06 makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/DevToolsUtils.js:82:14
+Jun 27, 2015 03:43:43.06 makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/DevToolsUtils.js:82:14
+Jun 27, 2015 03:43:43.06 Line: 67, column: 18
+Jun 27, 2015 03:44:25.25 ThreadSources.prototype._fetchSourceMap threw an exception: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+Jun 27, 2015 03:44:25.25 Stack: SourceMapConsumer@resource://gre/modules/devtools/SourceMap.jsm:67:19
+Jun 27, 2015 03:44:25.25 ThreadSources.prototype._fetchSourceMap/fetching<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:5453:19
+Jun 27, 2015 03:44:25.25 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:867:23
+Jun 27, 2015 03:44:25.26 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:746:7
+Jun 27, 2015 03:44:25.26 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:688:37
+Jun 27, 2015 03:44:25.26 EventLoop.prototype.enter@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:371:5
+Jun 27, 2015 03:44:25.26 ThreadActor.prototype._pushThreadPause@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:580:5
+Jun 27, 2015 03:44:25.26 ThreadActor.prototype.onInterrupt@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:1402:7
+Jun 27, 2015 03:44:25.26 DSC_onPacket@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/main.js:1450:15
+Jun 27, 2015 03:44:25.27 LocalDebuggerTransport.prototype.send/<@resource://gre/modules/devtools/dbg-client.jsm -> resource://gre/modules/devtools/transport/transport.js:561:11
+Jun 27, 2015 03:44:25.27 makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/DevToolsUtils.js:82:14
+Jun 27, 2015 03:44:25.27 makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/DevToolsUtils.js:82:14
+Jun 27, 2015 03:44:25.27 Line: 67, column: 18
+Jun 27, 2015 03:55:09.66 W/MPEG4Extractor( 5380): Error -1004 parsing chuck at offset 0 looking for first track
+Jun 27, 2015 03:55:09.70 W/MPEG4Extractor( 5380): Error -1004 parsing chuck at offset 0 looking for first track
+Jun 27, 2015 03:55:09.70 W/MPEG4Extractor( 5380): Error -1004 parsing chuck at offset 0 looking for first track
+Jun 27, 2015 04:12:47.66 console.error: reddit_res: 
+Jun 27, 2015 04:12:47.69   showImages: error detecting image expando for http://imgur.com/gallery/6pSLBvz
+Jun 27, 2015 04:12:47.69 console.error: reddit_res: 
+Jun 27, 2015 04:12:47.69 console.error: reddit_res: 
+Jun 27, 2015 04:12:47.69   showImages: error detecting image expando for http://imgur.com/gallery/dLQHrD4/new
+Jun 27, 2015 04:12:47.69 console.error: reddit_res: 
+Jun 27, 2015 04:12:47.69 console.error: reddit_res: 
+Jun 27, 2015 04:12:47.69   showImages: error detecting image expando for http://imgur.com/gallery/5IjP0he
+Jun 27, 2015 04:12:47.69 console.error: reddit_res: 
+Jun 27, 2015 04:12:47.78 console.error: reddit_res: 
+Jun 27, 2015 04:12:47.78   showImages: error detecting image expando for http://imgur.com/gallery/zjsvLGy
+Jun 27, 2015 04:12:47.78 console.error: reddit_res: 
+Jun 27, 2015 04:12:47.79 console.error: reddit_res: 
+Jun 27, 2015 04:12:47.79   showImages: error detecting image expando for http://imgur.com/gallery/9QkX4Jy
+Jun 27, 2015 04:12:47.79 console.error: reddit_res: 
+Jun 27, 2015 04:12:47.99 console.error: reddit_res: 
+Jun 27, 2015 04:12:47.99   showImages: error detecting image expando for http://imgur.com/gallery/x9mEN79/new
+Jun 27, 2015 04:12:47.99 console.error: reddit_res: 
+Jun 27, 2015 04:12:48.01 console.error: reddit_res: 
+Jun 27, 2015 04:12:48.01   showImages: error detecting image expando for http://imgur.com/gallery/poH2Emq
+Jun 27, 2015 04:12:48.01 console.error: reddit_res: 
+Jun 27, 2015 04:12:48.04 console.error: reddit_res: 
+Jun 27, 2015 04:12:48.04   showImages: error detecting image expando for http://imgur.com/gallery/GQRAamV
+Jun 27, 2015 04:12:48.04 console.error: reddit_res: 
+Jun 27, 2015 04:12:48.08 console.error: reddit_res: 
+Jun 27, 2015 04:12:48.08   showImages: error detecting image expando for http://imgur.com/gallery/ivtqr8o/new
+Jun 27, 2015 04:12:48.08 console.error: reddit_res: 
+Jun 27, 2015 04:12:48.16 console.error: reddit_res: 
+Jun 27, 2015 04:12:48.16   showImages: error detecting image expando for http://imgur.com/gallery/b3Pt7AC/new
+Jun 27, 2015 04:12:48.16 console.error: reddit_res: 
+Jun 27, 2015 04:13:44.12 console.error: reddit_res: 
+Jun 27, 2015 04:13:44.12   showImages: error detecting image expando for http://imgur.com/gallery/dLQHrD4/new
+Jun 27, 2015 04:13:44.12 console.error: reddit_res: 
+Jun 27, 2015 04:13:44.13 console.error: reddit_res: 
+Jun 27, 2015 04:13:44.13   showImages: error detecting image expando for http://imgur.com/gallery/9QkX4Jy
+Jun 27, 2015 04:13:44.13 console.error: reddit_res: 
+Jun 27, 2015 04:13:44.13 console.error: reddit_res: 
+Jun 27, 2015 04:13:44.13   showImages: error detecting image expando for http://imgur.com/gallery/zjsvLGy
+Jun 27, 2015 04:13:44.13 console.error: reddit_res: 
+Jun 27, 2015 04:13:44.24 console.error: reddit_res: 
+Jun 27, 2015 04:13:44.24   showImages: error detecting image expando for http://imgur.com/gallery/5IjP0he
+Jun 27, 2015 04:13:44.24 console.error: reddit_res: 
+Jun 27, 2015 04:13:44.25 console.error: reddit_res: 
+Jun 27, 2015 04:13:44.25   showImages: error detecting image expando for http://imgur.com/gallery/6pSLBvz
+Jun 27, 2015 04:13:44.25 console.error: reddit_res: 
+Jun 27, 2015 04:13:44.31 console.error: reddit_res: 
+Jun 27, 2015 04:13:44.31   showImages: error detecting image expando for http://imgur.com/gallery/ivtqr8o/new
+Jun 27, 2015 04:13:44.31 console.error: reddit_res: 
+Jun 27, 2015 04:13:44.31 console.error: reddit_res: 
+Jun 27, 2015 04:13:44.31   showImages: error detecting image expando for http://imgur.com/gallery/poH2Emq
+Jun 27, 2015 04:13:44.31 console.error: reddit_res: 
+Jun 27, 2015 04:13:44.32 console.error: reddit_res: 
+Jun 27, 2015 04:13:44.32   showImages: error detecting image expando for http://imgur.com/gallery/x9mEN79/new
+Jun 27, 2015 04:13:44.32 console.error: reddit_res: 
+Jun 27, 2015 04:13:44.33 console.error: reddit_res: 
+Jun 27, 2015 04:13:44.33   showImages: error detecting image expando for http://imgur.com/gallery/GQRAamV
+Jun 27, 2015 04:13:44.33 console.error: reddit_res: 
+Jun 27, 2015 04:13:44.39 console.error: reddit_res: 
+Jun 27, 2015 04:13:44.39   showImages: error detecting image expando for http://imgur.com/gallery/b3Pt7AC/new
+Jun 27, 2015 04:13:44.39 console.error: reddit_res: 
+Jun 27, 2015 04:14:05.87 console.error: reddit_res: 
+Jun 27, 2015 04:14:05.87   showImages: error detecting image expando for http://imgur.com/gallery/dLQHrD4/new
+Jun 27, 2015 04:14:05.87 console.error: reddit_res: 
+Jun 27, 2015 04:14:05.89 console.error: reddit_res: 
+Jun 27, 2015 04:14:05.89   showImages: error detecting image expando for http://imgur.com/gallery/9QkX4Jy
+Jun 27, 2015 04:14:05.90 console.error: reddit_res: 
+Jun 27, 2015 04:14:05.90 console.error: reddit_res: 
+Jun 27, 2015 04:14:05.90   showImages: error detecting image expando for http://imgur.com/gallery/zjsvLGy
+Jun 27, 2015 04:14:05.90 console.error: reddit_res: 
+Jun 27, 2015 04:14:06.16 console.error: reddit_res: 
+Jun 27, 2015 04:14:06.16   showImages: error detecting image expando for http://imgur.com/gallery/5IjP0he
+Jun 27, 2015 04:14:06.16 console.error: reddit_res: 
+Jun 27, 2015 04:14:06.16 console.error: reddit_res: 
+Jun 27, 2015 04:14:06.16   showImages: error detecting image expando for http://imgur.com/gallery/x9mEN79/new
+Jun 27, 2015 04:14:06.16 console.error: reddit_res: 
+Jun 27, 2015 04:14:06.16 console.error: reddit_res: 
+Jun 27, 2015 04:14:06.16   showImages: error detecting image expando for http://imgur.com/gallery/GQRAamV
+Jun 27, 2015 04:14:06.16 console.error: reddit_res: 
+Jun 27, 2015 04:14:06.16 console.error: reddit_res: 
+Jun 27, 2015 04:14:06.16   showImages: error detecting image expando for http://imgur.com/gallery/6pSLBvz
+Jun 27, 2015 04:14:06.17 console.error: reddit_res: 
+Jun 27, 2015 04:14:06.27 console.error: reddit_res: 
+Jun 27, 2015 04:14:06.27   showImages: error detecting image expando for http://imgur.com/gallery/ivtqr8o/new
+Jun 27, 2015 04:14:06.27 console.error: reddit_res: 
+Jun 27, 2015 04:14:06.28 console.error: reddit_res: 
+Jun 27, 2015 04:14:06.28   showImages: error detecting image expando for http://imgur.com/gallery/poH2Emq
+Jun 27, 2015 04:14:06.28 console.error: reddit_res: 
+Jun 27, 2015 04:14:06.32 console.error: reddit_res: 
+Jun 27, 2015 04:14:06.32   showImages: error detecting image expando for http://imgur.com/gallery/b3Pt7AC/new
+Jun 27, 2015 04:14:06.32 console.error: reddit_res: 
+Jun 27, 2015 04:14:32.80 [NPAPI 1216] WARNING: pipe error: 109: file c:/builds/moz2_slave/rel-m-rel-w32_bld-000000000000/build/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 333
+Jun 27, 2015 04:15:54.01 console.error: reddit_res: 
+Jun 27, 2015 04:15:54.01   showImages: error detecting image expando for http://imgur.com/topic/Awesome/xG7rn
+Jun 27, 2015 04:15:54.01 console.error: reddit_res: 
+Jun 27, 2015 04:15:54.01 console.error: reddit_res: 
+Jun 27, 2015 04:15:54.01   showImages: error detecting image expando for http://imgur.com/user/RoxannePaypascissors/favorites/eWEaHyG
+Jun 27, 2015 04:15:54.01 console.error: reddit_res: 
+Jun 27, 2015 04:15:55.12 console.error: reddit_res: 
+Jun 27, 2015 04:15:55.12   showImages: error detecting image expando for http://imgur.com/gallery/9axpLar
+Jun 27, 2015 04:15:55.12 console.error: reddit_res: 
+Jun 27, 2015 04:15:55.16 console.error: reddit_res: 
+Jun 27, 2015 04:15:55.16   showImages: error detecting image expando for http://imgur.com/gallery/F7GqlPB
+Jun 27, 2015 04:15:55.16 console.error: reddit_res: 
+Jun 27, 2015 04:16:32.53 console.error: reddit_res: 
+Jun 27, 2015 04:16:32.53   Message: TypeError: workers[i].tab is null
+Jun 27, 2015 04:16:32.53   Stack:
+Jun 27, 2015 04:16:32.53     getActiveWorker@resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-xufzosoflzsoxg-at-jetpack/reddit_res/lib/main.js:128:8
+Jun 27, 2015 04:16:32.53 @resource://gre/modules/commonjs/toolkit/loader.js -> resource://jid1-xufzosoflzsoxg-at-jetpack/reddit_res/lib/main.js:118:15
+Jun 27, 2015 04:16:32.53 _emitOnObject@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/deprecated/events.js:152:9
+Jun 27, 2015 04:16:32.53 _emit@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/deprecated/events.js:122:12
+Jun 27, 2015 04:16:32.53 _emitEvent@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/windows/tabs-firefox.js:135:5
+Jun 27, 2015 04:16:32.53 _onTabEvent@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/windows/tabs-firefox.js:124:7
+Jun 27, 2015 04:16:32.53 emit@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:97:9
+Jun 27, 2015 04:16:32.53 initialize/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/tabs/observer.js:49:11
+Jun 27, 2015 04:16:32.53 emit@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:97:9
+Jun 27, 2015 04:16:32.54 handleEvent@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/tabs/observer.js:103:5
+Jun 27, 2015 04:16:32.54 updateCurrentBrowser@chrome://browser/content/tabbrowser.xml:1152:15
+Jun 27, 2015 04:16:32.54 onselect@chrome://browser/content/browser.xul:1:44
+Jun 27, 2015 04:16:32.54 set_selectedIndex@chrome://global/content/bindings/tabbox.xml:654:13
+Jun 27, 2015 04:16:32.54 set_selectedPanel@chrome://global/content/bindings/tabbox.xml:673:13
+Jun 27, 2015 04:16:32.54 set_selectedIndex@chrome://global/content/bindings/tabbox.xml:399:15
+Jun 27, 2015 04:16:32.54 set_selectedItem@chrome://global/content/bindings/tabbox.xml:431:34
+Jun 27, 2015 04:16:32.54 set_selectedTab@chrome://global/content/bindings/tabbox.xml:110:15
+Jun 27, 2015 04:16:32.54 set_selectedTab@chrome://browser/content/tabbrowser.xml:2667:11
+Jun 27, 2015 04:16:32.54 _blurTab@chrome://browser/content/tabbrowser.xml:2341:13
+Jun 27, 2015 04:16:32.54 removeTab@chrome://browser/content/tabbrowser.xml:2055:13
+Jun 27, 2015 04:16:32.54 onxblclick@chrome://browser/content/tabbrowser.xml:4947:1
+Jun 27, 2015 04:16:32.54 
+
+Jun 28, 2015 24:30:33.22 NEW SESSION
+Jun 28, 2015 24:30:33.23 ThreadSources.prototype._fetchSourceMap threw an exception: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+Jun 28, 2015 24:30:33.26 Stack: SourceMapConsumer@resource://gre/modules/devtools/SourceMap.jsm:67:19
+Jun 28, 2015 24:30:33.26 ThreadSources.prototype._fetchSourceMap/fetching<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:5453:19
+Jun 28, 2015 24:30:33.26 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:867:23
+Jun 28, 2015 24:30:33.26 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:746:7
+Jun 28, 2015 24:30:33.26 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:688:37
+Jun 28, 2015 24:30:33.26 EventLoop.prototype.enter@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:371:5
+Jun 28, 2015 24:30:33.26 ThreadActor.prototype._pushThreadPause@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:580:5
+Jun 28, 2015 24:30:33.26 ThreadActor.prototype.onAttach@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:692:7
+Jun 28, 2015 24:30:33.26 DSC_onPacket@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/main.js:1450:15
+Jun 28, 2015 24:30:33.26 LocalDebuggerTransport.prototype.send/<@resource://gre/modules/devtools/dbg-client.jsm -> resource://gre/modules/devtools/transport/transport.js:561:11
+Jun 28, 2015 24:30:33.26 makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/DevToolsUtils.js:82:14
+Jun 28, 2015 24:30:33.26 makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/DevToolsUtils.js:82:14
+Jun 28, 2015 24:30:33.26 Line: 67, column: 18
+Jun 28, 2015 24:30:41.92 ThreadSources.prototype._fetchSourceMap threw an exception: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+Jun 28, 2015 24:30:41.92 Stack: SourceMapConsumer@resource://gre/modules/devtools/SourceMap.jsm:67:19
+Jun 28, 2015 24:30:41.92 ThreadSources.prototype._fetchSourceMap/fetching<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:5453:19
+Jun 28, 2015 24:30:41.92 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:867:23
+Jun 28, 2015 24:30:41.92 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:746:7
+Jun 28, 2015 24:30:41.92 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:688:37
+Jun 28, 2015 24:30:41.92 EventLoop.prototype.enter@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:371:5
+Jun 28, 2015 24:30:41.92 ThreadActor.prototype._pushThreadPause@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:580:5
+Jun 28, 2015 24:30:41.92 ThreadActor.prototype._pauseAndRespond@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:779:7
+Jun 28, 2015 24:30:41.92 BreakpointActor.prototype.hit@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:4736:12
+Jun 28, 2015 24:30:41.92 @http://localhost:8080/WebShop/js/adminStartScripts.js:9:9
+Jun 28, 2015 24:30:41.92 x.Callbacks/l@http://localhost:8080/WebShop/js/jquery.min.js:4:24579
+Jun 28, 2015 24:30:41.92 x.Callbacks/c.fireWith@http://localhost:8080/WebShop/js/jquery.min.js:4:25405
+Jun 28, 2015 24:30:41.92 .ready@http://localhost:8080/WebShop/js/jquery.min.js:4:2895
+Jun 28, 2015 24:30:41.92 S@http://localhost:8080/WebShop/js/jquery.min.js:4:548
+Jun 28, 2015 24:30:41.92 Line: 67, column: 18
+Jun 28, 2015 24:30:58.04 Handler function DebuggerClient.requester threw an exception: Error: resume command sent while not paused. Currently resuming
+Jun 28, 2015 24:30:58.04 Stack: ThreadClient.prototype._assertPaused@resource://gre/modules/devtools/dbg-client.jsm:1462:13
+Jun 28, 2015 24:30:58.04 ThreadClient.prototype._doResume<.before@resource://gre/modules/devtools/dbg-client.jsm:1482:7
+Jun 28, 2015 24:30:58.04 DebuggerClient.requester/<@resource://gre/modules/devtools/dbg-client.jsm:337:24
+Jun 28, 2015 24:30:58.04 makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/DevToolsUtils.js:82:14
+Jun 28, 2015 24:30:58.04 ThreadClient.prototype.stepOver@resource://gre/modules/devtools/dbg-client.jsm:1548:5
+Jun 28, 2015 24:30:58.04 DebuggerTool.prototype<.stepOver@chrome://firebug/content/debugger/debuggerTool.js:385:1
+Jun 28, 2015 24:30:58.04 Firebug.Debugger<.stepOver@chrome://firebug/content/debugger/debugger.js:389:9
+Jun 28, 2015 24:30:58.04 oncommand@chrome://firebug/content/firefox/firebugFrame.xul:1:1
+Jun 28, 2015 24:30:58.04 EventLoop.prototype.enter@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:371:5
+Jun 28, 2015 24:30:58.04 ThreadActor.prototype._pushThreadPause@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:580:5
+Jun 28, 2015 24:30:58.04 ThreadActor.prototype._pauseAndRespond@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:779:7
+Jun 28, 2015 24:30:58.05 ThreadActor.prototype._makeSteppingHooks/steppingHookState.pauseAndRespond@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:913:16
+Jun 28, 2015 24:30:58.05 ThreadActor.prototype._makeOnStep/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:894:1
+Jun 28, 2015 24:30:58.05 @http://localhost:8080/WebShop/js/adminStartScripts.js:27:2
+Jun 28, 2015 24:30:58.05 x.Callbacks/l@http://localhost:8080/WebShop/js/jquery.min.js:4:24579
+Jun 28, 2015 24:30:58.05 x.Callbacks/c.fireWith@http://localhost:8080/WebShop/js/jquery.min.js:4:25405
+Jun 28, 2015 24:30:58.05 .ready@http://localhost:8080/WebShop/js/jquery.min.js:4:2895
+Jun 28, 2015 24:30:58.09 S@http://localhost:8080/WebShop/js/jquery.min.js:4:548
+Jun 28, 2015 24:30:58.09 Line: 1462, column: 12
+Jun 28, 2015 24:30:59.83 Handler function DebuggerClient.requester threw an exception: Error: resume command sent while not paused. Currently resuming
+Jun 28, 2015 24:30:59.83 Stack: ThreadClient.prototype._assertPaused@resource://gre/modules/devtools/dbg-client.jsm:1462:13
+Jun 28, 2015 24:30:59.83 ThreadClient.prototype._doResume<.before@resource://gre/modules/devtools/dbg-client.jsm:1482:7
+Jun 28, 2015 24:30:59.83 DebuggerClient.requester/<@resource://gre/modules/devtools/dbg-client.jsm:337:24
+Jun 28, 2015 24:30:59.84 makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/DevToolsUtils.js:82:14
+Jun 28, 2015 24:30:59.84 ThreadClient.prototype.stepOver@resource://gre/modules/devtools/dbg-client.jsm:1548:5
+Jun 28, 2015 24:30:59.84 DebuggerTool.prototype<.stepOver@chrome://firebug/content/debugger/debuggerTool.js:385:1
+Jun 28, 2015 24:30:59.84 Firebug.Debugger<.stepOver@chrome://firebug/content/debugger/debugger.js:389:9
+Jun 28, 2015 24:30:59.84 oncommand@chrome://firebug/content/firefox/firebugFrame.xul:1:1
+Jun 28, 2015 24:30:59.84 EventLoop.prototype.enter@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:371:5
+Jun 28, 2015 24:30:59.84 ThreadActor.prototype._pushThreadPause@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:580:5
+Jun 28, 2015 24:30:59.84 ThreadActor.prototype._pauseAndRespond@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:779:7
+Jun 28, 2015 24:30:59.84 ThreadActor.prototype._makeSteppingHooks/steppingHookState.pauseAndRespond@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:913:16
+Jun 28, 2015 24:30:59.84 ThreadActor.prototype._makeOnStep/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:894:1
+Jun 28, 2015 24:30:59.84 x.Callbacks/l@http://localhost:8080/WebShop/js/jquery.min.js:4:24579
+Jun 28, 2015 24:30:59.84 x.Callbacks/c.fireWith@http://localhost:8080/WebShop/js/jquery.min.js:4:25405
+Jun 28, 2015 24:30:59.84 .ready@http://localhost:8080/WebShop/js/jquery.min.js:4:2895
+Jun 28, 2015 24:30:59.84 S@http://localhost:8080/WebShop/js/jquery.min.js:4:548
+Jun 28, 2015 24:30:59.84 Line: 1462, column: 12
+Jun 28, 2015 24:31:00.16 Handler function DebuggerClient.requester threw an exception: Error: resume command sent while not paused. Currently resuming
+Jun 28, 2015 24:31:00.16 Stack: ThreadClient.prototype._assertPaused@resource://gre/modules/devtools/dbg-client.jsm:1462:13
+Jun 28, 2015 24:31:00.16 ThreadClient.prototype._doResume<.before@resource://gre/modules/devtools/dbg-client.jsm:1482:7
+Jun 28, 2015 24:31:00.16 DebuggerClient.requester/<@resource://gre/modules/devtools/dbg-client.jsm:337:24
+Jun 28, 2015 24:31:00.16 makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/DevToolsUtils.js:82:14
+Jun 28, 2015 24:31:00.16 ThreadClient.prototype.stepOver@resource://gre/modules/devtools/dbg-client.jsm:1548:5
+Jun 28, 2015 24:31:00.16 DebuggerTool.prototype<.stepOver@chrome://firebug/content/debugger/debuggerTool.js:385:1
+Jun 28, 2015 24:31:00.16 Firebug.Debugger<.stepOver@chrome://firebug/content/debugger/debugger.js:389:9
+Jun 28, 2015 24:31:00.16 oncommand@chrome://firebug/content/firefox/firebugFrame.xul:1:1
+Jun 28, 2015 24:31:00.16 EventLoop.prototype.enter@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:371:5
+Jun 28, 2015 24:31:00.16 ThreadActor.prototype.synchronize@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:1102:7
+Jun 28, 2015 24:31:00.16 ThreadActor.prototype._makeOnStep/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:866:27
+Jun 28, 2015 24:31:00.16 x.Callbacks/l@http://localhost:8080/WebShop/js/jquery.min.js:4:24565
+Jun 28, 2015 24:31:00.16 x.Callbacks/c.fireWith@http://localhost:8080/WebShop/js/jquery.min.js:4:25405
+Jun 28, 2015 24:31:00.16 .ready@http://localhost:8080/WebShop/js/jquery.min.js:4:2895
+Jun 28, 2015 24:31:00.16 S@http://localhost:8080/WebShop/js/jquery.min.js:4:548
+Jun 28, 2015 24:31:00.16 Line: 1462, column: 12
+Jun 28, 2015 24:31:01.28 Handler function DebuggerClient.requester threw an exception: Error: resume command sent while not paused. Currently resuming
+Jun 28, 2015 24:31:01.28 Stack: ThreadClient.prototype._assertPaused@resource://gre/modules/devtools/dbg-client.jsm:1462:13
+Jun 28, 2015 24:31:01.28 ThreadClient.prototype._doResume<.before@resource://gre/modules/devtools/dbg-client.jsm:1482:7
+Jun 28, 2015 24:31:01.28 DebuggerClient.requester/<@resource://gre/modules/devtools/dbg-client.jsm:337:24
+Jun 28, 2015 24:31:01.29 makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/DevToolsUtils.js:82:14
+Jun 28, 2015 24:31:01.29 ThreadClient.prototype.stepOver@resource://gre/modules/devtools/dbg-client.jsm:1548:5
+Jun 28, 2015 24:31:01.29 DebuggerTool.prototype<.stepOver@chrome://firebug/content/debugger/debuggerTool.js:385:1
+Jun 28, 2015 24:31:01.29 Firebug.Debugger<.stepOver@chrome://firebug/content/debugger/debugger.js:389:9
+Jun 28, 2015 24:31:01.29 oncommand@chrome://firebug/content/firefox/firebugFrame.xul:1:1
+Jun 28, 2015 24:31:01.29 EventLoop.prototype.enter@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:371:5
+Jun 28, 2015 24:31:01.29 ThreadActor.prototype._pushThreadPause@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:580:5
+Jun 28, 2015 24:31:01.29 ThreadActor.prototype._pauseAndRespond@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:779:7
+Jun 28, 2015 24:31:01.29 ThreadActor.prototype._makeSteppingHooks/steppingHookState.pauseAndRespond@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:913:16
+Jun 28, 2015 24:31:01.29 ThreadActor.prototype._makeOnPop/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:836:1
+Jun 28, 2015 24:31:01.29 x.Callbacks/l@http://localhost:8080/WebShop/js/jquery.min.js:4:24686
+Jun 28, 2015 24:31:01.29 x.Callbacks/c.fireWith@http://localhost:8080/WebShop/js/jquery.min.js:4:25405
+Jun 28, 2015 24:31:01.29 .ready@http://localhost:8080/WebShop/js/jquery.min.js:4:2895
+Jun 28, 2015 24:31:01.29 S@http://localhost:8080/WebShop/js/jquery.min.js:4:548
+Jun 28, 2015 24:31:01.29 Line: 1462, column: 12
+Jun 28, 2015 24:31:01.29 Handler function DebuggerClient.requester threw an exception: Error: resume command sent while not paused. Currently resuming
+Jun 28, 2015 24:31:01.29 Stack: ThreadClient.prototype._assertPaused@resource://gre/modules/devtools/dbg-client.jsm:1462:13
+Jun 28, 2015 24:31:01.29 ThreadClient.prototype._doResume<.before@resource://gre/modules/devtools/dbg-client.jsm:1482:7
+Jun 28, 2015 24:31:01.29 DebuggerClient.requester/<@resource://gre/modules/devtools/dbg-client.jsm:337:24
+Jun 28, 2015 24:31:01.29 makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/DevToolsUtils.js:82:14
+Jun 28, 2015 24:31:01.29 ThreadClient.prototype.stepOver@resource://gre/modules/devtools/dbg-client.jsm:1548:5
+Jun 28, 2015 24:31:01.29 DebuggerTool.prototype<.stepOver@chrome://firebug/content/debugger/debuggerTool.js:385:1
+Jun 28, 2015 24:31:01.29 Firebug.Debugger<.stepOver@chrome://firebug/content/debugger/debugger.js:389:9
+Jun 28, 2015 24:31:01.29 oncommand@chrome://firebug/content/firefox/firebugFrame.xul:1:1
+Jun 28, 2015 24:31:01.30 EventLoop.prototype.enter@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:371:5
+Jun 28, 2015 24:31:01.30 ThreadActor.prototype._pushThreadPause@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:580:5
+Jun 28, 2015 24:31:01.30 ThreadActor.prototype._pauseAndRespond@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:779:7
+Jun 28, 2015 24:31:01.30 ThreadActor.prototype._makeSteppingHooks/steppingHookState.pauseAndRespond@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:913:16
+Jun 28, 2015 24:31:01.30 ThreadActor.prototype._makeOnPop/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:836:1
+Jun 28, 2015 24:31:01.30 x.Callbacks/l@http://localhost:8080/WebShop/js/jquery.min.js:4:24686
+Jun 28, 2015 24:31:01.30 x.Callbacks/c.fireWith@http://localhost:8080/WebShop/js/jquery.min.js:4:25405
+Jun 28, 2015 24:31:01.30 .ready@http://localhost:8080/WebShop/js/jquery.min.js:4:2895
+Jun 28, 2015 24:31:01.30 S@http://localhost:8080/WebShop/js/jquery.min.js:4:548
+Jun 28, 2015 24:31:01.30 Line: 1462, column: 12
+Jun 28, 2015 24:31:01.30 Handler function DebuggerClient.requester threw an exception: Error: resume command sent while not paused. Currently resuming
+Jun 28, 2015 24:31:01.30 Stack: ThreadClient.prototype._assertPaused@resource://gre/modules/devtools/dbg-client.jsm:1462:13
+Jun 28, 2015 24:31:01.30 ThreadClient.prototype._doResume<.before@resource://gre/modules/devtools/dbg-client.jsm:1482:7
+Jun 28, 2015 24:31:01.30 DebuggerClient.requester/<@resource://gre/modules/devtools/dbg-client.jsm:337:24
+Jun 28, 2015 24:31:01.30 makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/DevToolsUtils.js:82:14
+Jun 28, 2015 24:31:01.30 ThreadClient.prototype.stepOver@resource://gre/modules/devtools/dbg-client.jsm:1548:5
+Jun 28, 2015 24:31:01.30 DebuggerTool.prototype<.stepOver@chrome://firebug/content/debugger/debuggerTool.js:385:1
+Jun 28, 2015 24:31:01.30 Firebug.Debugger<.stepOver@chrome://firebug/content/debugger/debugger.js:389:9
+Jun 28, 2015 24:31:01.30 oncommand@chrome://firebug/content/firefox/firebugFrame.xul:1:1
+Jun 28, 2015 24:31:01.30 EventLoop.prototype.enter@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:371:5
+Jun 28, 2015 24:31:01.30 ThreadActor.prototype._pushThreadPause@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:580:5
+Jun 28, 2015 24:31:01.30 ThreadActor.prototype._pauseAndRespond@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:779:7
+Jun 28, 2015 24:31:01.30 ThreadActor.prototype._makeSteppingHooks/steppingHookState.pauseAndRespond@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:913:16
+Jun 28, 2015 24:31:01.30 ThreadActor.prototype._makeOnPop/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:836:1
+Jun 28, 2015 24:31:01.31 x.Callbacks/l@http://localhost:8080/WebShop/js/jquery.min.js:4:24686
+Jun 28, 2015 24:31:01.31 x.Callbacks/c.fireWith@http://localhost:8080/WebShop/js/jquery.min.js:4:25405
+Jun 28, 2015 24:31:01.31 .ready@http://localhost:8080/WebShop/js/jquery.min.js:4:2895
+Jun 28, 2015 24:31:01.31 S@http://localhost:8080/WebShop/js/jquery.min.js:4:548
+Jun 28, 2015 24:31:01.31 Line: 1462, column: 12
+Jun 28, 2015 24:31:01.50 Handler function DebuggerClient.requester threw an exception: Error: resume command sent while not paused. Currently resuming
+Jun 28, 2015 24:31:01.50 Stack: ThreadClient.prototype._assertPaused@resource://gre/modules/devtools/dbg-client.jsm:1462:13
+Jun 28, 2015 24:31:01.50 ThreadClient.prototype._doResume<.before@resource://gre/modules/devtools/dbg-client.jsm:1482:7
+Jun 28, 2015 24:31:01.50 DebuggerClient.requester/<@resource://gre/modules/devtools/dbg-client.jsm:337:24
+Jun 28, 2015 24:31:01.50 makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/DevToolsUtils.js:82:14
+Jun 28, 2015 24:31:01.50 ThreadClient.prototype.stepOver@resource://gre/modules/devtools/dbg-client.jsm:1548:5
+Jun 28, 2015 24:31:01.50 DebuggerTool.prototype<.stepOver@chrome://firebug/content/debugger/debuggerTool.js:385:1
+Jun 28, 2015 24:31:01.50 Firebug.Debugger<.stepOver@chrome://firebug/content/debugger/debugger.js:389:9
+Jun 28, 2015 24:31:01.50 oncommand@chrome://firebug/content/firefox/firebugFrame.xul:1:1
+Jun 28, 2015 24:31:01.50 EventLoop.prototype.enter@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:371:5
+Jun 28, 2015 24:31:01.50 ThreadActor.prototype._pushThreadPause@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:580:5
+Jun 28, 2015 24:31:01.50 ThreadActor.prototype._pauseAndRespond@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:779:7
+Jun 28, 2015 24:31:01.51 ThreadActor.prototype._makeSteppingHooks/steppingHookState.pauseAndRespond@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:913:16
+Jun 28, 2015 24:31:01.51 ThreadActor.prototype._makeOnPop/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:836:1
+Jun 28, 2015 24:31:01.51 x.Callbacks/l@http://localhost:8080/WebShop/js/jquery.min.js:4:24686
+Jun 28, 2015 24:31:01.51 x.Callbacks/c.fireWith@http://localhost:8080/WebShop/js/jquery.min.js:4:25405
+Jun 28, 2015 24:31:01.51 .ready@http://localhost:8080/WebShop/js/jquery.min.js:4:2895
+Jun 28, 2015 24:31:01.51 S@http://localhost:8080/WebShop/js/jquery.min.js:4:548
+Jun 28, 2015 24:31:01.51 Line: 1462, column: 12
+Jun 28, 2015 24:31:02.51 Handler function DebuggerClient.requester threw an exception: Error: resume command sent while not paused. Currently resuming
+Jun 28, 2015 24:31:02.51 Stack: ThreadClient.prototype._assertPaused@resource://gre/modules/devtools/dbg-client.jsm:1462:13
+Jun 28, 2015 24:31:02.51 ThreadClient.prototype._doResume<.before@resource://gre/modules/devtools/dbg-client.jsm:1482:7
+Jun 28, 2015 24:31:02.51 DebuggerClient.requester/<@resource://gre/modules/devtools/dbg-client.jsm:337:24
+Jun 28, 2015 24:31:02.51 makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/DevToolsUtils.js:82:14
+Jun 28, 2015 24:31:02.51 ThreadClient.prototype.stepOver@resource://gre/modules/devtools/dbg-client.jsm:1548:5
+Jun 28, 2015 24:31:02.51 DebuggerTool.prototype<.stepOver@chrome://firebug/content/debugger/debuggerTool.js:385:1
+Jun 28, 2015 24:31:02.51 Firebug.Debugger<.stepOver@chrome://firebug/content/debugger/debugger.js:389:9
+Jun 28, 2015 24:31:02.51 oncommand@chrome://firebug/content/firefox/firebugFrame.xul:1:1
+Jun 28, 2015 24:31:02.51 EventLoop.prototype.enter@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:371:5
+Jun 28, 2015 24:31:02.51 ThreadActor.prototype._pushThreadPause@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:580:5
+Jun 28, 2015 24:31:02.51 ThreadActor.prototype._pauseAndRespond@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:779:7
+Jun 28, 2015 24:31:02.51 ThreadActor.prototype._makeSteppingHooks/steppingHookState.pauseAndRespond@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:913:16
+Jun 28, 2015 24:31:02.51 ThreadActor.prototype._makeOnStep/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:894:1
+Jun 28, 2015 24:31:02.51 x.Callbacks/c.fireWith@http://localhost:8080/WebShop/js/jquery.min.js:4:25405
+Jun 28, 2015 24:31:02.51 .ready@http://localhost:8080/WebShop/js/jquery.min.js:4:2895
+Jun 28, 2015 24:31:02.51 S@http://localhost:8080/WebShop/js/jquery.min.js:4:548
+Jun 28, 2015 24:31:02.51 Line: 1462, column: 12
+Jun 28, 2015 24:31:02.51 Handler function DebuggerClient.requester threw an exception: Error: resume command sent while not paused. Currently resuming
+Jun 28, 2015 24:31:02.51 Stack: ThreadClient.prototype._assertPaused@resource://gre/modules/devtools/dbg-client.jsm:1462:13
+Jun 28, 2015 24:31:02.51 ThreadClient.prototype._doResume<.before@resource://gre/modules/devtools/dbg-client.jsm:1482:7
+Jun 28, 2015 24:31:02.52 DebuggerClient.requester/<@resource://gre/modules/devtools/dbg-client.jsm:337:24
+Jun 28, 2015 24:31:02.52 makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/DevToolsUtils.js:82:14
+Jun 28, 2015 24:31:02.52 ThreadClient.prototype.stepOver@resource://gre/modules/devtools/dbg-client.jsm:1548:5
+Jun 28, 2015 24:31:02.52 DebuggerTool.prototype<.stepOver@chrome://firebug/content/debugger/debuggerTool.js:385:1
+Jun 28, 2015 24:31:02.52 Firebug.Debugger<.stepOver@chrome://firebug/content/debugger/debugger.js:389:9
+Jun 28, 2015 24:31:02.52 oncommand@chrome://firebug/content/firefox/firebugFrame.xul:1:1
+Jun 28, 2015 24:31:02.52 EventLoop.prototype.enter@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:371:5
+Jun 28, 2015 24:31:02.52 ThreadActor.prototype._pushThreadPause@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:580:5
+Jun 28, 2015 24:31:02.52 ThreadActor.prototype._pauseAndRespond@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:779:7
+Jun 28, 2015 24:31:02.52 ThreadActor.prototype._makeSteppingHooks/steppingHookState.pauseAndRespond@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:913:16
+Jun 28, 2015 24:31:02.52 ThreadActor.prototype._makeOnStep/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:894:1
+Jun 28, 2015 24:31:02.52 x.Callbacks/c.fireWith@http://localhost:8080/WebShop/js/jquery.min.js:4:25405
+Jun 28, 2015 24:31:02.52 .ready@http://localhost:8080/WebShop/js/jquery.min.js:4:2895
+Jun 28, 2015 24:31:02.52 S@http://localhost:8080/WebShop/js/jquery.min.js:4:548
+Jun 28, 2015 24:31:02.52 Line: 1462, column: 12
+Jun 28, 2015 24:31:02.61 Handler function DebuggerClient.requester threw an exception: Error: resume command sent while not paused. Currently resuming
+Jun 28, 2015 24:31:02.61 Stack: ThreadClient.prototype._assertPaused@resource://gre/modules/devtools/dbg-client.jsm:1462:13
+Jun 28, 2015 24:31:02.62 ThreadClient.prototype._doResume<.before@resource://gre/modules/devtools/dbg-client.jsm:1482:7
+Jun 28, 2015 24:31:02.62 DebuggerClient.requester/<@resource://gre/modules/devtools/dbg-client.jsm:337:24
+Jun 28, 2015 24:31:02.62 makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/DevToolsUtils.js:82:14
+Jun 28, 2015 24:31:02.62 ThreadClient.prototype.stepOver@resource://gre/modules/devtools/dbg-client.jsm:1548:5
+Jun 28, 2015 24:31:02.62 DebuggerTool.prototype<.stepOver@chrome://firebug/content/debugger/debuggerTool.js:385:1
+Jun 28, 2015 24:31:02.62 Firebug.Debugger<.stepOver@chrome://firebug/content/debugger/debugger.js:389:9
+Jun 28, 2015 24:31:02.62 oncommand@chrome://firebug/content/firefox/firebugFrame.xul:1:1
+Jun 28, 2015 24:31:02.62 EventLoop.prototype.enter@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:371:5
+Jun 28, 2015 24:31:02.62 ThreadActor.prototype._pushThreadPause@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:580:5
+Jun 28, 2015 24:31:02.62 ThreadActor.prototype._pauseAndRespond@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:779:7
+Jun 28, 2015 24:31:02.62 ThreadActor.prototype._makeSteppingHooks/steppingHookState.pauseAndRespond@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:913:16
+Jun 28, 2015 24:31:02.62 ThreadActor.prototype._makeOnStep/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:894:1
+Jun 28, 2015 24:31:02.62 x.Callbacks/c.fireWith@http://localhost:8080/WebShop/js/jquery.min.js:4:25405
+Jun 28, 2015 24:31:02.62 .ready@http://localhost:8080/WebShop/js/jquery.min.js:4:2895
+Jun 28, 2015 24:31:02.62 S@http://localhost:8080/WebShop/js/jquery.min.js:4:548
+Jun 28, 2015 24:31:02.62 Line: 1462, column: 12
+Jun 28, 2015 24:31:03.70 Handler function DebuggerClient.requester threw an exception: Error: resume command sent while not paused. Currently resuming
+Jun 28, 2015 24:31:03.70 Stack: ThreadClient.prototype._assertPaused@resource://gre/modules/devtools/dbg-client.jsm:1462:13
+Jun 28, 2015 24:31:03.70 ThreadClient.prototype._doResume<.before@resource://gre/modules/devtools/dbg-client.jsm:1482:7
+Jun 28, 2015 24:31:03.70 DebuggerClient.requester/<@resource://gre/modules/devtools/dbg-client.jsm:337:24
+Jun 28, 2015 24:31:03.70 makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/DevToolsUtils.js:82:14
+Jun 28, 2015 24:31:03.70 ThreadClient.prototype.stepOver@resource://gre/modules/devtools/dbg-client.jsm:1548:5
+Jun 28, 2015 24:31:03.70 DebuggerTool.prototype<.stepOver@chrome://firebug/content/debugger/debuggerTool.js:385:1
+Jun 28, 2015 24:31:03.70 Firebug.Debugger<.stepOver@chrome://firebug/content/debugger/debugger.js:389:9
+Jun 28, 2015 24:31:03.70 oncommand@chrome://firebug/content/firefox/firebugFrame.xul:1:1
+Jun 28, 2015 24:31:03.70 EventLoop.prototype.enter@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:371:5
+Jun 28, 2015 24:31:03.70 ThreadActor.prototype._pushThreadPause@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:580:5
+Jun 28, 2015 24:31:03.70 ThreadActor.prototype._pauseAndRespond@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:779:7
+Jun 28, 2015 24:31:03.70 ThreadActor.prototype._makeSteppingHooks/steppingHookState.pauseAndRespond@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:913:16
+Jun 28, 2015 24:31:03.71 ThreadActor.prototype._makeOnPop/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:836:1
+Jun 28, 2015 24:31:03.71 x.Callbacks/c.fireWith@http://localhost:8080/WebShop/js/jquery.min.js:4:25411
+Jun 28, 2015 24:31:03.71 .ready@http://localhost:8080/WebShop/js/jquery.min.js:4:2895
+Jun 28, 2015 24:31:03.71 S@http://localhost:8080/WebShop/js/jquery.min.js:4:548
+Jun 28, 2015 24:31:03.71 Line: 1462, column: 12
+Jun 28, 2015 24:31:03.71 Handler function DebuggerClient.requester threw an exception: Error: resume command sent while not paused. Currently resuming
+Jun 28, 2015 24:31:03.71 Stack: ThreadClient.prototype._assertPaused@resource://gre/modules/devtools/dbg-client.jsm:1462:13
+Jun 28, 2015 24:31:03.71 ThreadClient.prototype._doResume<.before@resource://gre/modules/devtools/dbg-client.jsm:1482:7
+Jun 28, 2015 24:31:03.71 DebuggerClient.requester/<@resource://gre/modules/devtools/dbg-client.jsm:337:24
+Jun 28, 2015 24:31:03.71 makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/DevToolsUtils.js:82:14
+Jun 28, 2015 24:31:03.71 ThreadClient.prototype.stepOver@resource://gre/modules/devtools/dbg-client.jsm:1548:5
+Jun 28, 2015 24:31:03.71 DebuggerTool.prototype<.stepOver@chrome://firebug/content/debugger/debuggerTool.js:385:1
+Jun 28, 2015 24:31:03.71 Firebug.Debugger<.stepOver@chrome://firebug/content/debugger/debugger.js:389:9
+Jun 28, 2015 24:31:03.71 oncommand@chrome://firebug/content/firefox/firebugFrame.xul:1:1
+Jun 28, 2015 24:31:03.71 EventLoop.prototype.enter@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:371:5
+Jun 28, 2015 24:31:03.71 ThreadActor.prototype._pushThreadPause@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:580:5
+Jun 28, 2015 24:31:03.71 ThreadActor.prototype._pauseAndRespond@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:779:7
+Jun 28, 2015 24:31:03.71 ThreadActor.prototype._makeSteppingHooks/steppingHookState.pauseAndRespond@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:913:16
+Jun 28, 2015 24:31:03.71 ThreadActor.prototype._makeOnPop/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:836:1
+Jun 28, 2015 24:31:03.71 x.Callbacks/c.fireWith@http://localhost:8080/WebShop/js/jquery.min.js:4:25411
+Jun 28, 2015 24:31:03.71 .ready@http://localhost:8080/WebShop/js/jquery.min.js:4:2895
+Jun 28, 2015 24:31:03.71 S@http://localhost:8080/WebShop/js/jquery.min.js:4:548
+Jun 28, 2015 24:31:03.71 Line: 1462, column: 12
+Jun 28, 2015 24:31:03.83 Handler function DebuggerClient.requester threw an exception: Error: resume command sent while not paused. Currently resuming
+Jun 28, 2015 24:31:03.83 Stack: ThreadClient.prototype._assertPaused@resource://gre/modules/devtools/dbg-client.jsm:1462:13
+Jun 28, 2015 24:31:03.83 ThreadClient.prototype._doResume<.before@resource://gre/modules/devtools/dbg-client.jsm:1482:7
+Jun 28, 2015 24:31:03.83 DebuggerClient.requester/<@resource://gre/modules/devtools/dbg-client.jsm:337:24
+Jun 28, 2015 24:31:03.83 makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/DevToolsUtils.js:82:14
+Jun 28, 2015 24:31:03.83 ThreadClient.prototype.stepOver@resource://gre/modules/devtools/dbg-client.jsm:1548:5
+Jun 28, 2015 24:31:03.83 DebuggerTool.prototype<.stepOver@chrome://firebug/content/debugger/debuggerTool.js:385:1
+Jun 28, 2015 24:31:03.83 Firebug.Debugger<.stepOver@chrome://firebug/content/debugger/debugger.js:389:9
+Jun 28, 2015 24:31:03.84 oncommand@chrome://firebug/content/firefox/firebugFrame.xul:1:1
+Jun 28, 2015 24:31:03.84 EventLoop.prototype.enter@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:371:5
+Jun 28, 2015 24:31:03.84 ThreadActor.prototype._pushThreadPause@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:580:5
+Jun 28, 2015 24:31:03.84 ThreadActor.prototype._pauseAndRespond@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:779:7
+Jun 28, 2015 24:31:03.84 ThreadActor.prototype._makeSteppingHooks/steppingHookState.pauseAndRespond@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:913:16
+Jun 28, 2015 24:31:03.84 ThreadActor.prototype._makeOnPop/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:836:1
+Jun 28, 2015 24:31:03.84 x.Callbacks/c.fireWith@http://localhost:8080/WebShop/js/jquery.min.js:4:25411
+Jun 28, 2015 24:31:03.84 .ready@http://localhost:8080/WebShop/js/jquery.min.js:4:2895
+Jun 28, 2015 24:31:03.84 S@http://localhost:8080/WebShop/js/jquery.min.js:4:548
+Jun 28, 2015 24:31:03.84 Line: 1462, column: 12
+Jun 28, 2015 24:31:04.85 Handler function DebuggerClient.requester threw an exception: Error: resume command sent while not paused. Currently resuming
+Jun 28, 2015 24:31:04.85 Stack: ThreadClient.prototype._assertPaused@resource://gre/modules/devtools/dbg-client.jsm:1462:13
+Jun 28, 2015 24:31:04.85 ThreadClient.prototype._doResume<.before@resource://gre/modules/devtools/dbg-client.jsm:1482:7
+Jun 28, 2015 24:31:04.85 DebuggerClient.requester/<@resource://gre/modules/devtools/dbg-client.jsm:337:24
+Jun 28, 2015 24:31:04.85 makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/DevToolsUtils.js:82:14
+Jun 28, 2015 24:31:04.85 ThreadClient.prototype.stepOver@resource://gre/modules/devtools/dbg-client.jsm:1548:5
+Jun 28, 2015 24:31:04.85 DebuggerTool.prototype<.stepOver@chrome://firebug/content/debugger/debuggerTool.js:385:1
+Jun 28, 2015 24:31:04.85 Firebug.Debugger<.stepOver@chrome://firebug/content/debugger/debugger.js:389:9
+Jun 28, 2015 24:31:04.85 oncommand@chrome://firebug/content/firefox/firebugFrame.xul:1:1
+Jun 28, 2015 24:31:04.86 EventLoop.prototype.enter@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:371:5
+Jun 28, 2015 24:31:04.86 ThreadActor.prototype._pushThreadPause@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:580:5
+Jun 28, 2015 24:31:04.86 ThreadActor.prototype._pauseAndRespond@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:779:7
+Jun 28, 2015 24:31:04.86 ThreadActor.prototype._makeSteppingHooks/steppingHookState.pauseAndRespond@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:913:16
+Jun 28, 2015 24:31:04.86 ThreadActor.prototype._makeOnStep/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:894:1
+Jun 28, 2015 24:31:04.86 .ready@http://localhost:8080/WebShop/js/jquery.min.js:4:2895
+Jun 28, 2015 24:31:04.86 S@http://localhost:8080/WebShop/js/jquery.min.js:4:548
+Jun 28, 2015 24:31:04.86 Line: 1462, column: 12
+Jun 28, 2015 24:31:04.86 Handler function DebuggerClient.requester threw an exception: Error: resume command sent while not paused. Currently resuming
+Jun 28, 2015 24:31:04.86 Stack: ThreadClient.prototype._assertPaused@resource://gre/modules/devtools/dbg-client.jsm:1462:13
+Jun 28, 2015 24:31:04.86 ThreadClient.prototype._doResume<.before@resource://gre/modules/devtools/dbg-client.jsm:1482:7
+Jun 28, 2015 24:31:04.86 DebuggerClient.requester/<@resource://gre/modules/devtools/dbg-client.jsm:337:24
+Jun 28, 2015 24:31:04.86 makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/DevToolsUtils.js:82:14
+Jun 28, 2015 24:31:04.86 ThreadClient.prototype.stepOver@resource://gre/modules/devtools/dbg-client.jsm:1548:5
+Jun 28, 2015 24:31:04.86 DebuggerTool.prototype<.stepOver@chrome://firebug/content/debugger/debuggerTool.js:385:1
+Jun 28, 2015 24:31:04.86 Firebug.Debugger<.stepOver@chrome://firebug/content/debugger/debugger.js:389:9
+Jun 28, 2015 24:31:04.86 oncommand@chrome://firebug/content/firefox/firebugFrame.xul:1:1
+Jun 28, 2015 24:31:04.86 EventLoop.prototype.enter@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:371:5
+Jun 28, 2015 24:31:04.86 ThreadActor.prototype._pushThreadPause@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:580:5
+Jun 28, 2015 24:31:04.86 ThreadActor.prototype._pauseAndRespond@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:779:7
+Jun 28, 2015 24:31:04.86 ThreadActor.prototype._makeSteppingHooks/steppingHookState.pauseAndRespond@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:913:16
+Jun 28, 2015 24:31:04.86 ThreadActor.prototype._makeOnStep/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:894:1
+Jun 28, 2015 24:31:04.86 .ready@http://localhost:8080/WebShop/js/jquery.min.js:4:2895
+Jun 28, 2015 24:31:04.86 S@http://localhost:8080/WebShop/js/jquery.min.js:4:548
+Jun 28, 2015 24:31:04.86 Line: 1462, column: 12
+Jun 28, 2015 24:31:04.95 Handler function DebuggerClient.requester threw an exception: Error: resume command sent while not paused. Currently resuming
+Jun 28, 2015 24:31:04.95 Stack: ThreadClient.prototype._assertPaused@resource://gre/modules/devtools/dbg-client.jsm:1462:13
+Jun 28, 2015 24:31:04.95 ThreadClient.prototype._doResume<.before@resource://gre/modules/devtools/dbg-client.jsm:1482:7
+Jun 28, 2015 24:31:04.95 DebuggerClient.requester/<@resource://gre/modules/devtools/dbg-client.jsm:337:24
+Jun 28, 2015 24:31:04.95 makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/DevToolsUtils.js:82:14
+Jun 28, 2015 24:31:04.95 ThreadClient.prototype.stepOver@resource://gre/modules/devtools/dbg-client.jsm:1548:5
+Jun 28, 2015 24:31:04.95 DebuggerTool.prototype<.stepOver@chrome://firebug/content/debugger/debuggerTool.js:385:1
+Jun 28, 2015 24:31:04.95 Firebug.Debugger<.stepOver@chrome://firebug/content/debugger/debugger.js:389:9
+Jun 28, 2015 24:31:04.95 oncommand@chrome://firebug/content/firefox/firebugFrame.xul:1:1
+Jun 28, 2015 24:31:04.95 EventLoop.prototype.enter@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:371:5
+Jun 28, 2015 24:31:04.95 ThreadActor.prototype._pushThreadPause@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:580:5
+Jun 28, 2015 24:31:04.95 ThreadActor.prototype._pauseAndRespond@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:779:7
+Jun 28, 2015 24:31:04.95 ThreadActor.prototype._makeSteppingHooks/steppingHookState.pauseAndRespond@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:913:16
+Jun 28, 2015 24:31:04.95 ThreadActor.prototype._makeOnStep/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:894:1
+Jun 28, 2015 24:31:04.95 .ready@http://localhost:8080/WebShop/js/jquery.min.js:4:2895
+Jun 28, 2015 24:31:04.96 S@http://localhost:8080/WebShop/js/jquery.min.js:4:548
+Jun 28, 2015 24:31:04.96 Line: 1462, column: 12
+Jun 28, 2015 24:31:06.04 Handler function DebuggerClient.requester threw an exception: Error: resume command sent while not paused. Currently resuming
+Jun 28, 2015 24:31:06.04 Stack: ThreadClient.prototype._assertPaused@resource://gre/modules/devtools/dbg-client.jsm:1462:13
+Jun 28, 2015 24:31:06.04 ThreadClient.prototype._doResume<.before@resource://gre/modules/devtools/dbg-client.jsm:1482:7
+Jun 28, 2015 24:31:06.04 DebuggerClient.requester/<@resource://gre/modules/devtools/dbg-client.jsm:337:24
+Jun 28, 2015 24:31:06.04 makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/DevToolsUtils.js:82:14
+Jun 28, 2015 24:31:06.04 ThreadClient.prototype.stepOver@resource://gre/modules/devtools/dbg-client.jsm:1548:5
+Jun 28, 2015 24:31:06.04 DebuggerTool.prototype<.stepOver@chrome://firebug/content/debugger/debuggerTool.js:385:1
+Jun 28, 2015 24:31:06.04 Firebug.Debugger<.stepOver@chrome://firebug/content/debugger/debugger.js:389:9
+Jun 28, 2015 24:31:06.04 oncommand@chrome://firebug/content/firefox/firebugFrame.xul:1:1
+Jun 28, 2015 24:31:06.04 EventLoop.prototype.enter@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:371:5
+Jun 28, 2015 24:31:06.04 ThreadActor.prototype._pushThreadPause@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:580:5
+Jun 28, 2015 24:31:06.04 ThreadActor.prototype._pauseAndRespond@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:779:7
+Jun 28, 2015 24:31:06.04 ThreadActor.prototype._makeSteppingHooks/steppingHookState.pauseAndRespond@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:913:16
+Jun 28, 2015 24:31:06.04 ThreadActor.prototype._makeOnPop/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:836:1
+Jun 28, 2015 24:31:06.04 .ready@http://localhost:8080/WebShop/js/jquery.min.js:4:2966
+Jun 28, 2015 24:31:06.04 S@http://localhost:8080/WebShop/js/jquery.min.js:4:548
+Jun 28, 2015 24:31:06.04 Line: 1462, column: 12
+Jun 28, 2015 24:31:06.04 Handler function DebuggerClient.requester threw an exception: Error: resume command sent while not paused. Currently resuming
+Jun 28, 2015 24:31:06.05 Stack: ThreadClient.prototype._assertPaused@resource://gre/modules/devtools/dbg-client.jsm:1462:13
+Jun 28, 2015 24:31:06.05 ThreadClient.prototype._doResume<.before@resource://gre/modules/devtools/dbg-client.jsm:1482:7
+Jun 28, 2015 24:31:06.05 DebuggerClient.requester/<@resource://gre/modules/devtools/dbg-client.jsm:337:24
+Jun 28, 2015 24:31:06.05 makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/DevToolsUtils.js:82:14
+Jun 28, 2015 24:31:06.05 ThreadClient.prototype.stepOver@resource://gre/modules/devtools/dbg-client.jsm:1548:5
+Jun 28, 2015 24:31:06.05 DebuggerTool.prototype<.stepOver@chrome://firebug/content/debugger/debuggerTool.js:385:1
+Jun 28, 2015 24:31:06.05 Firebug.Debugger<.stepOver@chrome://firebug/content/debugger/debugger.js:389:9
+Jun 28, 2015 24:31:06.05 oncommand@chrome://firebug/content/firefox/firebugFrame.xul:1:1
+Jun 28, 2015 24:31:06.05 EventLoop.prototype.enter@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:371:5
+Jun 28, 2015 24:31:06.05 ThreadActor.prototype._pushThreadPause@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:580:5
+Jun 28, 2015 24:31:06.05 ThreadActor.prototype._pauseAndRespond@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:779:7
+Jun 28, 2015 24:31:06.05 ThreadActor.prototype._makeSteppingHooks/steppingHookState.pauseAndRespond@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:913:16
+Jun 28, 2015 24:31:06.05 ThreadActor.prototype._makeOnPop/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:836:1
+Jun 28, 2015 24:31:06.05 .ready@http://localhost:8080/WebShop/js/jquery.min.js:4:2966
+Jun 28, 2015 24:31:06.05 S@http://localhost:8080/WebShop/js/jquery.min.js:4:548
+Jun 28, 2015 24:31:06.05 Line: 1462, column: 12
+Jun 28, 2015 24:31:06.08 Handler function DebuggerClient.requester threw an exception: Error: resume command sent while not paused. Currently resuming
+Jun 28, 2015 24:31:06.08 Stack: ThreadClient.prototype._assertPaused@resource://gre/modules/devtools/dbg-client.jsm:1462:13
+Jun 28, 2015 24:31:06.08 ThreadClient.prototype._doResume<.before@resource://gre/modules/devtools/dbg-client.jsm:1482:7
+Jun 28, 2015 24:31:06.08 DebuggerClient.requester/<@resource://gre/modules/devtools/dbg-client.jsm:337:24
+Jun 28, 2015 24:31:06.09 makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/DevToolsUtils.js:82:14
+Jun 28, 2015 24:31:06.09 ThreadClient.prototype.stepOver@resource://gre/modules/devtools/dbg-client.jsm:1548:5
+Jun 28, 2015 24:31:06.09 DebuggerTool.prototype<.stepOver@chrome://firebug/content/debugger/debuggerTool.js:385:1
+Jun 28, 2015 24:31:06.09 Firebug.Debugger<.stepOver@chrome://firebug/content/debugger/debugger.js:389:9
+Jun 28, 2015 24:31:06.10 oncommand@chrome://firebug/content/firefox/firebugFrame.xul:1:1
+Jun 28, 2015 24:31:06.10 EventLoop.prototype.enter@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:371:5
+Jun 28, 2015 24:31:06.10 ThreadActor.prototype._pushThreadPause@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:580:5
+Jun 28, 2015 24:31:06.10 ThreadActor.prototype._pauseAndRespond@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:779:7
+Jun 28, 2015 24:31:06.10 ThreadActor.prototype._makeSteppingHooks/steppingHookState.pauseAndRespond@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:913:16
+Jun 28, 2015 24:31:06.10 ThreadActor.prototype._makeOnPop/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:836:1
+Jun 28, 2015 24:31:06.10 .ready@http://localhost:8080/WebShop/js/jquery.min.js:4:2966
+Jun 28, 2015 24:31:06.10 S@http://localhost:8080/WebShop/js/jquery.min.js:4:548
+Jun 28, 2015 24:31:06.10 Line: 1462, column: 12
+Jun 28, 2015 24:31:07.36 Handler function DebuggerClient.requester threw an exception: Error: resume command sent while not paused. Currently resuming
+Jun 28, 2015 24:31:07.36 Stack: ThreadClient.prototype._assertPaused@resource://gre/modules/devtools/dbg-client.jsm:1462:13
+Jun 28, 2015 24:31:07.36 ThreadClient.prototype._doResume<.before@resource://gre/modules/devtools/dbg-client.jsm:1482:7
+Jun 28, 2015 24:31:07.36 DebuggerClient.requester/<@resource://gre/modules/devtools/dbg-client.jsm:337:24
+Jun 28, 2015 24:31:07.36 makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/DevToolsUtils.js:82:14
+Jun 28, 2015 24:31:07.36 ThreadClient.prototype.stepOver@resource://gre/modules/devtools/dbg-client.jsm:1548:5
+Jun 28, 2015 24:31:07.36 DebuggerTool.prototype<.stepOver@chrome://firebug/content/debugger/debuggerTool.js:385:1
+Jun 28, 2015 24:31:07.36 Firebug.Debugger<.stepOver@chrome://firebug/content/debugger/debugger.js:389:9
+Jun 28, 2015 24:31:07.37 oncommand@chrome://firebug/content/firefox/firebugFrame.xul:1:1
+Jun 28, 2015 24:31:07.37 EventLoop.prototype.enter@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:371:5
+Jun 28, 2015 24:31:07.37 ThreadActor.prototype._pushThreadPause@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:580:5
+Jun 28, 2015 24:31:07.37 ThreadActor.prototype._pauseAndRespond@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:779:7
+Jun 28, 2015 24:31:07.38 ThreadActor.prototype._makeSteppingHooks/steppingHookState.pauseAndRespond@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:913:16
+Jun 28, 2015 24:31:07.38 ThreadActor.prototype._makeOnStep/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:894:1
+Jun 28, 2015 24:31:07.38 S@http://localhost:8080/WebShop/js/jquery.min.js:4:548
+Jun 28, 2015 24:31:07.38 Line: 1462, column: 12
+Jun 28, 2015 24:31:08.41 Handler function DebuggerClient.requester threw an exception: Error: resume command sent while not paused. Currently resuming
+Jun 28, 2015 24:31:08.41 Stack: ThreadClient.prototype._assertPaused@resource://gre/modules/devtools/dbg-client.jsm:1462:13
+Jun 28, 2015 24:31:08.41 ThreadClient.prototype._doResume<.before@resource://gre/modules/devtools/dbg-client.jsm:1482:7
+Jun 28, 2015 24:31:08.41 DebuggerClient.requester/<@resource://gre/modules/devtools/dbg-client.jsm:337:24
+Jun 28, 2015 24:31:08.41 makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/DevToolsUtils.js:82:14
+Jun 28, 2015 24:31:08.41 ThreadClient.prototype.stepOver@resource://gre/modules/devtools/dbg-client.jsm:1548:5
+Jun 28, 2015 24:31:08.41 DebuggerTool.prototype<.stepOver@chrome://firebug/content/debugger/debuggerTool.js:385:1
+Jun 28, 2015 24:31:08.41 Firebug.Debugger<.stepOver@chrome://firebug/content/debugger/debugger.js:389:9
+Jun 28, 2015 24:31:08.41 oncommand@chrome://firebug/content/firefox/firebugFrame.xul:1:1
+Jun 28, 2015 24:31:08.41 EventLoop.prototype.enter@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:371:5
+Jun 28, 2015 24:31:08.41 ThreadActor.prototype._pushThreadPause@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:580:5
+Jun 28, 2015 24:31:08.41 ThreadActor.prototype._pauseAndRespond@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:779:7
+Jun 28, 2015 24:31:08.41 ThreadActor.prototype._makeSteppingHooks/steppingHookState.pauseAndRespond@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:913:16
+Jun 28, 2015 24:31:08.41 ThreadActor.prototype._makeOnPop/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:836:1
+Jun 28, 2015 24:31:08.41 S@http://localhost:8080/WebShop/js/jquery.min.js:4:557
+Jun 28, 2015 24:31:08.41 Line: 1462, column: 12
+Jun 28, 2015 24:34:41.58 ThreadSources.prototype._fetchSourceMap threw an exception: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+Jun 28, 2015 24:34:41.58 Stack: SourceMapConsumer@resource://gre/modules/devtools/SourceMap.jsm:67:19
+Jun 28, 2015 24:34:41.58 ThreadSources.prototype._fetchSourceMap/fetching<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:5453:19
+Jun 28, 2015 24:34:41.58 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:867:23
+Jun 28, 2015 24:34:41.58 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:746:7
+Jun 28, 2015 24:34:41.58 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:688:37
+Jun 28, 2015 24:34:41.58 EventLoop.prototype.enter@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:371:5
+Jun 28, 2015 24:34:41.58 ThreadActor.prototype._pushThreadPause@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:580:5
+Jun 28, 2015 24:34:41.58 ThreadActor.prototype.onAttach@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:692:7
+Jun 28, 2015 24:34:41.58 DSC_onPacket@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/main.js:1450:15
+Jun 28, 2015 24:34:41.58 LocalDebuggerTransport.prototype.send/<@resource://gre/modules/devtools/dbg-client.jsm -> resource://gre/modules/devtools/transport/transport.js:561:11
+Jun 28, 2015 24:34:41.58 makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/DevToolsUtils.js:82:14
+Jun 28, 2015 24:34:41.58 makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/DevToolsUtils.js:82:14
+Jun 28, 2015 24:34:41.58 Line: 67, column: 18
+Jun 28, 2015 24:41:29.55 ThreadSources.prototype._fetchSourceMap threw an exception: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+Jun 28, 2015 24:41:29.55 Stack: SourceMapConsumer@resource://gre/modules/devtools/SourceMap.jsm:67:19
+Jun 28, 2015 24:41:29.55 ThreadSources.prototype._fetchSourceMap/fetching<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:5453:19
+Jun 28, 2015 24:41:29.55 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:867:23
+Jun 28, 2015 24:41:29.56 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:746:7
+Jun 28, 2015 24:41:29.56 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:688:37
+Jun 28, 2015 24:41:29.56 openTabPrompt@resource://gre/components/nsPrompter.js:423:13
+Jun 28, 2015 24:41:29.56 ModalPrompter.prototype.openPrompt@resource://gre/components/nsPrompter.js:535:17
+Jun 28, 2015 24:41:29.56 ModalPrompter.prototype.alert@resource://gre/components/nsPrompter.js:605:9
+Jun 28, 2015 24:41:29.56 .success/<@http://localhost:8080/WebShop/js/adminStartScripts.js:15:11
+Jun 28, 2015 24:41:29.56 .each@http://localhost:8080/WebShop/js/jquery.min.js:4:4570
+Jun 28, 2015 24:41:29.56 .success@http://localhost:8080/WebShop/js/adminStartScripts.js:14:10
+Jun 28, 2015 24:41:29.56 x.Callbacks/l@http://localhost:8080/WebShop/js/jquery.min.js:4:24579
+Jun 28, 2015 24:41:29.56 x.Callbacks/c.fireWith@http://localhost:8080/WebShop/js/jquery.min.js:4:25405
+Jun 28, 2015 24:41:29.56 k@http://localhost:8080/WebShop/js/jquery.min.js:6:4688
+Jun 28, 2015 24:41:29.56 .send/t/<@http://localhost:8080/WebShop/js/jquery.min.js:6:8494
+Jun 28, 2015 24:41:29.56 EventLoop.prototype.enter@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:371:5
+Jun 28, 2015 24:41:29.56 ThreadActor.prototype._pushThreadPause@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:580:5
+Jun 28, 2015 24:41:29.56 ThreadActor.prototype.onAttach@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:692:7
+Jun 28, 2015 24:41:29.56 DSC_onPacket@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/main.js:1450:15
+Jun 28, 2015 24:41:29.56 LocalDebuggerTransport.prototype.send/<@resource://gre/modules/devtools/dbg-client.jsm -> resource://gre/modules/devtools/transport/transport.js:561:11
+Jun 28, 2015 24:41:29.56 makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/DevToolsUtils.js:82:14
+Jun 28, 2015 24:41:29.56 makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/DevToolsUtils.js:82:14
+Jun 28, 2015 24:41:29.56 Line: 67, column: 18
+Jun 28, 2015 24:43:46.85 ThreadSources.prototype._fetchSourceMap threw an exception: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+Jun 28, 2015 24:43:46.85 Stack: SourceMapConsumer@resource://gre/modules/devtools/SourceMap.jsm:67:19
+Jun 28, 2015 24:43:46.85 ThreadSources.prototype._fetchSourceMap/fetching<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:5453:19
+Jun 28, 2015 24:43:46.85 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:867:23
+Jun 28, 2015 24:43:46.85 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:746:7
+Jun 28, 2015 24:43:46.85 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:688:37
+Jun 28, 2015 24:43:46.85 EventLoop.prototype.enter@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:371:5
+Jun 28, 2015 24:43:46.85 ThreadActor.prototype._pushThreadPause@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:580:5
+Jun 28, 2015 24:43:46.85 ThreadActor.prototype._pauseAndRespond@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:779:7
+Jun 28, 2015 24:43:46.85 BreakpointActor.prototype.hit@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:4736:12
+Jun 28, 2015 24:43:46.85 @http://localhost:8080/WebShop/js/adminStartScripts.js:9:9
+Jun 28, 2015 24:43:46.85 x.Callbacks/l@http://localhost:8080/WebShop/js/jquery.min.js:4:24579
+Jun 28, 2015 24:43:46.85 x.Callbacks/c.fireWith@http://localhost:8080/WebShop/js/jquery.min.js:4:25405
+Jun 28, 2015 24:43:46.85 .ready@http://localhost:8080/WebShop/js/jquery.min.js:4:2895
+Jun 28, 2015 24:43:46.85 S@http://localhost:8080/WebShop/js/jquery.min.js:4:548
+Jun 28, 2015 24:43:46.85 Line: 67, column: 18
+Jun 28, 2015 24:48:15.72 ThreadSources.prototype._fetchSourceMap threw an exception: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+Jun 28, 2015 24:48:15.72 Stack: SourceMapConsumer@resource://gre/modules/devtools/SourceMap.jsm:67:19
+Jun 28, 2015 24:48:15.72 ThreadSources.prototype._fetchSourceMap/fetching<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:5453:19
+Jun 28, 2015 24:48:15.74 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:867:23
+Jun 28, 2015 24:48:15.74 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:746:7
+Jun 28, 2015 24:48:15.74 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:688:37
+Jun 28, 2015 24:48:15.74 EventLoop.prototype.enter@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:371:5
+Jun 28, 2015 24:48:15.74 ThreadActor.prototype._pushThreadPause@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:580:5
+Jun 28, 2015 24:48:15.74 ThreadActor.prototype.onAttach@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:692:7
+Jun 28, 2015 24:48:15.74 DSC_onPacket@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/main.js:1450:15
+Jun 28, 2015 24:48:15.74 LocalDebuggerTransport.prototype.send/<@resource://gre/modules/devtools/dbg-client.jsm -> resource://gre/modules/devtools/transport/transport.js:561:11
+Jun 28, 2015 24:48:15.75 makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/DevToolsUtils.js:82:14
+Jun 28, 2015 24:48:15.75 makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/DevToolsUtils.js:82:14
+Jun 28, 2015 24:48:15.75 Line: 67, column: 18
+Jun 28, 2015 24:48:41.71 ThreadSources.prototype._fetchSourceMap threw an exception: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+Jun 28, 2015 24:48:41.71 Stack: SourceMapConsumer@resource://gre/modules/devtools/SourceMap.jsm:67:19
+Jun 28, 2015 24:48:41.71 ThreadSources.prototype._fetchSourceMap/fetching<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:5453:19
+Jun 28, 2015 24:48:41.71 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:867:23
+Jun 28, 2015 24:48:41.71 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:746:7
+Jun 28, 2015 24:48:41.71 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:688:37
+Jun 28, 2015 24:48:41.71 EventLoop.prototype.enter@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:371:5
+Jun 28, 2015 24:48:41.71 ThreadActor.prototype._pushThreadPause@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:580:5
+Jun 28, 2015 24:48:41.71 ThreadActor.prototype._pauseAndRespond@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:779:7
+Jun 28, 2015 24:48:41.71 BreakpointActor.prototype.hit@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:4736:12
+Jun 28, 2015 24:48:41.71 @http://localhost:8080/WebShop/js/adminStartScripts.js:9:9
+Jun 28, 2015 24:48:41.71 x.Callbacks/l@http://localhost:8080/WebShop/js/jquery.min.js:4:24579
+Jun 28, 2015 24:48:41.71 x.Callbacks/c.fireWith@http://localhost:8080/WebShop/js/jquery.min.js:4:25405
+Jun 28, 2015 24:48:41.71 .ready@http://localhost:8080/WebShop/js/jquery.min.js:4:2895
+Jun 28, 2015 24:48:41.71 S@http://localhost:8080/WebShop/js/jquery.min.js:4:548
+Jun 28, 2015 24:48:41.71 Line: 67, column: 18
+Jun 28, 2015 01:19:25.17 WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+Jun 28, 2015 01:19:25.17 pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+Jun 28, 2015 01:19:25.17 nsBrowserAccess.prototype.openURI@chrome://browser/content/browser.js:15258:21
+Jun 28, 2015 01:46:48.35 [GFX1-]: [D2D1.1] 4CreateBitmap failure Size(28,25287) Code: 0x80070057
+Jun 28, 2015 02:00:15.61 [GFX1-]: [D2D1.1] 4CreateBitmap failure Size(28,25287) Code: 0x80070057
+Jun 28, 2015 03:04:18.17 1435453458178	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+Jun 28, 2015 04:35:33.36 [GFX1-]: [D2D1.1] 4CreateBitmap failure Size(28,25287) Code: 0x80070057
+Jun 28, 2015 04:36:56.40 [GFX1-]: [D2D1.1] 4CreateBitmap failure Size(28,25287) Code: 0x80070057
+Jun 28, 2015 05:01:53.97 ThreadSources.prototype._fetchSourceMap threw an exception: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+Jun 28, 2015 05:01:53.97 Stack: SourceMapConsumer@resource://gre/modules/devtools/SourceMap.jsm:67:19
+Jun 28, 2015 05:01:53.97 ThreadSources.prototype._fetchSourceMap/fetching<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:5453:19
+Jun 28, 2015 05:01:53.97 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:867:23
+Jun 28, 2015 05:01:53.97 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:746:7
+Jun 28, 2015 05:01:53.97 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:688:37
+Jun 28, 2015 05:01:53.97 EventLoop.prototype.enter@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:371:5
+Jun 28, 2015 05:01:53.97 ThreadActor.prototype._pushThreadPause@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:580:5
+Jun 28, 2015 05:01:53.97 ThreadActor.prototype.onAttach@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:692:7
+Jun 28, 2015 05:01:53.98 DSC_onPacket@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/main.js:1450:15
+Jun 28, 2015 05:01:53.98 LocalDebuggerTransport.prototype.send/<@resource://gre/modules/devtools/dbg-client.jsm -> resource://gre/modules/devtools/transport/transport.js:561:11
+Jun 28, 2015 05:01:53.98 makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/DevToolsUtils.js:82:14
+Jun 28, 2015 05:01:53.98 makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/DevToolsUtils.js:82:14
+Jun 28, 2015 05:01:53.98 Line: 67, column: 18
+Jun 28, 2015 05:02:20.50 ThreadSources.prototype._fetchSourceMap threw an exception: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+Jun 28, 2015 05:02:20.50 Stack: SourceMapConsumer@resource://gre/modules/devtools/SourceMap.jsm:67:19
+Jun 28, 2015 05:02:20.50 ThreadSources.prototype._fetchSourceMap/fetching<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:5453:19
+Jun 28, 2015 05:02:20.50 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:867:23
+Jun 28, 2015 05:02:20.50 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:746:7
+Jun 28, 2015 05:02:20.50 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:688:37
+Jun 28, 2015 05:02:20.50 EventLoop.prototype.enter@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:371:5
+Jun 28, 2015 05:02:20.50 ThreadActor.prototype._pushThreadPause@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:580:5
+Jun 28, 2015 05:02:20.50 ThreadActor.prototype._pauseAndRespond@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:779:7
+Jun 28, 2015 05:02:20.50 BreakpointActor.prototype.hit@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:4736:12
+Jun 28, 2015 05:02:20.50 @http://localhost:8080/WebShop/js/adminStartScripts.js:90:7
+Jun 28, 2015 05:02:20.50 x.event.dispatch@http://localhost:8080/WebShop/js/jquery.min.js:5:9453
+Jun 28, 2015 05:02:20.50 x.event.add/y.handle@http://localhost:8080/WebShop/js/jquery.min.js:5:6271
+Jun 28, 2015 05:02:20.50 Line: 67, column: 18
+Jun 28, 2015 05:02:55.93 [GFX1-]: [D2D1.1] 4CreateBitmap failure Size(28,25287) Code: 0x80070057
+Jun 28, 2015 05:04:59.81 [GFX1-]: [D2D1.1] 4CreateBitmap failure Size(28,25287) Code: 0x80070057
+Jun 28, 2015 05:06:59.82 [GFX1-]: [D2D1.1] 4CreateBitmap failure Size(28,25287) Code: 0x80070057
+Jun 28, 2015 05:09:29.83 [GFX1-]: [D2D1.1] 4CreateBitmap failure Size(28,25287) Code: 0x80070057
+Jun 28, 2015 05:11:42.89 [GFX1-]: [D2D1.1] 4CreateBitmap failure Size(28,25287) Code: 0x80070057
+Jun 28, 2015 05:13:59.87 [GFX1-]: [D2D1.1] 4CreateBitmap failure Size(28,25287) Code: 0x80070057
+Jun 28, 2015 05:15:59.87 [GFX1-]: [D2D1.1] 4CreateBitmap failure Size(28,25287) Code: 0x80070057
+Jun 28, 2015 05:17:59.87 [GFX1-]: [D2D1.1] 4CreateBitmap failure Size(28,25287) Code: 0x80070057
+Jun 28, 2015 05:19:59.89 [GFX1-]: [D2D1.1] 4CreateBitmap failure Size(28,25287) Code: 0x80070057
+Jun 28, 2015 05:22:12.28 [GFX1-]: [D2D1.1] 4CreateBitmap failure Size(28,25287) Code: 0x80070057
+Jun 28, 2015 05:49:03.91 [GFX1-]: [D2D1.1] 4CreateBitmap failure Size(28,25287) Code: 0x80070057
+Jun 28, 2015 05:50:30.32 [GFX1-]: [D2D1.1] 4CreateBitmap failure Size(28,25287) Code: 0x80070057
+Jun 28, 2015 05:52:30.33 [GFX1-]: [D2D1.1] 4CreateBitmap failure Size(28,25287) Code: 0x80070057
+Jun 28, 2015 14:01:51.07 W/MPEG4Extractor( 3900): Error -1004 parsing chuck at offset 0 looking for first track
+Jun 28, 2015 14:01:51.10 W/MPEG4Extractor( 3900): Error -1004 parsing chuck at offset 0 looking for first track
+Jun 28, 2015 14:03:28.84 W/MPEG4Extractor( 3900): Error -1004 parsing chuck at offset 668 looking for first track
+Jun 28, 2015 14:03:28.89 W/MPEG4Extractor( 3900): Error -1004 parsing chuck at offset 1294 looking for first track
+Jun 28, 2015 14:03:29.22 W/MPEG4Extractor( 3900): Error -1004 parsing chuck at offset 690 looking for first track
+Jun 28, 2015 14:03:29.23 W/MPEG4Extractor( 3900): Error -1004 parsing chuck at offset 2599 looking for first track
+Jun 28, 2015 14:05:10.30 W/MPEG4Extractor( 3900): Error -1004 parsing chuck at offset 0 looking for first track
+Jun 28, 2015 14:05:10.34 W/MPEG4Extractor( 3900): Error -1004 parsing chuck at offset 0 looking for first track
+Jun 28, 2015 14:05:10.40 W/MPEG4Extractor( 3900): Error -1004 parsing chuck at offset 0 looking for first track
+Jun 28, 2015 14:23:40.67 E/MPEG4Extractor( 3900): No width or height, assuming worst case 1080p
+Jun 28, 2015 14:24:09.31 [NPAPI 3816] WARNING: pipe error: 109: file c:/builds/moz2_slave/rel-m-rel-w32_bld-000000000000/build/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 333
+Jun 28, 2015 14:25:07.68 E/MPEG4Extractor( 3900): No width or height, assuming worst case 1080p
+Jun 28, 2015 14:32:40.88 E/MPEG4Extractor( 3900): No width or height, assuming worst case 1080p
+Jun 28, 2015 17:10:07.74 E/MPEG4Extractor( 3900): No width or height, assuming worst case 1080p
+Jun 28, 2015 17:10:08.50 E/MPEG4Extractor( 3900): No width or height, assuming worst case 1080p
+Jun 28, 2015 17:10:35.09 WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+Jun 28, 2015 17:10:35.09 pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+Jun 28, 2015 17:10:35.09 nsBrowserAccess.prototype.openURI@chrome://browser/content/browser.js:15258:21
+Jun 28, 2015 17:10:35.09 ll@https://mail.google.com/_/scs/mail-static/_/js/k=gmail.main.sr.bCSlAV_HfIs.O/m=m_i,t,it/am=PiMawvzf-4MYY5Bd-kjF_v33u0uKn30e_t2bAJK9APi_2f8D-D9wH30hAQ/rt=h/d=1/t=zcms/rs=AHGWq9CKVo7lJynemwTlb3iHlV76enD0vQ:730:125
+Jun 28, 2015 17:10:35.09 pcb.prototype.openWindow@https://mail.google.com/_/scs/mail-static/_/js/k=gmail.main.sr.bCSlAV_HfIs.O/m=m_i,t,it/am=PiMawvzf-4MYY5Bd-kjF_v33u0uKn30e_t2bAJK9APi_2f8D-D9wH30hAQ/rt=h/d=1/t=zcms/rs=AHGWq9CKVo7lJynemwTlb3iHlV76enD0vQ:1747:108
+Jun 28, 2015 17:10:35.09 qcb@https://mail.google.com/_/scs/mail-static/_/js/k=gmail.main.sr.bCSlAV_HfIs.O/m=m_i,t,it/am=PiMawvzf-4MYY5Bd-kjF_v33u0uKn30e_t2bAJK9APi_2f8D-D9wH30hAQ/rt=h/d=1/t=zcms/rs=AHGWq9CKVo7lJynemwTlb3iHlV76enD0vQ:1748:247
+Jun 28, 2015 17:10:35.09 qw@https://mail.google.com/_/scs/mail-static/_/js/k=gmail.main.sr.bCSlAV_HfIs.O/m=m_i,t,it/am=PiMawvzf-4MYY5Bd-kjF_v33u0uKn30e_t2bAJK9APi_2f8D-D9wH30hAQ/rt=h/d=1/t=zcms/rs=AHGWq9CKVo7lJynemwTlb3iHlV76enD0vQ:1748:57
+Jun 28, 2015 17:10:35.09 f.lK@https://mail.google.com/_/scs/mail-static/_/js/k=gmail.main.sr.bCSlAV_HfIs.O/m=m_i,t,it/am=PiMawvzf-4MYY5Bd-kjF_v33u0uKn30e_t2bAJK9APi_2f8D-D9wH30hAQ/rt=h/d=1/t=zcms/rs=AHGWq9CKVo7lJynemwTlb3iHlV76enD0vQ:2569:66
+Jun 28, 2015 17:10:35.09 OL.prototype.Mg@/_/scs/mail-static/_/js/k=gmail.main.sr.bCSlAV_HfIs.O/m=sy452,sy175,sy430,sy434,sy442,sy352,sy322,sy432,sy438,sy444,sy443,sy441,sy456,sy426,sy61,sy429,sy440,sy447,sy455,sy464,sy460,sy56,sy189,sy199,sy231,sy412,sy425,sy427,sy428,sy431,sy433,sy435,sy439,sy445,sy448,sy454,sy458,sy459,sy465,sy461,sy462,sy463,sy468,cv/am=PiMawvzf-4MYY5Bd-kjF_v33u0uKn30e_t2bAJK9APi_2f8D-D9wH30hAQ/rt=j/t=zcms/rs=AHGWq9CKVo7lJynemwTlb3iHlV76enD0vQ:954:426
+Jun 28, 2015 17:10:35.09 OL.prototype.JXa@/_/scs/mail-static/_/js/k=gmail.main.sr.bCSlAV_HfIs.O/m=sy452,sy175,sy430,sy434,sy442,sy352,sy322,sy432,sy438,sy444,sy443,sy441,sy456,sy426,sy61,sy429,sy440,sy447,sy455,sy464,sy460,sy56,sy189,sy199,sy231,sy412,sy425,sy427,sy428,sy431,sy433,sy435,sy439,sy445,sy448,sy454,sy458,sy459,sy465,sy461,sy462,sy463,sy468,cv/am=PiMawvzf-4MYY5Bd-kjF_v33u0uKn30e_t2bAJK9APi_2f8D-D9wH30hAQ/rt=j/t=zcms/rs=AHGWq9CKVo7lJynemwTlb3iHlV76enD0vQ:951:346
+Jun 28, 2015 17:10:35.09 wda@https://mail.google.com/_/scs/mail-static/_/js/k=gmail.main.sr.bCSlAV_HfIs.O/m=m_i,t,it/am=PiMawvzf-4MYY5Bd-kjF_v33u0uKn30e_t2bAJK9APi_2f8D-D9wH30hAQ/rt=h/d=1/t=zcms/rs=AHGWq9CKVo7lJynemwTlb3iHlV76enD0vQ:92:464
+Jun 28, 2015 17:10:35.09 rda@https://mail.google.com/_/scs/mail-static/_/js/k=gmail.main.sr.bCSlAV_HfIs.O/m=m_i,t,it/am=PiMawvzf-4MYY5Bd-kjF_v33u0uKn30e_t2bAJK9APi_2f8D-D9wH30hAQ/rt=h/d=1/t=zcms/rs=AHGWq9CKVo7lJynemwTlb3iHlV76enD0vQ:93:459
+Jun 28, 2015 17:10:35.09 nfa/<@https://mail.google.com/_/scs/mail-static/_/js/k=gmail.main.sr.bCSlAV_HfIs.O/m=m_i,t,it/am=PiMawvzf-4MYY5Bd-kjF_v33u0uKn30e_t2bAJK9APi_2f8D-D9wH30hAQ/rt=h/d=1/t=zcms/rs=AHGWq9CKVo7lJynemwTlb3iHlV76enD0vQ:157:256
+Jun 28, 2015 17:10:35.09 fe.prototype.ha/c@https://mail.google.com/_/scs/mail-static/_/js/k=gmail.main.sr.bCSlAV_HfIs.O/m=m_i,t,it/am=PiMawvzf-4MYY5Bd-kjF_v33u0uKn30e_t2bAJK9APi_2f8D-D9wH30hAQ/rt=h/d=1/t=zcms/rs=AHGWq9CKVo7lJynemwTlb3iHlV76enD0vQ:154:134
+Jun 28, 2015 17:10:35.09 pda/b<@https://mail.google.com/_/scs/mail-static/_/js/k=gmail.main.sr.bCSlAV_HfIs.O/m=m_i,t,it/am=PiMawvzf-4MYY5Bd-kjF_v33u0uKn30e_t2bAJK9APi_2f8D-D9wH30hAQ/rt=h/d=1/t=zcms/rs=AHGWq9CKVo7lJynemwTlb3iHlV76enD0vQ:90:67
+Jun 28, 2015 17:11:46.81 ThreadSources.prototype._fetchSourceMap threw an exception: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+Jun 28, 2015 17:11:46.81 Stack: SourceMapConsumer@resource://gre/modules/devtools/SourceMap.jsm:67:19
+Jun 28, 2015 17:11:46.81 ThreadSources.prototype._fetchSourceMap/fetching<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:5453:19
+Jun 28, 2015 17:11:46.81 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:867:23
+Jun 28, 2015 17:11:46.81 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:746:7
+Jun 28, 2015 17:11:46.81 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:688:37
+Jun 28, 2015 17:11:46.81 EventLoop.prototype.enter@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:371:5
+Jun 28, 2015 17:11:46.81 ThreadActor.prototype._pushThreadPause@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:580:5
+Jun 28, 2015 17:11:46.81 ThreadActor.prototype.onAttach@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:692:7
+Jun 28, 2015 17:11:46.81 DSC_onPacket@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/main.js:1450:15
+Jun 28, 2015 17:11:46.81 LocalDebuggerTransport.prototype.send/<@resource://gre/modules/devtools/dbg-client.jsm -> resource://gre/modules/devtools/transport/transport.js:561:11
+Jun 28, 2015 17:11:46.81 makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/DevToolsUtils.js:82:14
+Jun 28, 2015 17:11:46.81 makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/DevToolsUtils.js:82:14
+Jun 28, 2015 17:11:46.81 Line: 67, column: 18
+Jun 28, 2015 17:37:29.35 ThreadSources.prototype._fetchSourceMap threw an exception: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+Jun 28, 2015 17:37:29.35 Stack: SourceMapConsumer@resource://gre/modules/devtools/SourceMap.jsm:67:19
+Jun 28, 2015 17:37:29.35 ThreadSources.prototype._fetchSourceMap/fetching<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:5453:19
+Jun 28, 2015 17:37:29.35 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:867:23
+Jun 28, 2015 17:37:29.35 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:746:7
+Jun 28, 2015 17:37:29.35 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:688:37
+Jun 28, 2015 17:37:29.35 EventLoop.prototype.enter@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:371:5
+Jun 28, 2015 17:37:29.35 ThreadActor.prototype._pushThreadPause@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:580:5
+Jun 28, 2015 17:37:29.35 ThreadActor.prototype.onAttach@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:692:7
+Jun 28, 2015 17:37:29.35 DSC_onPacket@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/main.js:1450:15
+Jun 28, 2015 17:37:29.35 LocalDebuggerTransport.prototype.send/<@resource://gre/modules/devtools/dbg-client.jsm -> resource://gre/modules/devtools/transport/transport.js:561:11
+Jun 28, 2015 17:37:29.35 makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/DevToolsUtils.js:82:14
+Jun 28, 2015 17:37:29.35 makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/DevToolsUtils.js:82:14
+Jun 28, 2015 17:37:29.35 Line: 67, column: 18
+Jun 28, 2015 17:37:45.85 ThreadSources.prototype._fetchSourceMap threw an exception: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+Jun 28, 2015 17:37:45.85 Stack: SourceMapConsumer@resource://gre/modules/devtools/SourceMap.jsm:67:19
+Jun 28, 2015 17:37:45.85 ThreadSources.prototype._fetchSourceMap/fetching<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:5453:19
+Jun 28, 2015 17:37:45.85 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:867:23
+Jun 28, 2015 17:37:45.85 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:746:7
+Jun 28, 2015 17:37:45.85 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:688:37
+Jun 28, 2015 17:37:45.85 EventLoop.prototype.enter@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:371:5
+Jun 28, 2015 17:37:45.85 ThreadActor.prototype._pushThreadPause@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:580:5
+Jun 28, 2015 17:37:45.85 ThreadActor.prototype._pauseAndRespond@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:779:7
+Jun 28, 2015 17:37:45.85 BreakpointActor.prototype.hit@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:4736:12
+Jun 28, 2015 17:37:45.85 @http://localhost:8080/WebShop/js/adminStartScripts.js:90:7
+Jun 28, 2015 17:37:45.85 x.event.dispatch@http://localhost:8080/WebShop/js/jquery.min.js:5:9453
+Jun 28, 2015 17:37:45.85 x.event.add/y.handle@http://localhost:8080/WebShop/js/jquery.min.js:5:6271
+Jun 28, 2015 17:37:45.85 Line: 67, column: 18
+Jun 28, 2015 17:40:09.40 ThreadSources.prototype._fetchSourceMap threw an exception: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+Jun 28, 2015 17:40:09.40 Stack: SourceMapConsumer@resource://gre/modules/devtools/SourceMap.jsm:67:19
+Jun 28, 2015 17:40:09.40 ThreadSources.prototype._fetchSourceMap/fetching<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:5453:19
+Jun 28, 2015 17:40:09.40 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:867:23
+Jun 28, 2015 17:40:09.40 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:746:7
+Jun 28, 2015 17:40:09.40 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:688:37
+Jun 28, 2015 17:40:09.40 EventLoop.prototype.enter@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:371:5
+Jun 28, 2015 17:40:09.40 ThreadActor.prototype._pushThreadPause@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:580:5
+Jun 28, 2015 17:40:09.40 ThreadActor.prototype.onAttach@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:692:7
+Jun 28, 2015 17:40:09.40 DSC_onPacket@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/main.js:1450:15
+Jun 28, 2015 17:40:09.40 LocalDebuggerTransport.prototype.send/<@resource://gre/modules/devtools/dbg-client.jsm -> resource://gre/modules/devtools/transport/transport.js:561:11
+Jun 28, 2015 17:40:09.40 makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/DevToolsUtils.js:82:14
+Jun 28, 2015 17:40:09.40 makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/DevToolsUtils.js:82:14
+Jun 28, 2015 17:40:09.40 EventLoop.prototype.enter@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:371:5
+Jun 28, 2015 17:40:09.40 ThreadActor.prototype._pushThreadPause@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:580:5
+Jun 28, 2015 17:40:09.40 ThreadActor.prototype._pauseAndRespond@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:779:7
+Jun 28, 2015 17:40:09.40 ThreadActor.prototype._makeSteppingHooks/steppingHookState.pauseAndRespond@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:913:16
+Jun 28, 2015 17:40:09.40 ThreadActor.prototype._makeOnPop/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:836:1
+Jun 28, 2015 17:40:09.40 x.event.dispatch@http://localhost:8080/WebShop/js/jquery.min.js:5:9648
+Jun 28, 2015 17:40:09.40 x.event.add/y.handle@http://localhost:8080/WebShop/js/jquery.min.js:5:6271
+Jun 28, 2015 17:40:09.40 Line: 67, column: 18
+Jun 28, 2015 17:47:44.02 ThreadSources.prototype._fetchSourceMap threw an exception: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+Jun 28, 2015 17:47:44.03 Stack: SourceMapConsumer@resource://gre/modules/devtools/SourceMap.jsm:67:19
+Jun 28, 2015 17:47:44.03 ThreadSources.prototype._fetchSourceMap/fetching<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:5453:19
+Jun 28, 2015 17:47:44.03 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:867:23
+Jun 28, 2015 17:47:44.03 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:746:7
+Jun 28, 2015 17:47:44.03 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:688:37
+Jun 28, 2015 17:47:44.03 EventLoop.prototype.enter@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:371:5
+Jun 28, 2015 17:47:44.03 ThreadActor.prototype._pushThreadPause@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:580:5
+Jun 28, 2015 17:47:44.03 ThreadActor.prototype.onAttach@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:692:7
+Jun 28, 2015 17:47:44.03 DSC_onPacket@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/main.js:1450:15
+Jun 28, 2015 17:47:44.03 LocalDebuggerTransport.prototype.send/<@resource://gre/modules/devtools/dbg-client.jsm -> resource://gre/modules/devtools/transport/transport.js:561:11
+Jun 28, 2015 17:47:44.03 makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/DevToolsUtils.js:82:14
+Jun 28, 2015 17:47:44.03 makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/DevToolsUtils.js:82:14
+Jun 28, 2015 17:47:44.03 EventLoop.prototype.enter@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:371:5
+Jun 28, 2015 17:47:44.03 ThreadActor.prototype._pushThreadPause@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:580:5
+Jun 28, 2015 17:47:44.03 ThreadActor.prototype._pauseAndRespond@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:779:7
+Jun 28, 2015 17:47:44.03 ThreadActor.prototype._makeSteppingHooks/steppingHookState.pauseAndRespond@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:913:16
+Jun 28, 2015 17:47:44.03 ThreadActor.prototype._makeOnPop/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:836:1
+Jun 28, 2015 17:47:44.03 x.event.dispatch@http://localhost:8080/WebShop/js/jquery.min.js:5:9648
+Jun 28, 2015 17:47:44.03 x.event.add/y.handle@http://localhost:8080/WebShop/js/jquery.min.js:5:6271
+Jun 28, 2015 17:47:44.03 Line: 67, column: 18
+Jun 28, 2015 17:47:48.41 ThreadSources.prototype._fetchSourceMap threw an exception: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+Jun 28, 2015 17:47:48.41 Stack: SourceMapConsumer@resource://gre/modules/devtools/SourceMap.jsm:67:19
+Jun 28, 2015 17:47:48.41 ThreadSources.prototype._fetchSourceMap/fetching<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:5453:19
+Jun 28, 2015 17:47:48.41 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:867:23
+Jun 28, 2015 17:47:48.41 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:746:7
+Jun 28, 2015 17:47:48.41 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:688:37
+Jun 28, 2015 17:47:48.41 EventLoop.prototype.enter@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:371:5
+Jun 28, 2015 17:47:48.41 ThreadActor.prototype._pushThreadPause@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:580:5
+Jun 28, 2015 17:47:48.41 ThreadActor.prototype.onAttach@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:692:7
+Jun 28, 2015 17:47:48.41 DSC_onPacket@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/main.js:1450:15
+Jun 28, 2015 17:47:48.41 LocalDebuggerTransport.prototype.send/<@resource://gre/modules/devtools/dbg-client.jsm -> resource://gre/modules/devtools/transport/transport.js:561:11
+Jun 28, 2015 17:47:48.41 makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/DevToolsUtils.js:82:14
+Jun 28, 2015 17:47:48.41 makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/DevToolsUtils.js:82:14
+Jun 28, 2015 17:47:48.41 EventLoop.prototype.enter@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:371:5
+Jun 28, 2015 17:47:48.41 ThreadActor.prototype._pushThreadPause@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:580:5
+Jun 28, 2015 17:47:48.41 ThreadActor.prototype._pauseAndRespond@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:779:7
+Jun 28, 2015 17:47:48.41 ThreadActor.prototype._makeSteppingHooks/steppingHookState.pauseAndRespond@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:913:16
+Jun 28, 2015 17:47:48.41 ThreadActor.prototype._makeOnPop/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:836:1
+Jun 28, 2015 17:47:48.41 x.event.dispatch@http://localhost:8080/WebShop/js/jquery.min.js:5:9648
+Jun 28, 2015 17:47:48.41 x.event.add/y.handle@http://localhost:8080/WebShop/js/jquery.min.js:5:6271
+Jun 28, 2015 17:47:48.41 Line: 67, column: 18
+Jun 28, 2015 17:47:49.29 ThreadSources.prototype._fetchSourceMap threw an exception: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+Jun 28, 2015 17:47:49.29 Stack: SourceMapConsumer@resource://gre/modules/devtools/SourceMap.jsm:67:19
+Jun 28, 2015 17:47:49.29 ThreadSources.prototype._fetchSourceMap/fetching<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:5453:19
+Jun 28, 2015 17:47:49.29 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:867:23
+Jun 28, 2015 17:47:49.29 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:746:7
+Jun 28, 2015 17:47:49.29 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:688:37
+Jun 28, 2015 17:47:49.29 EventLoop.prototype.enter@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:371:5
+Jun 28, 2015 17:47:49.29 ThreadActor.prototype._pushThreadPause@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:580:5
+Jun 28, 2015 17:47:49.29 ThreadActor.prototype.onAttach@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:692:7
+Jun 28, 2015 17:47:49.29 DSC_onPacket@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/main.js:1450:15
+Jun 28, 2015 17:47:49.29 LocalDebuggerTransport.prototype.send/<@resource://gre/modules/devtools/dbg-client.jsm -> resource://gre/modules/devtools/transport/transport.js:561:11
+Jun 28, 2015 17:47:49.29 makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/DevToolsUtils.js:82:14
+Jun 28, 2015 17:47:49.29 makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/DevToolsUtils.js:82:14
+Jun 28, 2015 17:47:49.29 EventLoop.prototype.enter@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:371:5
+Jun 28, 2015 17:47:49.29 ThreadActor.prototype._pushThreadPause@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:580:5
+Jun 28, 2015 17:47:49.29 ThreadActor.prototype._pauseAndRespond@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:779:7
+Jun 28, 2015 17:47:49.29 ThreadActor.prototype._makeSteppingHooks/steppingHookState.pauseAndRespond@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:913:16
+Jun 28, 2015 17:47:49.29 ThreadActor.prototype._makeOnPop/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:836:1
+Jun 28, 2015 17:47:49.29 x.event.dispatch@http://localhost:8080/WebShop/js/jquery.min.js:5:9648
+Jun 28, 2015 17:47:49.29 x.event.add/y.handle@http://localhost:8080/WebShop/js/jquery.min.js:5:6271
+Jun 28, 2015 17:47:49.29 Line: 67, column: 18
+Jun 28, 2015 17:48:16.73 ThreadSources.prototype._fetchSourceMap threw an exception: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+Jun 28, 2015 17:48:16.73 Stack: SourceMapConsumer@resource://gre/modules/devtools/SourceMap.jsm:67:19
+Jun 28, 2015 17:48:16.73 ThreadSources.prototype._fetchSourceMap/fetching<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:5453:19
+Jun 28, 2015 17:48:16.73 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:867:23
+Jun 28, 2015 17:48:16.73 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:746:7
+Jun 28, 2015 17:48:16.73 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:688:37
+Jun 28, 2015 17:48:16.73 Line: 67, column: 18
+Jun 28, 2015 17:48:31.09 Handler function DebuggerClient.requester threw an exception: Error: resume command sent while not paused. Currently resuming
+Jun 28, 2015 17:48:31.09 Stack: ThreadClient.prototype._assertPaused@resource://gre/modules/devtools/dbg-client.jsm:1462:13
+Jun 28, 2015 17:48:31.09 ThreadClient.prototype._doResume<.before@resource://gre/modules/devtools/dbg-client.jsm:1482:7
+Jun 28, 2015 17:48:31.09 DebuggerClient.requester/<@resource://gre/modules/devtools/dbg-client.jsm:337:24
+Jun 28, 2015 17:48:31.09 makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/DevToolsUtils.js:82:14
+Jun 28, 2015 17:48:31.09 ThreadClient.prototype.stepOver@resource://gre/modules/devtools/dbg-client.jsm:1548:5
+Jun 28, 2015 17:48:31.09 DebuggerTool.prototype<.stepOver@chrome://firebug/content/debugger/debuggerTool.js:385:1
+Jun 28, 2015 17:48:31.09 Firebug.Debugger<.stepOver@chrome://firebug/content/debugger/debugger.js:389:9
+Jun 28, 2015 17:48:31.09 oncommand@chrome://firebug/content/firefox/firebugFrame.xul:1:1
+Jun 28, 2015 17:48:31.09 EventLoop.prototype.enter@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:371:5
+Jun 28, 2015 17:48:31.09 ThreadActor.prototype._pushThreadPause@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:580:5
+Jun 28, 2015 17:48:31.09 ThreadActor.prototype._pauseAndRespond@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:779:7
+Jun 28, 2015 17:48:31.09 ThreadActor.prototype._makeSteppingHooks/steppingHookState.pauseAndRespond@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:913:16
+Jun 28, 2015 17:48:31.09 ThreadActor.prototype._makeOnStep/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:894:1
+Jun 28, 2015 17:48:31.10 @http://localhost:8080/WebShop/js/adminStartScripts.js:99:7
+Jun 28, 2015 17:48:31.10 x.event.dispatch@http://localhost:8080/WebShop/js/jquery.min.js:5:9453
+Jun 28, 2015 17:48:31.10 x.event.add/y.handle@http://localhost:8080/WebShop/js/jquery.min.js:5:6271
+Jun 28, 2015 17:48:31.10 Line: 1462, column: 12
+Jun 28, 2015 18:14:20.00 W/MPEG4Extractor( 3900): Error -1004 parsing chuck at offset 0 looking for first track
+Jun 28, 2015 18:17:40.19 WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+Jun 28, 2015 18:17:40.19 pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+Jun 28, 2015 18:17:40.19 nsBrowserAccess.prototype.openURI@chrome://browser/content/browser.js:15258:21
+Jun 28, 2015 18:18:49.66 W/MPEG4Extractor( 3900): Error -1004 parsing chuck at offset 0 looking for first track
+Jun 28, 2015 18:18:49.76 W/MPEG4Extractor( 3900): Error -1004 parsing chuck at offset 0 looking for first track
+Jun 28, 2015 18:56:42.70 ThreadSources.prototype._fetchSourceMap threw an exception: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+Jun 28, 2015 18:56:42.70 Stack: SourceMapConsumer@resource://gre/modules/devtools/SourceMap.jsm:67:19
+Jun 28, 2015 18:56:42.70 ThreadSources.prototype._fetchSourceMap/fetching<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:5453:19
+Jun 28, 2015 18:56:42.70 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:867:23
+Jun 28, 2015 18:56:42.71 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:746:7
+Jun 28, 2015 18:56:42.71 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:688:37
+Jun 28, 2015 18:56:42.71 EventLoop.prototype.enter@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:371:5
+Jun 28, 2015 18:56:42.71 ThreadActor.prototype._pushThreadPause@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:580:5
+Jun 28, 2015 18:56:42.71 ThreadActor.prototype.onAttach@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:692:7
+Jun 28, 2015 18:56:42.71 DSC_onPacket@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/main.js:1450:15
+Jun 28, 2015 18:56:42.71 LocalDebuggerTransport.prototype.send/<@resource://gre/modules/devtools/dbg-client.jsm -> resource://gre/modules/devtools/transport/transport.js:561:11
+Jun 28, 2015 18:56:42.71 makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/DevToolsUtils.js:82:14
+Jun 28, 2015 18:56:42.71 makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/DevToolsUtils.js:82:14
+Jun 28, 2015 18:56:42.71 Line: 67, column: 18
+Jun 28, 2015 18:57:18.21 ThreadSources.prototype._fetchSourceMap threw an exception: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+Jun 28, 2015 18:57:18.21 Stack: SourceMapConsumer@resource://gre/modules/devtools/SourceMap.jsm:67:19
+Jun 28, 2015 18:57:18.21 ThreadSources.prototype._fetchSourceMap/fetching<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:5453:19
+Jun 28, 2015 18:57:18.21 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:867:23
+Jun 28, 2015 18:57:18.21 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:746:7
+Jun 28, 2015 18:57:18.21 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:688:37
+Jun 28, 2015 18:57:18.21 Line: 67, column: 18
+Jun 28, 2015 18:57:32.06 ThreadSources.prototype._fetchSourceMap threw an exception: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+Jun 28, 2015 18:57:32.06 Stack: SourceMapConsumer@resource://gre/modules/devtools/SourceMap.jsm:67:19
+Jun 28, 2015 18:57:32.06 ThreadSources.prototype._fetchSourceMap/fetching<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:5453:19
+Jun 28, 2015 18:57:32.06 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:867:23
+Jun 28, 2015 18:57:32.06 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:746:7
+Jun 28, 2015 18:57:32.06 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:688:37
+Jun 28, 2015 18:57:32.06 EventLoop.prototype.enter@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:371:5
+Jun 28, 2015 18:57:32.06 ThreadActor.prototype._pushThreadPause@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:580:5
+Jun 28, 2015 18:57:32.06 ThreadActor.prototype.onAttach@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:692:7
+Jun 28, 2015 18:57:32.06 DSC_onPacket@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/main.js:1450:15
+Jun 28, 2015 18:57:32.06 LocalDebuggerTransport.prototype.send/<@resource://gre/modules/devtools/dbg-client.jsm -> resource://gre/modules/devtools/transport/transport.js:561:11
+Jun 28, 2015 18:57:32.06 makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/DevToolsUtils.js:82:14
+Jun 28, 2015 18:57:32.07 makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/DevToolsUtils.js:82:14
+Jun 28, 2015 18:57:32.07 Line: 67, column: 18
+Jun 28, 2015 19:34:11.52 [GFX1-]: [D2D1.1] 4CreateBitmap failure Size(28,25287) Code: 0x80070057
+Jun 28, 2015 20:03:51.41 W/MPEG4Extractor( 3900): Error -1004 parsing chuck at offset 0 looking for first track
+Jun 28, 2015 20:03:51.45 W/MPEG4Extractor( 3900): Error -1004 parsing chuck at offset 0 looking for first track
+Jun 28, 2015 20:05:26.46 W/MPEG4Extractor( 3900): Error -1004 parsing chuck at offset 0 looking for first track
+Jun 28, 2015 20:05:26.47 W/MPEG4Extractor( 3900): Error -1004 parsing chuck at offset 0 looking for first track
+Jun 28, 2015 20:34:45.18 [GFX1-]: [D2D1.1] 4CreateBitmap failure Size(28,25287) Code: 0x80070057
+Jun 28, 2015 21:03:57.78 [GFX1-]: [D2D1.1] 4CreateBitmap failure Size(28,25287) Code: 0x80070057
+Jun 28, 2015 21:52:28.98 [GFX1-]: [D2D1.1] 4CreateBitmap failure Size(28,25287) Code: 0x80070057
+Jun 28, 2015 21:54:48.13 [GFX1-]: [D2D1.1] 4CreateBitmap failure Size(28,25287) Code: 0x80070057
+Jun 28, 2015 21:58:54.67 [GFX1-]: [D2D1.1] 4CreateBitmap failure Size(28,25287) Code: 0x80070057
+Jun 28, 2015 22:01:10.85 [GFX1-]: [D2D1.1] 4CreateBitmap failure Size(28,25287) Code: 0x80070057
+Jun 28, 2015 23:50:49.19 [GFX1-]: [D2D1.1] 4CreateBitmap failure Size(28,25287) Code: 0x80070057
+Jun 29, 2015 24:52:15.57 [GFX1-]: [D2D1.1] 4CreateBitmap failure Size(28,25287) Code: 0x80070057
+Jun 29, 2015 24:52:29.39 [GFX1-]: [D2D1.1] 4CreateBitmap failure Size(28,25287) Code: 0x80070057
+Jun 29, 2015 24:52:40.83 [GFX1-]: [D2D1.1] 4CreateBitmap failure Size(28,25287) Code: 0x80070057
+Jun 29, 2015 24:53:13.99 [GFX1-]: [D2D1.1] 4CreateBitmap failure Size(28,25287) Code: 0x80070057
+Jun 29, 2015 02:01:42.96 E/MPEG4Extractor( 3900): No width or height, assuming worst case 1080p
+Jun 29, 2015 02:22:31.75 W/MPEG4Extractor( 3900): Error -1004 parsing chuck at offset 0 looking for first track
+Jun 29, 2015 02:22:31.89 W/MPEG4Extractor( 3900): Error -1004 parsing chuck at offset 0 looking for first track
+Jun 29, 2015 02:22:31.94 W/MPEG4Extractor( 3900): Error -1004 parsing chuck at offset 0 looking for first track
+Jun 29, 2015 02:23:08.60 E/MPEG4Extractor( 3900): No width or height, assuming worst case 1080p
+Jun 29, 2015 02:23:43.98 WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+Jun 29, 2015 02:23:43.98 pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+Jun 29, 2015 02:23:43.98 nsBrowserAccess.prototype.openURI@chrome://browser/content/browser.js:15258:21
+Jun 29, 2015 02:23:43.98 popunder/a.ljPop@http://efukt.com/:724:904
+Jun 29, 2015 02:23:43.98 popunder@http://efukt.com/:724:975
+Jun 29, 2015 02:23:43.98 document.body.onclick@http://efukt.com/:724:2006
+Jun 29, 2015 02:23:44.29 WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+Jun 29, 2015 02:23:44.29 pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+Jun 29, 2015 02:23:44.29 nsBrowserAccess.prototype.openURI@chrome://browser/content/browser.js:15258:21
+Jun 29, 2015 02:24:20.23 WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+Jun 29, 2015 02:24:20.23 pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+Jun 29, 2015 02:24:20.23 nsBrowserAccess.prototype.openURI@chrome://browser/content/browser.js:15258:21
+Jun 29, 2015 02:24:34.01 WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+Jun 29, 2015 02:24:34.01 pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+Jun 29, 2015 02:24:34.01 nsBrowserAccess.prototype.openURI@chrome://browser/content/browser.js:15258:21
+Jun 29, 2015 02:24:34.01 popunder/a.ljPop@http://inhumanity.com/?utm_source=efukt&utm_medium=nav&utm_campaign=nav1:523:947
+Jun 29, 2015 02:24:34.01 popunder@http://inhumanity.com/?utm_source=efukt&utm_medium=nav&utm_campaign=nav1:523:1018
+Jun 29, 2015 02:24:34.01 document.body.onclick@http://inhumanity.com/?utm_source=efukt&utm_medium=nav&utm_campaign=nav1:523:2049
+Jun 29, 2015 02:24:34.33 WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+Jun 29, 2015 02:24:34.33 pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+Jun 29, 2015 02:24:34.33 nsBrowserAccess.prototype.openURI@chrome://browser/content/browser.js:15258:21
+Jun 29, 2015 02:27:08.58 [NPAPI 2040] WARNING: pipe error: 109: file c:/builds/moz2_slave/rel-m-rel-w32_bld-000000000000/build/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 333
+Jun 29, 2015 02:28:34.49 WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+Jun 29, 2015 02:28:34.49 pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+Jun 29, 2015 02:28:34.49 nsBrowserAccess.prototype.openURI@chrome://browser/content/browser.js:15258:21
+Jun 29, 2015 02:28:34.49 doPopunder/listenerEvent/doSameTabAd@http://www.tube8.com/amateur/first-time-enema-and-anal-beads/662211/:3004:61
+Jun 29, 2015 02:28:34.49 doPopunder/listenerEvent@http://www.tube8.com/amateur/first-time-enema-and-anal-beads/662211/:3124:57
+Jun 29, 2015 02:36:42.89 E/MPEG4Extractor( 3900): No width or height, assuming worst case 1080p
+Jun 29, 2015 03:06:22.61 1435539982613	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+Jun 29, 2015 03:33:06.10 E/MPEG4Extractor( 3900): No width or height, assuming worst case 1080p
+Jun 29, 2015 03:33:40.04 E/MPEG4Extractor( 3900): No width or height, assuming worst case 1080p
+Jun 29, 2015 03:33:49.27 E/MPEG4Extractor( 3900): No width or height, assuming worst case 1080p
+Jun 29, 2015 03:34:25.29 WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+Jun 29, 2015 03:34:25.29 pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+Jun 29, 2015 03:34:25.30 nsBrowserAccess.prototype.openURI@chrome://browser/content/browser.js:15258:21
+Jun 29, 2015 03:34:25.30 vA@https://s.ytimg.com/yts/jsbin/html5player-sr_RS-vfl9NCXFW/html5player.js:498:744
+Jun 29, 2015 03:34:25.30 f.Li/<@https://s.ytimg.com/yts/jsbin/html5player-sr_RS-vfl9NCXFW/html5player.js:667:427
+Jun 29, 2015 03:34:25.30 D<@https://s.ytimg.com/yts/jsbin/html5player-sr_RS-vfl9NCXFW/html5player.js:16:40
+Jun 29, 2015 03:34:25.30 lE@https://s.ytimg.com/yts/jsbin/html5player-sr_RS-vfl9NCXFW/html5player.js:605:399
+Jun 29, 2015 03:34:25.30 f.Li@https://s.ytimg.com/yts/jsbin/html5player-sr_RS-vfl9NCXFW/html5player.js:667:20
+Jun 29, 2015 03:34:25.30 f.Uz@https://s.ytimg.com/yts/jsbin/html5player-sr_RS-vfl9NCXFW/html5player.js:666:301
+Jun 29, 2015 03:34:25.30 f.M@https://s.ytimg.com/yts/jsbin/html5player-sr_RS-vfl9NCXFW/html5player.js:127:348
+Jun 29, 2015 03:34:25.30 TF/<@https://s.ytimg.com/yts/jsbin/html5player-sr_RS-vfl9NCXFW/html5player.js:641:104
+Jun 29, 2015 03:34:25.30 nn/h<@https://s.ytimg.com/yts/jsbin/html5player-sr_RS-vfl9NCXFW/html5player.js:202:396
+Jun 29, 2015 03:34:26.82 E/MPEG4Extractor( 3900): No width or height, assuming worst case 1080p
+Jun 29, 2015 03:34:37.05 E/MPEG4Extractor( 3900): No width or height, assuming worst case 1080p
+
+Jun 29, 2015 12:09:35.59 NEW SESSION
+Jun 29, 2015 12:09:35.59 ThreadSources.prototype._fetchSourceMap threw an exception: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+Jun 29, 2015 12:09:35.62 Stack: SourceMapConsumer@resource://gre/modules/devtools/SourceMap.jsm:67:19
+Jun 29, 2015 12:09:35.62 ThreadSources.prototype._fetchSourceMap/fetching<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:5453:19
+Jun 29, 2015 12:09:35.62 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:867:23
+Jun 29, 2015 12:09:35.62 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:746:7
+Jun 29, 2015 12:09:35.62 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:688:37
+Jun 29, 2015 12:09:35.62 EventLoop.prototype.enter@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:371:5
+Jun 29, 2015 12:09:35.62 ThreadActor.prototype._pushThreadPause@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:580:5
+Jun 29, 2015 12:09:35.62 ThreadActor.prototype.onAttach@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:692:7
+Jun 29, 2015 12:09:35.62 DSC_onPacket@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/main.js:1450:15
+Jun 29, 2015 12:09:35.62 LocalDebuggerTransport.prototype.send/<@resource://gre/modules/devtools/dbg-client.jsm -> resource://gre/modules/devtools/transport/transport.js:561:11
+Jun 29, 2015 12:09:35.62 makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/DevToolsUtils.js:82:14
+Jun 29, 2015 12:09:35.62 makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/DevToolsUtils.js:82:14
+Jun 29, 2015 12:09:35.62 Line: 67, column: 18
+Jun 29, 2015 12:10:12.28 ThreadSources.prototype._fetchSourceMap threw an exception: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+Jun 29, 2015 12:10:12.28 Stack: SourceMapConsumer@resource://gre/modules/devtools/SourceMap.jsm:67:19
+Jun 29, 2015 12:10:12.30 ThreadSources.prototype._fetchSourceMap/fetching<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:5453:19
+Jun 29, 2015 12:10:12.30 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:867:23
+Jun 29, 2015 12:10:12.31 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:746:7
+Jun 29, 2015 12:10:12.31 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:688:37
+Jun 29, 2015 12:10:12.31 EventLoop.prototype.enter@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:371:5
+Jun 29, 2015 12:10:12.31 ThreadActor.prototype._pushThreadPause@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:580:5
+Jun 29, 2015 12:10:12.31 ThreadActor.prototype.onAttach@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:692:7
+Jun 29, 2015 12:10:12.31 DSC_onPacket@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/main.js:1450:15
+Jun 29, 2015 12:10:12.31 LocalDebuggerTransport.prototype.send/<@resource://gre/modules/devtools/dbg-client.jsm -> resource://gre/modules/devtools/transport/transport.js:561:11
+Jun 29, 2015 12:10:12.31 makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/DevToolsUtils.js:82:14
+Jun 29, 2015 12:10:12.31 makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/DevToolsUtils.js:82:14
+Jun 29, 2015 12:10:12.31 Line: 67, column: 18
+Jun 29, 2015 12:10:16.50 ThreadSources.prototype._fetchSourceMap threw an exception: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+Jun 29, 2015 12:10:16.50 Stack: SourceMapConsumer@resource://gre/modules/devtools/SourceMap.jsm:67:19
+Jun 29, 2015 12:10:16.50 ThreadSources.prototype._fetchSourceMap/fetching<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:5453:19
+Jun 29, 2015 12:10:16.50 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:867:23
+Jun 29, 2015 12:10:16.50 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:746:7
+Jun 29, 2015 12:10:16.50 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:688:37
+Jun 29, 2015 12:10:16.50 Line: 67, column: 18
+Jun 29, 2015 12:10:16.59 console.error: 
+Jun 29, 2015 12:10:16.59   Message: TypeError: bpClient is undefined
+Jun 29, 2015 12:10:16.59   Stack:
+Jun 29, 2015 12:10:16.59     BreakpointTool.prototype<.onSetBreakpoint@chrome://firebug/content/debugger/breakpoints/breakpointTool.js:485:9
+Jun 29, 2015 12:10:16.59 SourceClient.prototype.setBreakpoint/doSetBreakpoint/<@resource://gre/modules/devtools/dbg-client.jsm:2473:9
+Jun 29, 2015 12:10:16.59 emit@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/event/core.js:97:9
+Jun 29, 2015 12:10:16.61 Request.prototype.emit@resource://gre/modules/devtools/dbg-client.jsm:1185:29
+Jun 29, 2015 12:10:16.61 DebuggerClient.prototype.onPacket@resource://gre/modules/devtools/dbg-client.jsm:1002:7
+Jun 29, 2015 12:10:16.61 LocalDebuggerTransport.prototype.send/<@resource://gre/modules/devtools/dbg-client.jsm -> resource://gre/modules/devtools/transport/transport.js:561:11
+Jun 29, 2015 12:10:16.61 makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/DevToolsUtils.js:82:14
+Jun 29, 2015 12:10:16.61 makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/DevToolsUtils.js:82:14
+Jun 29, 2015 12:10:16.61 
+Jun 29, 2015 12:10:18.95 ThreadSources.prototype._fetchSourceMap threw an exception: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+Jun 29, 2015 12:10:18.95 Stack: SourceMapConsumer@resource://gre/modules/devtools/SourceMap.jsm:67:19
+Jun 29, 2015 12:10:18.95 ThreadSources.prototype._fetchSourceMap/fetching<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:5453:19
+Jun 29, 2015 12:10:18.95 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:867:23
+Jun 29, 2015 12:10:18.95 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:746:7
+Jun 29, 2015 12:10:18.95 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:688:37
+Jun 29, 2015 12:10:18.97 Line: 67, column: 18
+
+Jul 05, 2015 01:43:09.53 NEW SESSION
+Jul 05, 2015 01:43:09.53 TabSources.prototype._fetchSourceMap threw an exception: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+Jul 05, 2015 01:43:09.55 Stack: SourceMapConsumer@resource://gre/modules/devtools/SourceMap.jsm:37:19
+Jul 05, 2015 01:43:09.55 TabSources.prototype._fetchSourceMap/fetching<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/utils/TabSources.js:426:19
+Jul 05, 2015 01:43:09.55 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:867:23
+Jul 05, 2015 01:43:09.55 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:746:7
+Jul 05, 2015 01:43:09.55 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:688:37
+Jul 05, 2015 01:43:09.55 EventLoop.prototype.enter@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:372:5
+Jul 05, 2015 01:43:09.55 ThreadActor.prototype._pushThreadPause@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:577:5
+Jul 05, 2015 01:43:09.55 ThreadActor.prototype.onAttach@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:694:7
+Jul 05, 2015 01:43:09.55 DSC_onPacket@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/main.js:1459:15
+Jul 05, 2015 01:43:09.55 LocalDebuggerTransport.prototype.send/<@resource://gre/modules/devtools/dbg-client.jsm -> resource://gre/modules/devtools/transport/transport.js:561:11
+Jul 05, 2015 01:43:09.55 makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/DevToolsUtils.js:82:14
+Jul 05, 2015 01:43:09.55 makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/DevToolsUtils.js:82:14
+Jul 05, 2015 01:43:09.55 Line: 37, column: 18
+Jul 05, 2015 01:47:24.26 W/MPEG4Extractor( 5648): Error -1004 parsing chuck at offset 0 looking for first track
+Jul 05, 2015 01:53:16.00 WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+Jul 05, 2015 01:53:16.00 pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+Jul 05, 2015 01:53:16.00 nsBrowserAccess.prototype.openURI@chrome://browser/content/browser.js:15459:21
+Jul 05, 2015 01:53:56.69 W/MPEG4Extractor( 5648): Error -1004 parsing chuck at offset 0 looking for first track
+Jul 05, 2015 01:56:10.79 console.warn: Asynchronous operation was aborted as selection changed.
+Jul 05, 2015 01:56:20.27 TabSources.prototype._fetchSourceMap threw an exception: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+Jul 05, 2015 01:56:20.27 Stack: SourceMapConsumer@resource://gre/modules/devtools/SourceMap.jsm:37:19
+Jul 05, 2015 01:56:20.27 TabSources.prototype._fetchSourceMap/fetching<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/utils/TabSources.js:426:19
+Jul 05, 2015 01:56:20.27 Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:867:23
+Jul 05, 2015 01:56:20.28 this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:746:7
+Jul 05, 2015 01:56:20.28 this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:688:37
+Jul 05, 2015 01:56:20.28 EventLoop.prototype.enter@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:372:5
+Jul 05, 2015 01:56:20.28 ThreadActor.prototype._pushThreadPause@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:577:5
+Jul 05, 2015 01:56:20.28 ThreadActor.prototype.onAttach@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/actors/script.js:694:7
+Jul 05, 2015 01:56:20.28 DSC_onPacket@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/server/main.js:1459:15
+Jul 05, 2015 01:56:20.28 LocalDebuggerTransport.prototype.send/<@resource://gre/modules/devtools/dbg-client.jsm -> resource://gre/modules/devtools/transport/transport.js:561:11
+Jul 05, 2015 01:56:20.28 makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/DevToolsUtils.js:82:14
+Jul 05, 2015 01:56:20.28 makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/devtools/DevToolsUtils.js:82:14
+Jul 05, 2015 01:56:20.28 Line: 37, column: 18
+Jul 05, 2015 01:57:50.08 W/MPEG4Extractor( 5648): Error -1004 parsing chuck at offset 0 looking for first track
+Jul 05, 2015 01:57:50.12 W/MPEG4Extractor( 5648): Error -1004 parsing chuck at offset 0 looking for first track
+Jul 05, 2015 01:59:16.69 W/MPEG4Extractor( 5648): Error -1004 parsing chuck at offset 0 looking for first track
+Jul 05, 2015 01:59:16.75 W/MPEG4Extractor( 5648): Error -1004 parsing chuck at offset 0 looking for first track
+Jul 05, 2015 01:59:16.77 W/MPEG4Extractor( 5648): Error -1004 parsing chuck at offset 0 looking for first track
+Jul 05, 2015 01:59:17.67 W/MPEG4Extractor( 5648): Error -1004 parsing chuck at offset 0 looking for first track
+Jul 05, 2015 01:59:32.42 W/MPEG4Extractor( 5648): Error -1004 parsing chuck at offset 0 looking for first track
+Jul 05, 2015 02:00:54.60 W/MPEG4Extractor( 5648): Error -1004 parsing chuck at offset 0 looking for first track
+Jul 05, 2015 02:00:54.60 W/MPEG4Extractor( 5648): Error -1004 parsing chuck at offset 0 looking for first track
+Jul 05, 2015 02:00:54.69 W/MPEG4Extractor( 5648): Error -1004 parsing chuck at offset 0 looking for first track
+Jul 05, 2015 02:00:57.90 W/MPEG4Extractor( 5648): Error -1004 parsing chuck at offset 0 looking for first track
+Jul 05, 2015 02:01:43.49 WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+Jul 05, 2015 02:01:43.49 pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+Jul 05, 2015 02:01:43.49 nsBrowserAccess.prototype.openURI@chrome://browser/content/browser.js:15459:21
+Jul 05, 2015 02:01:55.35 E/MPEG4Extractor( 5648): No width or height, assuming worst case 1080p
+Jul 05, 2015 02:04:54.61 E/MPEG4Extractor( 5648): No width or height, assuming worst case 1080p
+Jul 05, 2015 02:06:46.06 E/MPEG4Extractor( 5648): No width or height, assuming worst case 1080p
+Jul 05, 2015 02:08:07.16 E/MPEG4Extractor( 5648): No width or height, assuming worst case 1080p
+Jul 05, 2015 02:09:01.89 E/MPEG4Extractor( 5648): No width or height, assuming worst case 1080p
+Jul 05, 2015 02:10:13.60 E/MPEG4Extractor( 5648): No width or height, assuming worst case 1080p
+Jul 05, 2015 02:10:34.92 E/MPEG4Extractor( 5648): No width or height, assuming worst case 1080p
+Jul 05, 2015 02:12:28.77 E/MPEG4Extractor( 5648): No width or height, assuming worst case 1080p
+Jul 05, 2015 02:14:06.29 E/MPEG4Extractor( 5648): No width or height, assuming worst case 1080p
+Jul 05, 2015 02:18:06.54 E/MPEG4Extractor( 5648): No width or height, assuming worst case 1080p
+Jul 05, 2015 02:19:12.00 E/MPEG4Extractor( 5648): No width or height, assuming worst case 1080p
+Jul 05, 2015 02:19:54.10 E/MPEG4Extractor( 5648): No width or height, assuming worst case 1080p
+Jul 05, 2015 02:20:54.99 E/MPEG4Extractor( 5648): No width or height, assuming worst case 1080p
+Jul 05, 2015 02:21:15.92 E/MPEG4Extractor( 5648): No width or height, assuming worst case 1080p
+Jul 05, 2015 02:21:23.00 E/MPEG4Extractor( 5648): No width or height, assuming worst case 1080p
+Jul 05, 2015 02:21:23.13 E/MPEG4Extractor( 5648): No width or height, assuming worst case 1080p
+Jul 05, 2015 02:24:49.85 E/MPEG4Extractor( 5648): No width or height, assuming worst case 1080p
+Jul 05, 2015 02:25:43.52 E/MPEG4Extractor( 5648): No width or height, assuming worst case 1080p
+Jul 05, 2015 02:26:20.88 E/MPEG4Extractor( 5648): No width or height, assuming worst case 1080p
+Jul 05, 2015 02:27:14.56 E/MPEG4Extractor( 5648): No width or height, assuming worst case 1080p
+Jul 05, 2015 02:29:24.62 E/MPEG4Extractor( 5648): No width or height, assuming worst case 1080p
+Jul 05, 2015 02:31:44.40 E/MPEG4Extractor( 5648): No width or height, assuming worst case 1080p
+Jul 05, 2015 02:32:14.33 E/MPEG4Extractor( 5648): No width or height, assuming worst case 1080p
+Jul 05, 2015 02:33:51.23 E/MPEG4Extractor( 5648): No width or height, assuming worst case 1080p
+Jul 05, 2015 02:34:42.03 WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+Jul 05, 2015 02:34:42.03 pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+Jul 05, 2015 02:34:42.03 nsBrowserAccess.prototype.openURI@chrome://browser/content/browser.js:15459:21
+Jul 05, 2015 02:34:42.03 AA@https://s.ytimg.com/yts/jsbin/html5player-sr_RS-vfluFRN0m/html5player.js:499:744
+Jul 05, 2015 02:34:42.03 x8@https://s.ytimg.com/yts/jsbin/html5player-sr_RS-vfluFRN0m/html5player.js:1798:367
+Jul 05, 2015 02:34:42.03 L8@https://s.ytimg.com/yts/jsbin/html5player-sr_RS-vfluFRN0m/html5player.js:1799:145
+Jul 05, 2015 02:34:42.03 f.jr@https://s.ytimg.com/yts/jsbin/html5player-sr_RS-vfluFRN0m/html5player.js:1739:356
+Jul 05, 2015 02:34:42.03 ln/h<@https://s.ytimg.com/yts/jsbin/html5player-sr_RS-vfluFRN0m/html5player.js:201:396
+Jul 05, 2015 02:34:42.03 $f/<@https://s.ytimg.com/yts/jsbin/html5player-sr_RS-vfluFRN0m/html5player.js:72:61
+Jul 05, 2015 02:34:44.50 E/MPEG4Extractor( 5648): No width or height, assuming worst case 1080p
+Jul 05, 2015 02:34:49.59 E/MPEG4Extractor( 5648): No width or height, assuming worst case 1080p
+Jul 05, 2015 02:36:21.99 E/MPEG4Extractor( 5648): No width or height, assuming worst case 1080p
+Jul 05, 2015 02:36:32.57 E/MPEG4Extractor( 5648): No width or height, assuming worst case 1080p
+Jul 05, 2015 02:37:24.60 E/MPEG4Extractor( 5648): No width or height, assuming worst case 1080p
+Jul 05, 2015 02:38:03.49 E/MPEG4Extractor( 5648): No width or height, assuming worst case 1080p
+Jul 05, 2015 02:38:54.87 E/MPEG4Extractor( 5648): No width or height, assuming worst case 1080p
+Jul 05, 2015 02:39:31.01 WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+Jul 05, 2015 02:39:31.01 pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+Jul 05, 2015 02:39:31.02 nsBrowserAccess.prototype.openURI@chrome://browser/content/browser.js:15459:21
+Jul 05, 2015 02:39:38.39 E/MPEG4Extractor( 5648): No width or height, assuming worst case 1080p
+Jul 05, 2015 02:40:50.79 W/MPEG4Extractor( 5648): Error -1004 parsing chuck at offset 0 looking for first track
+Jul 05, 2015 02:40:50.79 W/MPEG4Extractor( 5648): Error -1004 parsing chuck at offset 0 looking for first track
+Jul 05, 2015 02:41:37.49 W/MPEG4Extractor( 5648): Error -1004 parsing chuck at offset 0 looking for first track
+Jul 05, 2015 02:42:00.76 W/MPEG4Extractor( 5648): Error -1004 parsing chuck at offset 0 looking for first track
+Jul 05, 2015 02:42:00.80 W/MPEG4Extractor( 5648): Error -1004 parsing chuck at offset 0 looking for first track
+Jul 05, 2015 02:42:30.97 W/MPEG4Extractor( 5648): Error -1004 parsing chuck at offset 0 looking for first track
+Jul 05, 2015 02:43:11.21 E/MPEG4Extractor( 5648): No width or height, assuming worst case 1080p
+Jul 05, 2015 02:43:53.09 WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+Jul 05, 2015 02:43:53.09 pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+Jul 05, 2015 02:43:53.09 nsBrowserAccess.prototype.openURI@chrome://browser/content/browser.js:15459:21
+Jul 05, 2015 02:46:54.55 W/MPEG4Extractor( 5648): Error -1004 parsing chuck at offset 0 looking for first track
+Jul 05, 2015 02:52:30.73 WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+Jul 05, 2015 02:52:30.74 pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+Jul 05, 2015 02:52:30.74 nsBrowserAccess.prototype.openURI@chrome://browser/content/browser.js:15459:21
+Jul 05, 2015 03:00:42.41 WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+Jul 05, 2015 03:00:42.41 pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+Jul 05, 2015 03:00:42.41 nsBrowserAccess.prototype.openURI@chrome://browser/content/browser.js:15459:21
+Jul 05, 2015 03:00:53.33 W/MPEG4Extractor( 5648): Error -1004 parsing chuck at offset 0 looking for first track
+Jul 05, 2015 03:00:53.38 W/MPEG4Extractor( 5648): Error -1004 parsing chuck at offset 0 looking for first track
+Jul 05, 2015 03:00:53.47 W/MPEG4Extractor( 5648): Error -1004 parsing chuck at offset 0 looking for first track
+Jul 05, 2015 03:01:48.92 W/MPEG4Extractor( 5648): Error -1004 parsing chuck at offset 0 looking for first track
+Jul 05, 2015 03:01:48.92 W/MPEG4Extractor( 5648): Error -1004 parsing chuck at offset 0 looking for first track
+Jul 05, 2015 03:01:54.31 W/MPEG4Extractor( 5648): Error -1004 parsing chuck at offset 0 looking for first track
+Jul 05, 2015 03:09:27.58 WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+Jul 05, 2015 03:09:27.58 pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.jsm:25:14
+Jul 05, 2015 03:09:27.58 nsBrowserAccess.prototype.openURI@chrome://browser/content/browser.js:15459:21
+Jul 05, 2015 03:09:27.58 il@https://mail.google.com/_/scs/mail-static/_/js/k=gmail.main.sr.WGen5Sm9xBk.O/m=m_i,t,it/am=PiMewvzf-4NYY5Bd-kjF_v33u0uKn30e_t2bAJK9APi_2f8D-D94H30hAQ/rt=h/d=1/t=zcms/rs=AHGWq9AaToKYg-aE-DQ2819N1Wt7irdapw:729:125
+Jul 05, 2015 03:09:27.58 ncb.prototype.openWindow@https://mail.google.com/_/scs/mail-static/_/js/k=gmail.main.sr.WGen5Sm9xBk.O/m=m_i,t,it/am=PiMewvzf-4NYY5Bd-kjF_v33u0uKn30e_t2bAJK9APi_2f8D-D94H30hAQ/rt=h/d=1/t=zcms/rs=AHGWq9AaToKYg-aE-DQ2819N1Wt7irdapw:1777:108
+Jul 05, 2015 03:09:27.59 ocb@https://mail.google.com/_/scs/mail-static/_/js/k=gmail.main.sr.WGen5Sm9xBk.O/m=m_i,t,it/am=PiMewvzf-4NYY5Bd-kjF_v33u0uKn30e_t2bAJK9APi_2f8D-D94H30hAQ/rt=h/d=1/t=zcms/rs=AHGWq9AaToKYg-aE-DQ2819N1Wt7irdapw:1778:247
+Jul 05, 2015 03:09:27.59 pw@https://mail.google.com/_/scs/mail-static/_/js/k=gmail.main.sr.WGen5Sm9xBk.O/m=m_i,t,it/am=PiMewvzf-4NYY5Bd-kjF_v33u0uKn30e_t2bAJK9APi_2f8D-D94H30hAQ/rt=h/d=1/t=zcms/rs=AHGWq9AaToKYg-aE-DQ2819N1Wt7irdapw:1778:57
+Jul 05, 2015 03:09:27.59 f.mK@https://mail.google.com/_/scs/mail-static/_/js/k=gmail.main.sr.WGen5Sm9xBk.O/m=m_i,t,it/am=PiMewvzf-4NYY5Bd-kjF_v33u0uKn30e_t2bAJK9APi_2f8D-D94H30hAQ/rt=h/d=1/t=zcms/rs=AHGWq9AaToKYg-aE-DQ2819N1Wt7irdapw:2597:66
+Jul 05, 2015 03:09:27.59 ML.prototype.Mg@/_/scs/mail-static/_/js/k=gmail.main.sr.WGen5Sm9xBk.O/m=sy452,sy175,sy430,sy434,sy442,sy322,sy432,sy438,sy444,sy443,sy441,sy456,sy426,sy61,sy429,sy440,sy447,sy455,sy464,sy460,sy56,sy189,sy199,sy231,sy412,sy425,sy427,sy428,sy431,sy433,sy435,sy439,sy445,sy448,sy454,sy458,sy459,sy465,sy461,sy462,sy463,sy468,cv/am=PiMewvzf-4NYY5Bd-kjF_v33u0uKn30e_t2bAJK9APi_2f8D-D94H30hAQ/rt=j/t=zcms/rs=AHGWq9AaToKYg-aE-DQ2819N1Wt7irdapw:948:426
+Jul 05, 2015 03:09:27.59 ML.prototype.LXa@/_/scs/mail-static/_/js/k=gmail.main.sr.WGen5Sm9xBk.O/m=sy452,sy175,sy430,sy434,sy442,sy322,sy432,sy438,sy444,sy443,sy441,sy456,sy426,sy61,sy429,sy440,sy447,sy455,sy464,sy460,sy56,sy189,sy199,sy231,sy412,sy425,sy427,sy428,sy431,sy433,sy435,sy439,sy445,sy448,sy454,sy458,sy459,sy465,sy461,sy462,sy463,sy468,cv/am=PiMewvzf-4NYY5Bd-kjF_v33u0uKn30e_t2bAJK9APi_2f8D-D94H30hAQ/rt=j/t=zcms/rs=AHGWq9AaToKYg-aE-DQ2819N1Wt7irdapw:945:346
+Jul 05, 2015 03:09:27.59 vda@https://mail.google.com/_/scs/mail-static/_/js/k=gmail.main.sr.WGen5Sm9xBk.O/m=m_i,t,it/am=PiMewvzf-4NYY5Bd-kjF_v33u0uKn30e_t2bAJK9APi_2f8D-D94H30hAQ/rt=h/d=1/t=zcms/rs=AHGWq9AaToKYg-aE-DQ2819N1Wt7irdapw:91:464
+Jul 05, 2015 03:09:27.59 qda@https://mail.google.com/_/scs/mail-static/_/js/k=gmail.main.sr.WGen5Sm9xBk.O/m=m_i,t,it/am=PiMewvzf-4NYY5Bd-kjF_v33u0uKn30e_t2bAJK9APi_2f8D-D94H30hAQ/rt=h/d=1/t=zcms/rs=AHGWq9AaToKYg-aE-DQ2819N1Wt7irdapw:92:459
+Jul 05, 2015 03:09:27.59 lfa/<@https://mail.google.com/_/scs/mail-static/_/js/k=gmail.main.sr.WGen5Sm9xBk.O/m=m_i,t,it/am=PiMewvzf-4NYY5Bd-kjF_v33u0uKn30e_t2bAJK9APi_2f8D-D94H30hAQ/rt=h/d=1/t=zcms/rs=AHGWq9AaToKYg-aE-DQ2819N1Wt7irdapw:156:256
+Jul 05, 2015 03:09:27.59 de.prototype.ha/c@https://mail.google.com/_/scs/mail-static/_/js/k=gmail.main.sr.WGen5Sm9xBk.O/m=m_i,t,it/am=PiMewvzf-4NYY5Bd-kjF_v33u0uKn30e_t2bAJK9APi_2f8D-D94H30hAQ/rt=h/d=1/t=zcms/rs=AHGWq9AaToKYg-aE-DQ2819N1Wt7irdapw:153:134
+Jul 05, 2015 03:09:27.59 oda/b<@https://mail.google.com/_/scs/mail-static/_/js/k=gmail.main.sr.WGen5Sm9xBk.O/m=m_i,t,it/am=PiMewvzf-4NYY5Bd-kjF_v33u0uKn30e_t2bAJK9APi_2f8D-D94H30hAQ/rt=h/d=1/t=zcms/rs=AHGWq9AaToKYg-aE-DQ2819N1Wt7irdapw:89:67
+
+Jul 06, 2015 05:20:30.27 NEW SESSION
+Jul 06, 2015 05:20:30.27 [GFX1-]: [D2D1.1] 4CreateBitmap failure Size(28,25287) Code: 0x80070057
+Jul 06, 2015 05:20:30.32 [GFX1-]: [D2D1.1] 4CreateBitmap failure Size(28,25287) Code: 0x80070057
+Jul 06, 2015 05:31:55.71 [GFX1-]: [D2D1.1] 4CreateBitmap failure Size(28,25287) Code: 0x80070057

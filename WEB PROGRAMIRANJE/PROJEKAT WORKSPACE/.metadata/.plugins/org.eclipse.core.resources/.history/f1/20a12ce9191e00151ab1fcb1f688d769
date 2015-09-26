@@ -1,0 +1,9 @@
+$(document).ready(function(){
+	var id = $("#user_id").val();
+	if(id==""){
+		$(location).attr('href','izborUloga.jsp');
+	}
+	
+	
+	
+});

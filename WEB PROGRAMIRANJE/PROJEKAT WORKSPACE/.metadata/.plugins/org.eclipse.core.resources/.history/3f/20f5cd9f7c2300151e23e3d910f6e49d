@@ -1,0 +1,46 @@
+$(document).ready(function () {
+                
+				$('#startDate').datepicker({
+                    format: "dd/mm/yyyy"
+                });  
+                
+                $('#endDate').datepicker({
+                    format: "dd/mm/yyyy"
+                });  
+                
+                $("#izvestaj_dugme").click(function(){
+                	
+                	var startDate = $("#startDate").val();
+                	var endDate = $("#endDate").val();
+                	var category = $("#category").val();
+                	
+                	$.ajax({
+                        type: "POST",
+                        url:"GetReportServlet",   // this is my servlet
+                        data:{"startDate":startDate,
+                        	"endDate":endDate,
+                        	"category":category},
+                    	dataType: 'json',
+                        success: function (data) {
+                        	for(var i = 0;i < data.length;i++){
+                        		$.each(data[i], function(key, value){
+                        			$("#za_tabele").append("<h3>Izvestaj za datum: "+key+"</h3>");
+                        			$("#za_tabele").append("<br><br>");
+                        			for(var j = 0; j< value.length;j++){
+                        				$.each(value[j],function(kljuc,vrednost){
+                        					$("#za_tabele").append("<p>Izvestaj za salon: "+kljuc+"</p><br>");
+                        					for(var k = 0; k < vrednost.length;k++){
+                        						alert(JSON.stringify(vrednost[k]));
+                        					}
+                        					
+                        				});
+                        			}
+                        		});
+                        	}
+                        }
+                    });
+                	
+                	
+                });
+                
+});

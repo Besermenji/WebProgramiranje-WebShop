@@ -1,0 +1,83 @@
+package beans;
+
+import static org.fusesource.leveldbjni.JniDBFactory.*;
+
+import java.io.*;
+
+import org.apache.commons.lang3.SerializationUtils;
+import org.iq80.leveldb.*;
+import org.json.simple.JSONArray;
+import org.json.simple.JSONObject;
+import org.json.simple.parser.JSONParser;
+import org.json.simple.parser.ParseException;
+
+public class dbPlay {
+
+@SuppressWarnings("unchecked")
+public void createUser(User u){
+		
+		JSONObject userJSON = new JSONObject();
+		userJSON.put("username", u.getUsername());
+		userJSON.put("password", u.getPassword());
+		userJSON.put("name", u.getName());
+		userJSON.put("surname", u.getSurname());
+		userJSON.put("phone", u.getPhone());
+		userJSON.put("email", u.getEmail());
+		userJSON.put("role", u.getRole());
+		userJSON.put("loggedIn", u.getLoggedIn());
+	
+		Options o = new Options();
+		o.createIfMissing(true);
+		try {
+			DB db = factory.open(new File("Users"), o);
+			db.put(bytes(u.getUsername()),bytes(userJSON.toJSONString()));
+			db.close();
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+			return;
+		}		
+	}
+
+public boolean isHeRealUser(String username, String password,String role) throws ParseException{
+	
+	Options o = new Options();
+	//byte[] uname_bytes = username.getBytes();
+
+	try {
+		DB db = factory.open(new File("Users"), o);
+		String val = asString(db.get(bytes(username)));
+		db.close();
+
+		if(val.equals(null)){
+			return false;
+			}
+		else {
+			JSONParser pars = new JSONParser();
+			JSONObject user = (JSONObject) pars.parse(val);
+			if(user.get("username").equals(username)&&user.get("password").equals(password)){
+				return true;
+			
+			}
+			else{
+				return false;
+			}
+		}
+	}
+		 catch (IOException e) {
+		
+		// TODO Auto-generated catch block
+		e.printStackTrace();
+		
+		return false;
+	}
+	catch (IllegalArgumentException ex) {
+		// TODO Auto-generated catch block
+		ex.printStackTrace();
+
+		return false;
+	}
+}
+	
+	
+}

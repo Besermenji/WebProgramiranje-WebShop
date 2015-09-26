@@ -1,0 +1,27 @@
+$(document).ready(function(){
+	 $.ajax({
+			type:"POST",
+			url:"BasketServlet",
+			data:{
+				"type":"init",
+				"user":$("#user_id").val()
+			},
+			dataType: 'json',
+			success: function(data){
+				
+				//ubacivanje kupca u listu
+				var buyer = JSON.stringify(data[0].buyer);
+				buyer = buyer.substring(1,buyer.length-1);
+			    $('#buyer').text(buyer);
+				
+			    //ubacivanje poreza
+			    var taxes = JSON.stringify(data[1].taxes);
+			    taxes = taxes.substring(1, taxes.length-1);
+			    $("#taxes").text(taxes);
+			
+			
+			
+			}
+			
+		});
+});

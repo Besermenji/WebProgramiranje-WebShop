@@ -1,0 +1,55 @@
+$(document).ready(function(){
+                        
+				$('#dugme').click(function(e)
+                        {   
+                        	e.preventDefault();
+                        	var name=$('#name').val();
+                            var description  =$("#description").val();
+                            var inWhatCategory =$("#inWhatCategory").val();
+                        	
+					if(!$("form").smkValidate()){
+						
+					}
+					else if(name == inWhatCategory){
+						$.smkAlert({text:'Kategorija ne moze biti parent sama sebi', type:'warning'});
+					}
+ 						
+					
+					else{
+
+						
+                            /*var name=$('#name').val();
+                            var description  =$("#description").val();
+                            var inWhatCategory =$("#inWhatCategory").val();*/
+                        	
+                            
+                            $.ajax({
+                                type: "POST",
+                                url:"CategoryStartServlet",   // this is my servlet
+                                data:{
+                                	"name":name,
+                                	"description":description,
+                                	"inWhatCategory":inWhatCategory
+                                	},
+                                	dataType: 'json',
+                                success: function (data) {
+                                	$('#inWhatCategory').append( new Option(data.id,data.id) );
+                                	$.smkConfirm({
+                            		    text: 'Dodaj jos koji salon?',
+                            		    accept: 'Da',
+                            		    cancel: 'Ne'
+                            		  }, function(e) {
+                            		    if (e) {
+                            		    	$('form').smkClear();
+                            		      $.smkAlert({
+                            		        text: 'Unesite podatke salona!',
+                            		        type: 'success'
+                            		      });
+                            		    }else{$(location).attr("href","kategorijaStartPage.jsp");}
+                            		  });
+                                    
+                                }
+                            });
+					}
+                        });
+                    });

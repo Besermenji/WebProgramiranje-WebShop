@@ -1,0 +1,21 @@
+package beans;
+
+import org.json.simple.parser.ParseException;
+
+public class userAddClass {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		User u = new User("Admin", "admin","adil","madil","ADMIN","a","a",false);
+		dbPlay db = new dbPlay();
+		db.createUser(u);
+		
+		/*try {
+			System.out.println(db.isHeRealUser("Admin", "admin", "ADMIN"));
+		} catch (ParseException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}*/
+	}
+
+}

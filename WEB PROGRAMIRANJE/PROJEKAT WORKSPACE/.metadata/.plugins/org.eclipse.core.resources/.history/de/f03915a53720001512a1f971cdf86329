@@ -1,0 +1,11 @@
+package beans;
+
+import java.io.Serializable;
+import java.util.ArrayList;
+
+public class Report implements Serializable{
+	ArrayList<Reciept> reciepts;
+	ArrayList<Product> products;
+	
+
+}

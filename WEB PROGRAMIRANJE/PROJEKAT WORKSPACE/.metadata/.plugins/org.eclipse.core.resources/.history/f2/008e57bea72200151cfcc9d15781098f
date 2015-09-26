@@ -1,0 +1,212 @@
+package servlets;
+
+import java.io.IOException;
+import java.util.ArrayList;
+
+import javax.servlet.RequestDispatcher;
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+import org.json.simple.parser.ParseException;
+
+import beans.Product;
+import beans.Salon;
+import beans.dbPlay;
+
+/**
+ * Servlet implementation class ProductStartServlet
+ */
+@WebServlet(asyncSupported = true, urlPatterns = { "/ProductStartServlet" })
+public class ProductStartServlet extends HttpServlet {
+	private static final long serialVersionUID = 1L;
+       
+    /**
+     * @see HttpServlet#HttpServlet()
+     */
+    public ProductStartServlet() {
+        super();
+        // TODO Auto-generated constructor stub
+    }
+
+	/**
+	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
+	 */
+	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		// TODO Auto-generated method stub
+	}
+
+	/**
+	 * @see HttpServlet#doPost(HttpServletRequest request, HttpServletResponse response)
+	 */
+	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		// TODO Auto-generated method stub
+		//dodavanje salona 
+				
+		String code = request.getParameter("code");
+		String name = request.getParameter("name");
+    	String color = request.getParameter("color");
+    	String origin = request.getParameter("origin");
+    	String producer = request.getParameter("producer");
+    	String price = request.getParameter("price");
+    	String quantity = request.getParameter("quantity");
+    	String category = request.getParameter("category");
+    	String productionYear = request.getParameter("productionYear");
+    	String salon = request.getParameter("salon");
+    	String picture = request.getParameter("picture");
+    	String video = request.getParameter("video");
+    	String action = request.getParameter("action");
+    	String startDate = request.getParameter("startDate");
+    	String endDate = request.getParameter("endDate");
+    	String percent = request.getParameter("percent");
+    	String freeService = request.getParameter("freeService");
+    	
+    	//pracenje korisnika
+    	String user = request.getParameter("user_id");
+    	
+		    	//brisanje salona
+		    	String id = request.getParameter("id");
+		    	String tip = request.getParameter("tip");
+		    	//vezano za izmenu
+		    	String izmena = request.getParameter("salonButtonIzmeni");
+		    	
+		    	
+		    
+		    	
+				dbPlay db = new dbPlay();
+			if(tip != null){	
+				if(tip.equals("kategorija")){
+					ArrayList<Product> prod = db.getProductList();
+					for(int i = 0; i < prod.size();i++){
+						if(prod.get(i).getCategory().equals(category)){
+							prod.get(i).setAction(action);
+							prod.get(i).setStartDate(startDate);
+							prod.get(i).setEndDate(endDate);
+							prod.get(i).setPercent(percent);
+							db.updateProduct(prod.get(i));
+						}
+						
+					}
+					response.getWriter().write("True "+user);
+
+					return;
+
+					
+				}
+				else if(tip.equals("namestaj")){
+					Product p = db.getProduct(category);
+					p.setAction(action);
+					p.setStartDate(startDate);
+					p.setEndDate(endDate);
+					p.setPercent(percent);
+					db.updateProduct(p);
+					response.getWriter().write("True "+user);
+
+					return;
+
+					
+				}
+				}
+				
+				
+				
+				if(izmena != null){
+					Product p = new Product();
+					p.setCode(code);
+					p.setName(name);
+					p.setAction(action);
+					p.setCategory(category);
+					p.setColor(color);
+					p.setEndDate(endDate);
+					p.setFreeService(freeService);
+					p.setOrigin(origin);
+					p.setPercent(percent);
+					p.setPicture(picture);
+					p.setPrice(price);
+					p.setProducer(producer);
+					p.setProductionYear(productionYear);
+					p.setQuantity(quantity);
+					p.setSalon(salon);
+					p.setStartDate(startDate);
+					p.setVideo(video);
+					db.updateProduct(p);
+					
+					
+					ArrayList<Product> products = db.getProductList();
+					request.getSession().setAttribute("products", products);
+					ArrayList<String> prices = db.getCurrentPrices(products);
+		    		request.getSession().setAttribute("prices", prices);
+					request.getSession().setAttribute("user", user);
+
+					RequestDispatcher disp = request.getRequestDispatcher("productStartPage.jsp");
+					disp.forward(request, response);
+					return;
+					
+									
+				}
+		    	try{
+				if(tip.equals("brisanje")){
+		    		//kod za biranje salona ovde;
+		    		db.deleteEntery(id, "Products");
+		    		ArrayList<Product> products = db.getProductList();
+		    		ArrayList<String> prices = db.getCurrentPrices(products);
+		    		request.setAttribute("user", user);
+		    		request.getSession().setAttribute("prices", prices);
+					request.getSession().setAttribute("products", products);
+					response.getWriter().write("True");
+					return;
+		    	}
+		    	}
+		    	catch(NullPointerException ex){
+		    		
+		    	}
+				
+				try {
+					if(!code.equals(null)){
+						//Salon s = new Salon(name,adress,phone,email,www,pib,mb,bzr);
+						Product p = new Product();
+						p.setCode(code);
+						p.setName(name);
+						p.setAction(action);
+						p.setCategory(category);
+						p.setColor(color);
+						p.setEndDate(endDate);
+						p.setFreeService(freeService);
+						p.setOrigin(origin);
+						p.setPercent(percent);
+						p.setPicture(picture);
+						p.setPrice(price);
+						p.setProducer(producer);
+						p.setProductionYear(productionYear);
+						p.setQuantity(quantity);
+						p.setSalon(salon);
+						p.setStartDate(startDate);
+						p.setVideo(video);
+						db.createProduct(p);
+						ArrayList<Product> products = db.getProductList();
+						request.getSession().setAttribute("products", products);
+						request.getSession().setAttribute("user", user);
+
+						//RequestDispatcher disp = request.getRequestDispatcher("salonStartPage.jsp");
+						//disp.forward(request, response);
+						response.getWriter().write("True "+user);
+						return;
+						
+						
+					}
+				} catch (NullPointerException np){}
+		    	
+				ArrayList<Product> products = db.getProductList();
+				request.getSession().setAttribute("products", products);
+				ArrayList<String> prices = db.getCurrentPrices(products);
+	    		request.getSession().setAttribute("prices", prices);
+	    		request.getSession().setAttribute("user", user);
+				
+				RequestDispatcher disp = request.getRequestDispatcher("productStartPage.jsp");
+				disp.forward(request, response);
+				
+	}
+
+}

@@ -1,0 +1,17 @@
+1434922760154	Move 'RELEASE-NOTES' to 'WebContent'
+1434922761222	Move 'izborUloga.jsp' to 'WebShop'
+1434922767840	Move 'RELEASE-NOTES' to 'WebShop'
+1434922790369	Move 'izborUloga.jsp' to 'WebContent'
+1434996787794	Move file
+1435010396442	Delete element
+1435147716574	Delete element
+1435184711226	Move 'changeCategory.jsp' to 'WebContent'
+1435246985751	Encapsulate field 'freeService'
+1435260278089	Rename type 'Bonus'
+1435260377671	Rename type 'Services'
+1435352647941	Move file
+1435367436877	Move 'addProductScripts.js' to 'WebContent'
+1435367465489	Move 'addProductScripts.js' to 'js'
+1435374932199	Rename type 'InitSearchServlet'
+1435383051250	Delete element
+1435439753669	Delete element

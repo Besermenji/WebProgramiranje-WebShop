@@ -1,0 +1,384 @@
+<!DOCTYPE jsp:useBean PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!-- iz dbPlay apdejtujemo kombo boxeve -->
+<jsp:useBean id="db" class="beans.dbPlay" />
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Pocetna - administrator</title>
+
+    <meta name="description" content="Source code generated using layoutit.com">
+    <meta name="author" content="LayoutIt!">
+
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+	<link href="css/smoke.min.css" rel="stylesheet">
+    <link href="css/adminStartStyle.css" rel="stylesheet">
+	
+	<script src="js/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="js/smoke.min.js"></script>
+    <script src="js/adminStartScripts.js"></script>
+   	<script type="text/javascript" src="js/loginCheckScript.js"></script> 
+
+  </head>
+  <body>
+	<input type="hidden" id="user_id" value="${param.user}${u}"></input>
+    <div class="container-fluid">
+	<div class="row">
+		<div class="col-md-12">
+			<h2 class="text-info">
+			Black Magic Woman - PRODAVNICA NAMESTAJA
+			</h2>
+		</div>
+		
+	</div>
+	<br>
+	<br>
+	<br>
+	
+	<div class="row">
+		<div class="col-md-12">
+			<div class="row">
+				<div class="col-md-8">
+					<div class="btn-group">
+						<form id="saloni_form" action="SalonStartServlet" method="post">
+							<input type="hidden" name="user_id" value="${param.user}"></input>
+						</form>
+						<form id="kategorije_form" action="CategoryStartServlet" method="post">
+							<input type="hidden" name="user_id" value="${param.user}"></input>
+						</form>
+						<form id="namestaj_form" action="ProductStartServlet" method="post">
+							<input type="hidden" name="user_id" value="${param.user}"></input>
+						</form>
+						<form id="servisi_form" action="ServiceStartServlet" method="post">
+							<input type="hidden" name="user_id" value="${param.user}"></input>
+						</form>
+						<form id="kategorija_akcija_form" action="AddCategoryActionServlet" method="post">
+							<input type="hidden" name="user_id" value="${param.user}"></input>
+						</form>
+						
+						<button id="rad_saloni" class="btn btn-default" type="submit" form="saloni_form">
+							 Rad sa salonima
+						</button> 
+						<button id="rad_kategorije"  class="btn btn-default" type="submit" form="kategorije_form">
+							 Rad sa kategorijom namestaja
+						</button> 
+						<button id="rad_namestaj" class="btn btn-default" type="submit" form="namestaj_form">
+							 Rad sa namestajem
+						</button> 
+						<button id="rad_dodatno" class="btn btn-default" type="submit" form="servisi_form">
+							 Rad sa dodatnim uslugama
+						</button>
+						<button id="akcija_kategorija" class="btn btn-default" type="submit" form="kategorija_akcija_form">
+							 Dodavanje akcije kategoriji
+						</button>
+					</div>
+				</div>
+				<div class="col-md-4">
+					 
+					<button id="logout_dugme" type="button" class="btn btn-default pull-right">
+						Odjava sa sistema
+					</button>
+				</div>
+			</div>
+			<br>
+			<h4 class="text-info">Pretraga namestaja</h4>
+			<nav class="navbar navbar-default" role="navigation">
+				
+				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+					<ul class="nav navbar-nav">
+						<li>
+							<form class="navbar-form navbar-left" role="search">
+								<div class="form-group">
+									<input id="namestaj_name" class="form-control"  placeholder="Unesite naziv namestaja" type="text">
+								</div> 
+							</form>
+						</li>
+						
+						<li class="dropdown">
+							 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Opseg cene<strong class="caret"></strong></a>
+							<ul class="dropdown-menu">
+								<li>
+									<form action="[YOUR ACTION]" method="post" accept-charset="UTF-8">
+									  <input smk-type="number" id="min_cena" style="margin-bottom: 15px;" type="text" placeholder="Min cena" size="30" />
+									  <input smk-type="number" id="max_cena" style="margin-bottom: 15px;" type="text" placeholder="Max cena" size="30" />
+									  <br>
+									  <div class="form-group">
+									  <label class="col-md-4 control-label" for="button_cena"></label>
+									  <div class="col-md-4">
+										<button id="button_cena" type="button" name="button_cena" class="btn btn-default">Postavi</button>
+									  </div>
+									</div>
+									</form>
+
+								</li>
+								
+							</ul>
+						</li>
+						
+						<li class="dropdown">
+							 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Opseg kolicine<strong class="caret"></strong></a>
+							<ul class="dropdown-menu">
+								<li>
+									<form action="[YOUR ACTION]" method="post" accept-charset="UTF-8">
+									  <input smk-type="number" id="min_kolicina" style="margin-bottom: 15px;" type="text" placeholder="Min kolicina" size="30" />
+									  <input smk-type="number" id="max_kolicina" style="margin-bottom: 15px;" type="text" placeholder="Max kolicina" size="30" />
+									  <br>
+									  <div class="form-group">
+									  <label class="col-md-4 control-label" for="button_kolicina"></label>
+									  <div class="col-md-4">
+										<button id="button_kolicina" type="button" name="button_cena" class="btn btn-default">Postavi</button>
+									  </div>
+									</div>
+									</form>
+
+								</li>
+								
+							</ul>
+						</li>
+						
+						<li class="dropdown">
+							 <form class="navbar-form navbar-left" role="search">
+								<div class="form-group">  
+				  					<div>
+				          				<select id="kategorijeDD" name="kategorijeDD" class="form-control">
+											<option value="">Sve kategorije</option>
+							
+										</select>
+ 
+				 				 </div>
+
+								</div> 
+							</form>						
+
+						</li>
+						
+						<li >
+							<form class="navbar-form navbar-left" role="search">
+								<div class="form-group">  
+				  					<div>
+				          				<select id="zemljeDD" name="zemljeDD" class="form-control">
+											<option value="">Sve zemlje</option>
+							
+										</select>
+ 
+				 				 </div>
+
+								</div> 
+							</form>						
+						</li>
+						
+						<li class="dropdown">
+							 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Godina proizvodnje<strong class="caret"></strong></a>
+							<ul class="dropdown-menu">
+								<li>
+									<form action="[YOUR ACTION]" method="post" accept-charset="UTF-8">
+									  <input smk-type="number" id="min_godina" style="margin-bottom: 15px;" type="text" placeholder="Min godina" size="30" />
+									  <input smk-type="number" id="max_godina" style="margin-bottom: 15px;" type="text" placeholder="Max godina" size="30" />
+									  <br>
+									  <div class="form-group">
+									  <label class="col-md-4 control-label" for="button_cena"></label>
+									  <div class="col-md-4">
+										<button id="button_godina" type="button" name="button_cena" class="btn btn-default">Postavi</button>
+									  </div>
+									</div>
+									</form>
+
+								</li>
+								
+							</ul>
+						</li>
+						
+						<li class="dropdown">
+							 <form class="navbar-form navbar-left" role="search">
+								<div class="form-group">  
+				  					<div>
+				          				<select id="bojeDD" name="bojeDD" class="form-control">
+											<option value="">Sve boje</option>
+							
+										</select>
+ 
+				 				 </div>
+
+								</div> 
+							</form>						
+
+						</li>
+						
+						<li class="dropdown">
+							 <form class="navbar-form navbar-left" role="search">
+								<div class="form-group">  
+				  					<div>
+				          				<select id="producersDD" name="producersDD" class="form-control">
+											<option value="">Svi proizvodjaci</option>
+							
+										</select>
+ 
+				 				 </div>
+
+								</div> 
+							</form>						
+
+						</li>
+						
+						 
+				
+						
+					</ul>
+					
+					<ul>
+						<li>
+							<form class="navbar-form navbar-left" role="search">
+							
+								<button id="pretraga_namestaj" type="button" class="btn btn-default">
+									Pretraga
+								</button>
+							</form>
+						</li>	
+					</ul>
+				
+				</div>
+				
+			</nav>
+			<br>
+			<h4 class="text-info">Pretraga dodatnih usluga</h4>
+			<nav class="navbar navbar-default" role="navigation">
+				
+				<!-- UNOS IMENA DODATNOG SERVISA -->
+				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+					<ul class="nav navbar-nav">
+						<li>
+							<form class="navbar-form navbar-left" role="search">
+								<div class="form-group">
+									<input id="serviceName" class="form-control"  placeholder="Naziv usluge" type="text">
+								</div> 
+							</form>
+						</li>
+						
+					</ul>
+					
+					<ul class="nav navbar-nav">
+						<li>
+							<form class="navbar-form navbar-left" role="search">
+								<div class="form-group">
+									<input id="serviceDescription" class="form-control"  placeholder="Opis usluge" type="text">
+								</div> 
+							</form>
+						</li>
+						
+					</ul>
+					
+					
+					
+					<ul>
+						<li>
+							<form class="navbar-form navbar-left" role="search">
+							
+								<button id="pretraga_usluga" type="button" class="btn btn-default">
+									Pretraga
+								</button>
+							</form>
+						</li>	
+					</ul>
+					
+					
+					
+				</div>
+				
+			</nav>
+			
+			
+			<table id="prikaz_namestaj" class="table table-hover">
+				<thead>
+					<tr>
+						<th>
+							Sifra
+						</th>
+						<th>
+							Slika
+						</th>
+						<th>
+							Naziv
+						</th>
+						<th>
+							Boja
+						</th>
+						<th>
+							Zemlja proizvodnje
+						</th>
+						<th>
+							Naziv proizvodjaca
+						</th>
+						<th>
+							Akcija
+						</th>
+						<th>
+							Pocetak akcije
+						</th>
+						<th>
+							Kraj akcije
+						</th>
+						<th>
+							Popust u procentima
+						</th>
+						<th>
+							Cena
+						</th>
+						<th>
+							Kolicina na lageru
+						</th>
+						<th>
+							Besplatna usluga
+						</th>
+
+						<th>
+							Kategorija namestaja
+						</th>
+						<th>
+							Godina proizvodnje
+						</th>
+						<th>
+							Prodajni salon
+						</th>
+						<th>
+							Youtube Video
+						</th>
+						
+
+						
+					</tr>
+
+				</thead>
+				<tbody id="namestaj_bodi">
+					
+				</tbody>
+			</table>
+				
+				
+				<table id="prikaz_usluga" class="table table-hover">
+				<thead>
+					<tr>
+						<th>
+							Ime
+						</th>
+						<th>
+							Opis
+						</th>
+						<th>
+							Cena
+						</th>
+					</tr>
+				</thead>
+				<tbody id="usluge_bodi">
+					
+				</tbody>
+			</table>
+			
+			
+		</div>
+	</div>
+</div>
+</body>
+</html>

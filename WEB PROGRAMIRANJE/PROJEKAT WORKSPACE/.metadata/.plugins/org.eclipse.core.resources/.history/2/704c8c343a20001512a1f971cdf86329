@@ -1,0 +1,37 @@
+package beans;
+
+import java.io.Serializable;
+import java.util.ArrayList;
+
+public class Report implements Serializable{
+	ArrayList<Reciept> reciepts;
+	ArrayList<Product> products;
+	
+	
+	public ArrayList<Reciept> getReciepts() {
+		return reciepts;
+	}
+	
+	public void addReciept(Reciept rec){
+		this.reciepts.add(rec);
+	}
+	
+	public void setReciepts(ArrayList<Reciept> reciepts) {
+		this.reciepts = reciepts;
+	}
+	
+	public ArrayList<Product> getProducts() {
+		return products;
+	}
+	
+	public void addProduct(Product p){
+		this.products.add(p);
+	}
+	
+	public void setProducts(ArrayList<Product> products) {
+		this.products = products;
+	}
+	
+	
+
+}

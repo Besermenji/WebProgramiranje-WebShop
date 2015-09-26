@@ -1,0 +1,142 @@
+<!DOCTYPE jsp:useBean PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<!-- iz dbPlay apdejtujemo kombo boxeve -->
+<jsp:useBean id="db" class="beans.dbPlay" />
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Pocetna - administrator</title>
+
+    <meta name="description" content="Source code generated using layoutit.com">
+    <meta name="author" content="Besermenji" >
+
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+	<link href="css/smoke.min.css" rel="stylesheet">
+    <link href="css/adminStartStyle.css" rel="stylesheet">
+	
+	<script src="js/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="js/smoke.min.js"></script>
+    <script src="js/reportPageScripts.js"></script>
+   	<script type="text/javascript" src="js/loginCheckScript.js"></script> 
+
+  </head>
+  <body>
+	<input type="hidden" id="user_id" value="${user}"></input>
+    <div class="container-fluid">
+	<div class="row">
+		<div class="col-md-12">
+			<h2 class="text-info">
+			Black Magic Woman - PRODAVNICA NAMESTAJA
+			</h2>
+		</div>
+		
+	</div>
+	<br>
+	<br>
+	<br>
+	
+	<div class="row">
+		<div class="col-md-12">
+			<div class="row">
+				<div class="col-md-8">
+					
+				</div>
+				<div class="col-md-4">
+					 
+					<form  id="back" method="get" action="managerStartPage.jsp">
+						 		<input type="hidden" name="user" value="${user}"></input>
+						 </form>
+						<button id="bbb" class="btn btn-default" type="submit" form="back">
+							 Pocetna admin strana
+						</button>
+				</div>
+			</div>
+			<br>
+			<br>
+			<h4 class="text-info">Pretraga izvestaja</h4>
+			<nav class="navbar navbar-default" role="navigation">
+				
+				<!-- UNOS IMENA DODATNOG SERVISA -->
+				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+					
+					<ul class="nav navbar-nav">
+						<li>
+							<form class="navbar-form navbar-left" role="search">
+								<div class="form-group">  
+				  				<div>
+				         		<select id="category" name="category" class="form-control" required>
+									<option value="">Izaberite kategoriju</option>
+										<c:forEach items="${category}" var="k">
+							
+									<option value="${k.name}">${k.name}</option>
+							
+										</c:forEach>
+							
+									</select>
+ 
+				  				</div>
+
+							</form>
+						</li>
+						
+					</ul>
+										
+					
+					
+					<ul class="nav navbar-nav">
+						<li>
+							<form class="navbar-form navbar-left" role="search">
+								<div class="form-group">
+									<input id="startDate" class="form-control"  placeholder="Pocetni datum" type="text">
+								</div> 
+							</form>
+						</li>
+						
+					</ul>
+					
+					<ul class="nav navbar-nav">
+						<li>
+							<form class="navbar-form navbar-left" role="search">
+								<div class="form-group">
+									<input id="endDate" class="form-control"  placeholder="Krajnji datum" type="text">
+								</div> 
+							</form>
+						</li>
+						
+					</ul>
+					
+					
+					
+					<ul>
+						<li>
+							<form class="navbar-form navbar-left" role="search">
+							
+								<button id="izvestaj_dugme" type="button" class="btn btn-default">
+									Generisi izvestaje
+								</button>
+							</form>
+						</li>	
+					</ul>
+					
+					
+					
+				</div>
+				
+			</nav>
+			
+			<div class="row">
+				<div id="za_tabele" class="col-md-12">
+				</div>
+			</div>
+			
+			
+			
+				
+		</div>
+	</div>
+</div>
+</body>
+</html>
